@@ -1,0 +1,1223 @@
+[2018-02-25 16:25:32] 同步验签失败: partner=2088511580474070 seller_email=yundai@hzit.com key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 16:25:43] 异步通知验签失败: partner= seller_email= key= out_trade_no=20935420180225162530 trade_status=TRADE_SUCCESS
+
+[2018-02-25 16:25:44] 同步验签失败: partner=2088511580474070 seller_email=yundai@hzit.com key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 16:26:44] 同步验签失败: partner=2088511580474070 seller_email=yundai@hzit.com key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 16:29:34] 异步通知验签失败: partner= seller_email= key= out_trade_no=20935420180225162530 trade_status=TRADE_SUCCESS
+
+[2018-02-25 16:33:03] 异步通知验签失败: partner= seller_email= key= out_trade_no=80391820180225160901 trade_status=TRADE_SUCCESS
+
+[2018-02-25 16:39:29] 异步通知验签失败: partner= seller_email= key= out_trade_no=20935420180225162530 trade_status=TRADE_SUCCESS
+
+[2018-02-25 16:41:50] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c getSignVeryfy: prestr=_URL_=Array
+
+verifyReturn[2018-02-25 16:41:50] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c responseTxt=[false][0] isSign=[false]
+[2018-02-25 16:41:50] 同步验签失败: partner=2088511580474070 seller_email=yundai@hzit.com key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 16:41:58] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c getSignVeryfy: prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 16:41:57&gmt_payment=2018-02-25 16:41:58&is_total_fee_adjust=N&notify_id=cb723206141bda3501c752cc4143ef3h31&notify_time=2018-02-25 16:41:58&notify_type=trade_status_sync&out_trade_no=51971720180225164148&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140568362854&trade_status=TRADE_SUCCESS&use_coupon=N
+
+[2018-02-25 16:41:58] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c getResponse: veryfy_url=http://notify.alipay.com/trade/notify_query.do?partner=2088511580474070&notify_id=cb723206141bda3501c752cc4143ef3h31
+
+verifyNotify[2018-02-25 16:41:58] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c responsetTxt=[true][1] isSign=[true]
+[2018-02-25 16:42:01] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c getSignVeryfy: prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcMqbax5%2FaQYhwmazIo5%2FgiI%2B%2BQmMObRWa6wpBuTefwHA%2Br&notify_time=2018-02-25 16:42:01&notify_type=trade_status_sync&out_trade_no=51971720180225164148&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140568362854&trade_status=TRADE_SUCCESS
+
+[2018-02-25 16:42:01] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c getResponse: veryfy_url=http://notify.alipay.com/trade/notify_query.do?partner=2088511580474070&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcMqbax5%2FaQYhwmazIo5%2FgiI%2B%2BQmMObRWa6wpBuTefwHA%2Br
+
+verifyReturn[2018-02-25 16:42:01] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c responseTxt=[true][1] isSign=[false]
+[2018-02-25 16:42:01] 同步验签失败: partner=2088511580474070 seller_email=yundai@hzit.com key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=51971720180225164148 trade_status=TRADE_SUCCESS
+
+[2018-02-25 16:45:39] key= getSignVeryfy: prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 15:21:26&gmt_payment=2018-02-25 15:21:27&is_total_fee_adjust=N&notify_id=fa50bc482e90f296cae7d404d504a87h31&notify_time=2018-02-25 16:45:39&notify_type=trade_status_sync&out_trade_no=95793720180225152051&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140567836934&trade_status=TRADE_SUCCESS&use_coupon=N
+
+[2018-02-25 16:45:39] key= getResponse: veryfy_url=http://notify.alipay.com/trade/notify_query.do?partner=&notify_id=fa50bc482e90f296cae7d404d504a87h31
+
+verifyNotify[2018-02-25 16:45:39] key= responsetTxt=[invalid�����������][0] isSign=[false]
+[2018-02-25 16:49:43] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c getSignVeryfy: prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 16:25:42&gmt_payment=2018-02-25 16:25:42&is_total_fee_adjust=N&notify_id=561e7f506cb39f36f2e93755c174b61h31&notify_time=2018-02-25 16:49:43&notify_type=trade_status_sync&out_trade_no=20935420180225162530&payment_type=1&price=0.02&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.02&trade_no=2018022521001004140568099335&trade_status=TRADE_SUCCESS&use_coupon=N
+
+[2018-02-25 16:49:43] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c getResponse: veryfy_url=http://notify.alipay.com/trade/notify_query.do?partner=2088511580474070&notify_id=561e7f506cb39f36f2e93755c174b61h31
+
+verifyNotify[2018-02-25 16:49:43] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c responsetTxt=[true][1] isSign=[true]
+getSignVeryfy[2018-02-25 16:56:12] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c prestr=_URL_=Array sign=
+
+verifyReturn[2018-02-25 16:56:12] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c responseTxt=[false][0] isSign=[false]
+
+[2018-02-25 16:56:12] 同步验签失败: partner=2088511580474070 seller_email=yundai@hzit.com key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+getSignVeryfy[2018-02-25 16:56:20] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 16:56:19&gmt_payment=2018-02-25 16:56:19&is_total_fee_adjust=N&notify_id=61ad1211f5d424e1e6cc13245142dach31&notify_time=2018-02-25 16:56:20&notify_type=trade_status_sync&out_trade_no=54228220180225165608&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140567811034&trade_status=TRADE_SUCCESS&use_coupon=N sign=98f3dc043b6f32bcc9e827e84360ab67
+
+getResponse[2018-02-25 16:56:20] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c partner=2088511580474070 notify_id=61ad1211f5d424e1e6cc13245142dach31
+
+verifyNotify[2018-02-25 16:56:20] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c responsetTxt=[true][1] isSign=[true]
+
+getSignVeryfy[2018-02-25 16:56:21] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcMqb7PO%2FzVQS6%2BaSZpDf0S7F28TwdJxq01nzy%2FOff7nJOy&notify_time=2018-02-25 16:56:21&notify_type=trade_status_sync&out_trade_no=54228220180225165608&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140567811034&trade_status=TRADE_SUCCESS sign=4b3a2147df53f84cb5acad701b0a2876
+
+getResponse[2018-02-25 16:56:21] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcMqb7PO%2FzVQS6%2BaSZpDf0S7F28TwdJxq01nzy%2FOff7nJOy
+
+verifyReturn[2018-02-25 16:56:21] key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c responseTxt=[true][1] isSign=[false]
+
+[2018-02-25 16:56:21] 同步验签失败: partner=2088511580474070 seller_email=yundai@hzit.com key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=54228220180225165608 trade_status=TRADE_SUCCESS
+
+getSignVeryfy[2018-02-25 17:06:18] key= prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&discount=0.00&gmt_create=2018-02-25 15:42:11&gmt_payment=2018-02-25 15:42:22&is_total_fee_adjust=N&notify_id=60cdb8d1b296da00f9965d1e5d0e6f3h31&notify_time=2018-02-25 17:06:18&notify_type=trade_status_sync&out_trade_no=30012320180225154156&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140568073298&trade_status=TRADE_SUCCESS&use_coupon=N sign=032c12ee936a2ca01152c3f0ea9830ec
+
+getResponse[2018-02-25 17:06:18] key= partner= notify_id=60cdb8d1b296da00f9965d1e5d0e6f3h31
+
+verifyNotify[2018-02-25 17:06:18] key= responsetTxt=[invalid�����������][0] isSign=[false]
+
+[2018-02-25 17:16:35] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 17:16:35] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:16:35] verifyReturn fail: partner=2088511580474070 seller_email=yundai@hzit.com key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 17:16:41] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 17:16:41&gmt_payment=2018-02-25 17:16:41&is_total_fee_adjust=N&notify_id=e302ccd36bd480f5080dbc3e5a3c35bh31&notify_time=2018-02-25 17:16:41&notify_type=trade_status_sync&out_trade_no=96098020180225171632&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140567908831&trade_status=TRADE_SUCCESS&use_coupon=N sign=d5baa15462b7bd2b1ae78a86030acb13 
+
+[2018-02-25 17:16:41] getResponse partner=2088511580474070 notify_id=e302ccd36bd480f5080dbc3e5a3c35bh31 
+
+[2018-02-25 17:16:42] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-02-25 17:16:42] verifyNotify ok: out_trade_no=96098020180225171632 trade_status=TRADE_SUCCESS partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c 
+
+[2018-02-25 17:16:44] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxI8B5dIErWHqKKvLPE%2FqQzvElROUG70pmKSKU0keVZ%2Bu&notify_time=2018-02-25 17:16:44&notify_type=trade_status_sync&out_trade_no=96098020180225171632&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140567908831&trade_status=TRADE_SUCCESS sign=6abe18bcf2642eecb1822430f3a7bfb7 
+
+[2018-02-25 17:16:44] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxI8B5dIErWHqKKvLPE%2FqQzvElROUG70pmKSKU0keVZ%2Bu 
+
+[2018-02-25 17:16:44] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:16:44] verifyReturn fail: partner=2088511580474070 seller_email=yundai@hzit.com key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=96098020180225171632 trade_status=TRADE_SUCCESS
+
+[2018-02-25 17:19:34] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 17:19:34] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:19:34] verifyReturn fail: partner=2088511580474070 seller_email=yundai@hzit.com key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 17:25:56] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 17:25:56] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:25:56] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 17:26:04] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 17:26:04&gmt_payment=2018-02-25 17:26:04&is_total_fee_adjust=N&notify_id=ae86d30f3b01a1fe60f281aa1718679h31&notify_time=2018-02-25 17:26:04&notify_type=trade_status_sync&out_trade_no=25972220180225172554&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140568133079&trade_status=TRADE_SUCCESS&use_coupon=N sign=894e4da5283899ca1d72519f3cdf9d90 
+
+[2018-02-25 17:26:04] getResponse partner=2088511580474070 notify_id=ae86d30f3b01a1fe60f281aa1718679h31 
+
+[2018-02-25 17:26:04] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-02-25 17:26:04] verifyNotify ok: out_trade_no=25972220180225172554 trade_status=TRADE_SUCCESS partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c 
+
+[2018-02-25 17:26:32] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxIpbKJIh05b9cZDMtD2yeP%2FgHe99zqmiaRfTj60TyorR&notify_time=2018-02-25 17:26:32&notify_type=trade_status_sync&out_trade_no=25972220180225172554&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140568133079&trade_status=TRADE_SUCCESS sign=f851ee22fa444fd34c438a0d436dec08 
+
+[2018-02-25 17:26:32] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxIpbKJIh05b9cZDMtD2yeP%2FgHe99zqmiaRfTj60TyorR 
+
+[2018-02-25 17:26:32] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:26:32] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=25972220180225172554 trade_status=TRADE_SUCCESS
+
+[2018-02-25 17:26:57] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 17:26:57] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:26:57] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 17:27:04] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 17:27:04] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:27:04] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 17:27:20] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 17:27:20] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:27:20] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 17:27:32] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 17:27:31&gmt_payment=2018-02-25 17:27:32&is_total_fee_adjust=N&notify_id=5e28f76561c34f6e12ffa92d0f5b6b5h31&notify_time=2018-02-25 17:27:32&notify_type=trade_status_sync&out_trade_no=13697720180225172718&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140568039796&trade_status=TRADE_SUCCESS&use_coupon=N sign=cc86674358ff13436dbaf46b2eb7e89c 
+
+[2018-02-25 17:27:32] getResponse partner=2088511580474070 notify_id=5e28f76561c34f6e12ffa92d0f5b6b5h31 
+
+[2018-02-25 17:27:32] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-02-25 17:27:32] verifyNotify ok: out_trade_no=13697720180225172718 trade_status=TRADE_SUCCESS partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c 
+
+[2018-02-25 17:27:33] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxIVdyuTAfBrhKRa8%2B3YCyuZ9Ste1iVP011GlAFyNQyI8&notify_time=2018-02-25 17:27:33&notify_type=trade_status_sync&out_trade_no=13697720180225172718&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140568039796&trade_status=TRADE_SUCCESS sign=7884763c2d0087031497ca85d205018a 
+
+[2018-02-25 17:27:33] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxIVdyuTAfBrhKRa8%2B3YCyuZ9Ste1iVP011GlAFyNQyI8 
+
+[2018-02-25 17:27:33] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:27:33] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=13697720180225172718 trade_status=TRADE_SUCCESS
+
+[2018-02-25 17:33:39] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 16:09:12&gmt_payment=2018-02-25 16:09:12&is_total_fee_adjust=N&notify_id=6122a597b04c8b6e36a35285297c10fh31&notify_time=2018-02-25 17:33:39&notify_type=trade_status_sync&out_trade_no=80391820180225160901&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140567824833&trade_status=TRADE_SUCCESS&use_coupon=N sign=8943706130a4113a7c809feff6d62b8d 
+
+[2018-02-25 17:33:39] getResponse partner=2088511580474070 notify_id=6122a597b04c8b6e36a35285297c10fh31 
+
+[2018-02-25 17:33:39] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-02-25 17:33:39] verifyNotify ok: out_trade_no=80391820180225160901 trade_status=TRADE_SUCCESS partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c 
+
+[2018-02-25 17:37:52] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 17:37:52] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:37:52] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 17:38:01] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 17:38:00&gmt_payment=2018-02-25 17:38:01&is_total_fee_adjust=N&notify_id=aacc11889f87480e812df3249179325h31&notify_time=2018-02-25 17:38:01&notify_type=trade_status_sync&out_trade_no=74778320180225173750&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140567909225&trade_status=TRADE_SUCCESS&use_coupon=N sign=507b4c8e0badf0c0958fea73f6319060 
+
+[2018-02-25 17:38:01] getResponse partner=2088511580474070 notify_id=aacc11889f87480e812df3249179325h31 
+
+[2018-02-25 17:38:01] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-02-25 17:38:01] verifyNotify ok: out_trade_no=74778320180225173750 trade_status=TRADE_SUCCESS partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c 
+
+[2018-02-25 17:38:02] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxfzwxD28wvug8uwPvlcLY19ZCzr7NeKQRySOVZUtaFVL&notify_time=2018-02-25 17:38:02&notify_type=trade_status_sync&out_trade_no=74778320180225173750&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140567909225&trade_status=TRADE_SUCCESS sign=2d24f84bf6ae6d66759bfe3cf8dbcce8 
+
+[2018-02-25 17:38:02] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxfzwxD28wvug8uwPvlcLY19ZCzr7NeKQRySOVZUtaFVL 
+
+[2018-02-25 17:38:03] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:38:03] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=74778320180225173750 trade_status=TRADE_SUCCESS
+
+[2018-02-25 17:39:02] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxfzwxD28wvug8uwPvlcLY19ZCzr7NeKQRySOVZUtaFVL&notify_time=2018-02-25 17:38:02&notify_type=trade_status_sync&out_trade_no=74778320180225173750&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140567909225&trade_status=TRADE_SUCCESS sign=2d24f84bf6ae6d66759bfe3cf8dbcce8 
+
+[2018-02-25 17:39:02] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxfzwxD28wvug8uwPvlcLY19ZCzr7NeKQRySOVZUtaFVL 
+
+[2018-02-25 17:39:02] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:39:02] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=74778320180225173750 trade_status=TRADE_SUCCESS
+
+[2018-02-25 17:54:16] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 17:54:16] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:54:16] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 17:54:26] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 17:54:25&gmt_payment=2018-02-25 17:54:25&is_total_fee_adjust=N&notify_id=ef3d144fe6bb4255a1f6d106876ffabh31&notify_time=2018-02-25 17:54:26&notify_type=trade_status_sync&out_trade_no=65855820180225175412&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140567839742&trade_status=TRADE_SUCCESS&use_coupon=N sign=b1441068d5498568770458a53e2c135c 
+
+[2018-02-25 17:54:26] getResponse partner=2088511580474070 notify_id=ef3d144fe6bb4255a1f6d106876ffabh31 
+
+[2018-02-25 17:54:26] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-02-25 17:54:26] verifyNotify ok: out_trade_no=65855820180225175412 trade_status=TRADE_SUCCESS partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c 
+
+[2018-02-25 17:54:28] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxuPCmTessB8e2xtlaYCWIrDZ8iHlbQKK8VKCg%2B7xNzM%2B&notify_time=2018-02-25 17:54:28&notify_type=trade_status_sync&out_trade_no=65855820180225175412&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140567839742&trade_status=TRADE_SUCCESS sign=dde7c7c95c7a5c2757c5c47fe50018b7 
+
+[2018-02-25 17:54:28] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxuPCmTessB8e2xtlaYCWIrDZ8iHlbQKK8VKCg%2B7xNzM%2B 
+
+[2018-02-25 17:54:28] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:54:28] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=65855820180225175412 trade_status=TRADE_SUCCESS
+
+[2018-02-25 17:55:28] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxuPCmTessB8e2xtlaYCWIrDZ8iHlbQKK8VKCg%2B7xNzM%2B&notify_time=2018-02-25 17:54:28&notify_type=trade_status_sync&out_trade_no=65855820180225175412&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140567839742&trade_status=TRADE_SUCCESS sign=dde7c7c95c7a5c2757c5c47fe50018b7 
+
+[2018-02-25 17:55:28] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxuPCmTessB8e2xtlaYCWIrDZ8iHlbQKK8VKCg%2B7xNzM%2B 
+
+[2018-02-25 17:55:28] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:55:28] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=65855820180225175412 trade_status=TRADE_SUCCESS
+
+[2018-02-25 17:58:34] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 17:58:34] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:58:34] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 17:58:42] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 17:58:41&gmt_payment=2018-02-25 17:58:41&is_total_fee_adjust=N&notify_id=5f62bc4566fe2267aea1f0ca34efdd2h31&notify_time=2018-02-25 17:58:42&notify_type=trade_status_sync&out_trade_no=25436420180225175829&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140567797250&trade_status=TRADE_SUCCESS&use_coupon=N sign=d5af94a25b2a56b117b5f9f72fe07905 
+
+[2018-02-25 17:58:42] getResponse partner=2088511580474070 notify_id=5f62bc4566fe2267aea1f0ca34efdd2h31 
+
+[2018-02-25 17:58:42] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-02-25 17:58:42] verifyNotify ok: out_trade_no=25436420180225175829 trade_status=TRADE_SUCCESS partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c 
+
+[2018-02-25 17:58:42] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxuAF3bS8KnXPD3Rd%2BQ56mAkgAUA8e2e7PoCemWfG6JWf&notify_time=2018-02-25 17:58:42&notify_type=trade_status_sync&out_trade_no=25436420180225175829&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140567797250&trade_status=TRADE_SUCCESS sign=01a4d6e82b11159801dde5276bf19872 
+
+[2018-02-25 17:58:42] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNxuAF3bS8KnXPD3Rd%2BQ56mAkgAUA8e2e7PoCemWfG6JWf 
+
+[2018-02-25 17:58:43] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 17:58:43] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=25436420180225175829 trade_status=TRADE_SUCCESS
+
+[2018-02-25 18:09:49] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 14:45:24&gmt_payment=2018-02-25 14:45:24&is_total_fee_adjust=N&notify_id=f79712389d0bd9e087ef50de83a7130h31&notify_time=2018-02-25 18:09:49&notify_type=trade_status_sync&out_trade_no=86832520180225144439&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140568234351&trade_status=TRADE_SUCCESS&use_coupon=N sign=fc4519351bbde1c224925ac9fe2a8c9c 
+
+[2018-02-25 18:09:49] getResponse partner= notify_id=f79712389d0bd9e087ef50de83a7130h31 
+
+[2018-02-25 18:09:49] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-25 18:12:23] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 14:48:52&gmt_payment=2018-02-25 14:48:53&is_total_fee_adjust=N&notify_id=a3ebe32d0619a4424699e052189e3bdh31&notify_time=2018-02-25 18:12:23&notify_type=trade_status_sync&out_trade_no=80546520180225144830&payment_type=1&price=0.02&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.02&trade_no=2018022521001004140567982137&trade_status=TRADE_SUCCESS&use_coupon=N sign=df0ee4152401b64085cedea6e96add7e 
+
+[2018-02-25 18:12:23] getResponse partner= notify_id=a3ebe32d0619a4424699e052189e3bdh31 
+
+[2018-02-25 18:12:23] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-25 18:27:46] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 15:03:58&gmt_payment=2018-02-25 15:03:59&is_total_fee_adjust=N&notify_id=e3f97b64dfbd81d009a7d29fe33da86h31&notify_time=2018-02-25 18:27:46&notify_type=trade_status_sync&out_trade_no=71844020180225150333&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140568097957&trade_status=TRADE_SUCCESS&use_coupon=N sign=a4e2dd8ea6df07496d2f1f77984a0972 
+
+[2018-02-25 18:27:46] getResponse partner= notify_id=e3f97b64dfbd81d009a7d29fe33da86h31 
+
+[2018-02-25 18:27:46] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-25 18:29:35] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 18:29:35] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 18:29:35] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 18:30:24] getSignVeryfy prestr=buyer_email=zou***@139.com&buyer_id=2088112445462384&gmt_create=2018-02-25 18:30:23&gmt_payment=2018-02-25 18:30:24&is_total_fee_adjust=N&notify_id=d1c2a4a3946b19fdf4700a0506e40c2ixp&notify_time=2018-02-25 18:30:24&notify_type=trade_status_sync&out_trade_no=54074820180225182932&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004380592685867&trade_status=TRADE_SUCCESS&use_coupon=N sign=a1d0f4218224df28de4547446b53c041 
+
+[2018-02-25 18:30:24] getResponse partner=2088511580474070 notify_id=d1c2a4a3946b19fdf4700a0506e40c2ixp 
+
+[2018-02-25 18:30:25] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-02-25 18:30:25] verifyNotify ok: out_trade_no=54074820180225182932 trade_status=TRADE_SUCCESS partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c 
+
+[2018-02-25 18:30:29] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNwMMmVCFni4zbwNZwaOpcvWAanlarO7dGMh5tFJWNJUO3&notify_time=2018-02-25 18:30:25&notify_type=trade_status_sync&out_trade_no=54074820180225182932&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004380592685867&trade_status=TRADE_SUCCESS sign=81c5468ee1af47aeafa57712e86aa349 
+
+[2018-02-25 18:30:29] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNwMMmVCFni4zbwNZwaOpcvWAanlarO7dGMh5tFJWNJUO3 
+
+[2018-02-25 18:30:29] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 18:30:29] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=54074820180225182932 trade_status=TRADE_SUCCESS
+
+[2018-02-25 18:31:29] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNwMMmVCFni4zbwNZwaOpcvWAanlarO7dGMh5tFJWNJUO3&notify_time=2018-02-25 18:30:25&notify_type=trade_status_sync&out_trade_no=54074820180225182932&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004380592685867&trade_status=TRADE_SUCCESS sign=81c5468ee1af47aeafa57712e86aa349 
+
+[2018-02-25 18:31:29] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tcNwMMmVCFni4zbwNZwaOpcvWAanlarO7dGMh5tFJWNJUO3 
+
+[2018-02-25 18:31:29] verifyReturn responseTxt=[false][0] isSign=[false] 
+
+[2018-02-25 18:31:29] verifyReturn fail: partner=2088511580474070 seller_email=yundai@hzit.com key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=54074820180225182932 trade_status=TRADE_SUCCESS
+
+[2018-02-25 18:45:01] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 15:21:26&gmt_payment=2018-02-25 15:21:27&is_total_fee_adjust=N&notify_id=fa50bc482e90f296cae7d404d504a87h31&notify_time=2018-02-25 18:45:00&notify_type=trade_status_sync&out_trade_no=95793720180225152051&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140567836934&trade_status=TRADE_SUCCESS&use_coupon=N sign=4605190afc863de7e7ba6e2cc8332866 
+
+[2018-02-25 18:45:01] getResponse partner= notify_id=fa50bc482e90f296cae7d404d504a87h31 
+
+[2018-02-25 18:45:01] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-25 19:06:20] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&discount=0.00&gmt_create=2018-02-25 15:42:11&gmt_payment=2018-02-25 15:42:22&is_total_fee_adjust=N&notify_id=60cdb8d1b296da00f9965d1e5d0e6f3h31&notify_time=2018-02-25 19:06:20&notify_type=trade_status_sync&out_trade_no=30012320180225154156&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140568073298&trade_status=TRADE_SUCCESS&use_coupon=N sign=f303e83e216a88268946b990f1c5aa2e 
+
+[2018-02-25 19:06:20] getResponse partner= notify_id=60cdb8d1b296da00f9965d1e5d0e6f3h31 
+
+[2018-02-25 19:06:20] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-25 19:19:43] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 19:19:43] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 19:19:43] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 21:41:01] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 21:41:01] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 21:41:01] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 22:59:24] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 22:59:24] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 22:59:24] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 22:59:40] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 22:59:40] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 22:59:40] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 23:00:57] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 23:00:57] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 23:00:57] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-25 23:03:29] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-25 23:03:29] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-25 23:03:29] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-26 00:09:05] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 14:45:24&gmt_payment=2018-02-25 14:45:24&is_total_fee_adjust=N&notify_id=f79712389d0bd9e087ef50de83a7130h31&notify_time=2018-02-26 00:09:05&notify_type=trade_status_sync&out_trade_no=86832520180225144439&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140568234351&trade_status=TRADE_SUCCESS&use_coupon=N sign=7a264e0570151867c5b2325e55db81da 
+
+[2018-02-26 00:09:05] getResponse partner= notify_id=f79712389d0bd9e087ef50de83a7130h31 
+
+[2018-02-26 00:09:05] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-26 00:12:25] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 14:48:52&gmt_payment=2018-02-25 14:48:53&is_total_fee_adjust=N&notify_id=a3ebe32d0619a4424699e052189e3bdh31&notify_time=2018-02-26 00:12:25&notify_type=trade_status_sync&out_trade_no=80546520180225144830&payment_type=1&price=0.02&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.02&trade_no=2018022521001004140567982137&trade_status=TRADE_SUCCESS&use_coupon=N sign=b988a94e3f05c266ea65cfb4da9a6a64 
+
+[2018-02-26 00:12:25] getResponse partner= notify_id=a3ebe32d0619a4424699e052189e3bdh31 
+
+[2018-02-26 00:12:25] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-26 00:27:03] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 15:03:58&gmt_payment=2018-02-25 15:03:59&is_total_fee_adjust=N&notify_id=e3f97b64dfbd81d009a7d29fe33da86h31&notify_time=2018-02-26 00:27:03&notify_type=trade_status_sync&out_trade_no=71844020180225150333&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140568097957&trade_status=TRADE_SUCCESS&use_coupon=N sign=5fd52d512a45ed4b3bf4d840b1e237a3 
+
+[2018-02-26 00:27:03] getResponse partner= notify_id=e3f97b64dfbd81d009a7d29fe33da86h31 
+
+[2018-02-26 00:27:03] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-26 00:45:10] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 15:21:26&gmt_payment=2018-02-25 15:21:27&is_total_fee_adjust=N&notify_id=fa50bc482e90f296cae7d404d504a87h31&notify_time=2018-02-26 00:45:10&notify_type=trade_status_sync&out_trade_no=95793720180225152051&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140567836934&trade_status=TRADE_SUCCESS&use_coupon=N sign=d9771133f85e863013953b0c7cec017c 
+
+[2018-02-26 00:45:10] getResponse partner= notify_id=fa50bc482e90f296cae7d404d504a87h31 
+
+[2018-02-26 00:45:10] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-26 01:06:25] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&discount=0.00&gmt_create=2018-02-25 15:42:11&gmt_payment=2018-02-25 15:42:22&is_total_fee_adjust=N&notify_id=60cdb8d1b296da00f9965d1e5d0e6f3h31&notify_time=2018-02-26 01:06:25&notify_type=trade_status_sync&out_trade_no=30012320180225154156&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140568073298&trade_status=TRADE_SUCCESS&use_coupon=N sign=97f56df80f23dbc421eea4c9306e7a5d 
+
+[2018-02-26 01:06:25] getResponse partner= notify_id=60cdb8d1b296da00f9965d1e5d0e6f3h31 
+
+[2018-02-26 01:06:25] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-26 01:19:25] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-26 01:19:25] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-26 01:19:25] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-26 14:54:21] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-26 14:54:21] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-26 14:54:21] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-26 14:56:27] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-26 14:56:27] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-26 14:56:27] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-26 15:09:28] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 14:45:24&gmt_payment=2018-02-25 14:45:24&is_total_fee_adjust=N&notify_id=f79712389d0bd9e087ef50de83a7130h31&notify_time=2018-02-26 15:09:28&notify_type=trade_status_sync&out_trade_no=86832520180225144439&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140568234351&trade_status=TRADE_SUCCESS&use_coupon=N sign=23f7038197cc3e5f9e9685ff6e173e3d 
+
+[2018-02-26 15:09:28] getResponse partner= notify_id=f79712389d0bd9e087ef50de83a7130h31 
+
+[2018-02-26 15:09:28] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-26 15:12:05] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 14:48:52&gmt_payment=2018-02-25 14:48:53&is_total_fee_adjust=N&notify_id=a3ebe32d0619a4424699e052189e3bdh31&notify_time=2018-02-26 15:12:05&notify_type=trade_status_sync&out_trade_no=80546520180225144830&payment_type=1&price=0.02&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.02&trade_no=2018022521001004140567982137&trade_status=TRADE_SUCCESS&use_coupon=N sign=eca31e6518fafdffec8085ee50993f1b 
+
+[2018-02-26 15:12:05] getResponse partner= notify_id=a3ebe32d0619a4424699e052189e3bdh31 
+
+[2018-02-26 15:12:05] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-26 15:27:38] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 15:03:58&gmt_payment=2018-02-25 15:03:59&is_total_fee_adjust=N&notify_id=e3f97b64dfbd81d009a7d29fe33da86h31&notify_time=2018-02-26 15:27:38&notify_type=trade_status_sync&out_trade_no=71844020180225150333&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140568097957&trade_status=TRADE_SUCCESS&use_coupon=N sign=a406378dd8ff71aa4a50a3fe3668e6e8 
+
+[2018-02-26 15:27:38] getResponse partner= notify_id=e3f97b64dfbd81d009a7d29fe33da86h31 
+
+[2018-02-26 15:27:38] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-26 15:45:17] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-25 15:21:26&gmt_payment=2018-02-25 15:21:27&is_total_fee_adjust=N&notify_id=fa50bc482e90f296cae7d404d504a87h31&notify_time=2018-02-26 15:45:17&notify_type=trade_status_sync&out_trade_no=95793720180225152051&payment_type=1&price=0.01&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.01&trade_no=2018022521001004140567836934&trade_status=TRADE_SUCCESS&use_coupon=N sign=a298803f9f6a1ff97294b09814867c55 
+
+[2018-02-26 15:45:17] getResponse partner= notify_id=fa50bc482e90f296cae7d404d504a87h31 
+
+[2018-02-26 15:45:18] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-26 16:06:25] getSignVeryfy prestr=body=网络服务&buyer_email=881***@gmail.com&buyer_id=2088002005443143&discount=0.00&gmt_create=2018-02-25 15:42:11&gmt_payment=2018-02-25 15:42:22&is_total_fee_adjust=N&notify_id=60cdb8d1b296da00f9965d1e5d0e6f3h31&notify_time=2018-02-26 16:06:25&notify_type=trade_status_sync&out_trade_no=30012320180225154156&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018022521001004140568073298&trade_status=TRADE_SUCCESS&use_coupon=N sign=cc9e1e60792a1999cbc9fb2c3a5c1e3c 
+
+[2018-02-26 16:06:25] getResponse partner= notify_id=60cdb8d1b296da00f9965d1e5d0e6f3h31 
+
+[2018-02-26 16:06:25] verifyNotify responsetTxt=[invalid�����������][0] isSign=[false] 
+
+[2018-02-26 16:19:06] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-26 16:19:06] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-26 16:19:06] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-28 13:23:06] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-28 13:23:06] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-28 13:23:06] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-28 15:59:22] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-28 15:59:22] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-28 15:59:22] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-28 15:59:32] getSignVeryfy prestr=buyer_email=liu***@163.com&buyer_id=2088312475560557&gmt_create=2018-02-28 15:59:31&gmt_payment=2018-02-28 15:59:31&is_total_fee_adjust=N&notify_id=42a9b3296ac83417a79c0990a9658d9k8x&notify_time=2018-02-28 15:59:32&notify_type=trade_status_sync&out_trade_no=20180228151980475035986&payment_type=1&price=1.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=1.00&trade_no=2018022821001004550569437196&trade_status=TRADE_SUCCESS&use_coupon=N sign=d6fd65576881415704844d1aff46e355 
+
+[2018-02-28 15:59:32] getResponse partner=2088511580474070 notify_id=42a9b3296ac83417a79c0990a9658d9k8x 
+
+[2018-02-28 15:59:32] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-02-28 15:59:32] verifyNotify ok: out_trade_no=20180228151980475035986 trade_status=TRADE_SUCCESS partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c 
+
+[2018-02-28 15:59:39] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tpW8u6i0G2IPvt1VsKMAYKPwgB%2Bx%2F2r%2BJTtWpnZ9EEkabTM&notify_time=2018-02-28 15:59:39&notify_type=trade_status_sync&out_trade_no=20180228151980475035986&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=1.00&trade_no=2018022821001004550569437196&trade_status=TRADE_SUCCESS sign=cbb25f334bd127bd7ac387ffc35fc3d0 
+
+[2018-02-28 15:59:39] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tpW8u6i0G2IPvt1VsKMAYKPwgB%2Bx%2F2r%2BJTtWpnZ9EEkabTM 
+
+[2018-02-28 15:59:39] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-28 15:59:39] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=20180228151980475035986 trade_status=TRADE_SUCCESS
+
+[2018-02-28 17:00:02] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-02-28 17:00:02] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-28 17:00:02] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no= trade_status=
+
+[2018-02-28 17:00:20] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-02-28 17:00:19&gmt_payment=2018-02-28 17:00:19&is_total_fee_adjust=N&notify_id=428e40ca86430fcd95cd36f3e7b876eh31&notify_time=2018-02-28 17:00:20&notify_type=trade_status_sync&out_trade_no=20180228151980839210286&payment_type=1&price=1.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=1.00&trade_no=2018022821001004140575647119&trade_status=TRADE_SUCCESS&use_coupon=N sign=055bc16b9c162981ff10c49d138b7cc4 
+
+[2018-02-28 17:00:20] getResponse partner=2088511580474070 notify_id=428e40ca86430fcd95cd36f3e7b876eh31 
+
+[2018-02-28 17:00:20] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-02-28 17:00:20] verifyNotify ok: out_trade_no=20180228151980839210286 trade_status=TRADE_SUCCESS partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c 
+
+[2018-02-28 17:00:20] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tpW%2FlAVCXsvr9VvAsJ7z5zOSHfyjCZZJgbuy5rXSsDmjMX8&notify_time=2018-02-28 17:00:20&notify_type=trade_status_sync&out_trade_no=20180228151980839210286&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=1.00&trade_no=2018022821001004140575647119&trade_status=TRADE_SUCCESS sign=f343957d42a561ea7a885a1d8f8ff940 
+
+[2018-02-28 17:00:20] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tpW%2FlAVCXsvr9VvAsJ7z5zOSHfyjCZZJgbuy5rXSsDmjMX8 
+
+[2018-02-28 17:00:20] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-02-28 17:00:20] verifyReturn ok: partner=2088511580474070 key=hhuu0mwdkhjgp8xt6g7zuu45y7es809c out_trade_no=20180228151980839210286 trade_status=TRADE_SUCCESS
+
+[2018-03-01 20:43:32] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-01 20:43:32] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 20:43:38] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-01 20:43:38] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 20:43:41] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-01 20:43:41] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 20:43:51] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-01 20:43:51] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 20:44:19] getSignVeryfy prestr=buyer_email=155****7928&buyer_id=2088222285672215&gmt_create=2018-03-01 20:44:13&gmt_payment=2018-03-01 20:44:19&is_total_fee_adjust=N&notify_id=adfde507cd240a4ed6ad419b0317830hmh&notify_time=2018-03-01 20:44:19&notify_type=trade_status_sync&out_trade_no=20180301151990822073204&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004210509938953&trade_status=TRADE_SUCCESS&use_coupon=N sign=d7d98da4fbab8596504202e39247b565 
+
+[2018-03-01 20:44:19] getResponse partner=2088511580474070 notify_id=adfde507cd240a4ed6ad419b0317830hmh 
+
+[2018-03-01 20:44:19] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 20:44:19] verifyNotify ok: out_trade_no=20180301151990822073204 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 20:44:24] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tve8mmoZEnhgmKEvb4hFlXpERABZQbh1Lmoa2Nw6IYMi4gg&notify_time=2018-03-01 20:44:24&notify_type=trade_status_sync&out_trade_no=20180301151990822073204&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004210509938953&trade_status=TRADE_SUCCESS sign=cb60f3d2c87c8cb5644cddcd3a11ca30 
+
+[2018-03-01 20:44:24] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tve8mmoZEnhgmKEvb4hFlXpERABZQbh1Lmoa2Nw6IYMi4gg 
+
+[2018-03-01 20:44:24] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 20:44:24] verifyReturn ok: partner=2088511580474070 out_trade_no=20180301151990822073204 trade_status=TRADE_SUCCESS
+
+[2018-03-01 20:48:35] getSignVeryfy prestr=buyer_email=155****7928&buyer_id=2088222285672215&gmt_create=2018-03-01 20:44:13&gmt_payment=2018-03-01 20:44:19&is_total_fee_adjust=N&notify_id=adfde507cd240a4ed6ad419b0317830hmh&notify_time=2018-03-01 20:48:35&notify_type=trade_status_sync&out_trade_no=20180301151990822073204&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004210509938953&trade_status=TRADE_SUCCESS&use_coupon=N sign=3e81da10071ac91ce624f6dbeb974c0d 
+
+[2018-03-01 20:48:35] getResponse partner=2088511580474070 notify_id=adfde507cd240a4ed6ad419b0317830hmh 
+
+[2018-03-01 20:48:35] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 20:48:35] verifyNotify ok: out_trade_no=20180301151990822073204 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 20:55:06] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-01 20:55:06] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 20:55:13] getSignVeryfy prestr=buyer_email=61-4****1325&buyer_id=2088612189140637&gmt_create=2018-03-01 20:55:12&gmt_payment=2018-03-01 20:55:12&is_total_fee_adjust=N&notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5&notify_time=2018-03-01 20:55:12&notify_type=trade_status_sync&out_trade_no=20180301151990889391794&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030121001004630599804818&trade_status=TRADE_SUCCESS&use_coupon=N sign=5f59446a024286671dcf4fd754f3d28b 
+
+[2018-03-01 20:55:13] getResponse partner=2088511580474070 notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5 
+
+[2018-03-01 20:55:13] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 20:55:13] verifyNotify ok: out_trade_no=20180301151990889391794 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 20:55:14] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tve8mJR2NJjo0HO9s%2FzJLS%2FKi1L9X0r4bTGd5hZq6%2FAuwyu&notify_time=2018-03-01 20:55:14&notify_type=trade_status_sync&out_trade_no=20180301151990889391794&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030121001004630599804818&trade_status=TRADE_SUCCESS sign=1b4b0a2869096439774de7de7ee7aa91 
+
+[2018-03-01 20:55:14] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tve8mJR2NJjo0HO9s%2FzJLS%2FKi1L9X0r4bTGd5hZq6%2FAuwyu 
+
+[2018-03-01 20:55:14] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 20:55:14] verifyReturn ok: partner=2088511580474070 out_trade_no=20180301151990889391794 trade_status=TRADE_SUCCESS
+
+[2018-03-01 20:58:15] getSignVeryfy prestr=buyer_email=155****7928&buyer_id=2088222285672215&gmt_create=2018-03-01 20:44:13&gmt_payment=2018-03-01 20:44:19&is_total_fee_adjust=N&notify_id=adfde507cd240a4ed6ad419b0317830hmh&notify_time=2018-03-01 20:58:15&notify_type=trade_status_sync&out_trade_no=20180301151990822073204&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004210509938953&trade_status=TRADE_SUCCESS&use_coupon=N sign=dfc7bab49f3c002ce5b7ad38c980dbf1 
+
+[2018-03-01 20:58:15] getResponse partner=2088511580474070 notify_id=adfde507cd240a4ed6ad419b0317830hmh 
+
+[2018-03-01 20:58:15] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 20:58:15] verifyNotify ok: out_trade_no=20180301151990822073204 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 20:59:08] getSignVeryfy prestr=buyer_email=61-4****1325&buyer_id=2088612189140637&gmt_create=2018-03-01 20:55:12&gmt_payment=2018-03-01 20:55:12&is_total_fee_adjust=N&notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5&notify_time=2018-03-01 20:59:08&notify_type=trade_status_sync&out_trade_no=20180301151990889391794&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030121001004630599804818&trade_status=TRADE_SUCCESS&use_coupon=N sign=da2baebe237d1b33e368ab3f4d4818c4 
+
+[2018-03-01 20:59:08] getResponse partner=2088511580474070 notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5 
+
+[2018-03-01 20:59:09] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 20:59:09] verifyNotify ok: out_trade_no=20180301151990889391794 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 21:08:28] getSignVeryfy prestr=buyer_email=155****7928&buyer_id=2088222285672215&gmt_create=2018-03-01 20:44:13&gmt_payment=2018-03-01 20:44:19&is_total_fee_adjust=N&notify_id=adfde507cd240a4ed6ad419b0317830hmh&notify_time=2018-03-01 21:08:28&notify_type=trade_status_sync&out_trade_no=20180301151990822073204&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004210509938953&trade_status=TRADE_SUCCESS&use_coupon=N sign=8c525895fcda589397fffde7cdd10bc4 
+
+[2018-03-01 21:08:28] getResponse partner=2088511580474070 notify_id=adfde507cd240a4ed6ad419b0317830hmh 
+
+[2018-03-01 21:08:28] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 21:08:28] verifyNotify ok: out_trade_no=20180301151990822073204 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 21:09:06] getSignVeryfy prestr=buyer_email=61-4****1325&buyer_id=2088612189140637&gmt_create=2018-03-01 20:55:12&gmt_payment=2018-03-01 20:55:12&is_total_fee_adjust=N&notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5&notify_time=2018-03-01 21:09:06&notify_type=trade_status_sync&out_trade_no=20180301151990889391794&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030121001004630599804818&trade_status=TRADE_SUCCESS&use_coupon=N sign=faee874f22199b17bf16e13fc2be1e4d 
+
+[2018-03-01 21:09:06] getResponse partner=2088511580474070 notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5 
+
+[2018-03-01 21:09:06] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 21:09:06] verifyNotify ok: out_trade_no=20180301151990889391794 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 21:19:14] getSignVeryfy prestr=buyer_email=61-4****1325&buyer_id=2088612189140637&gmt_create=2018-03-01 20:55:12&gmt_payment=2018-03-01 20:55:12&is_total_fee_adjust=N&notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5&notify_time=2018-03-01 21:19:14&notify_type=trade_status_sync&out_trade_no=20180301151990889391794&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030121001004630599804818&trade_status=TRADE_SUCCESS&use_coupon=N sign=4b17783ba5da2d724228d518be3fb9b3 
+
+[2018-03-01 21:19:14] getResponse partner=2088511580474070 notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5 
+
+[2018-03-01 21:19:14] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 21:19:14] verifyNotify ok: out_trade_no=20180301151990889391794 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 22:08:18] getSignVeryfy prestr=buyer_email=155****7928&buyer_id=2088222285672215&gmt_create=2018-03-01 20:44:13&gmt_payment=2018-03-01 20:44:19&is_total_fee_adjust=N&notify_id=adfde507cd240a4ed6ad419b0317830hmh&notify_time=2018-03-01 22:08:18&notify_type=trade_status_sync&out_trade_no=20180301151990822073204&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004210509938953&trade_status=TRADE_SUCCESS&use_coupon=N sign=7582c717bf2a60a7a048d9f5d0645a91 
+
+[2018-03-01 22:08:18] getResponse partner=2088511580474070 notify_id=adfde507cd240a4ed6ad419b0317830hmh 
+
+[2018-03-01 22:08:18] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 22:08:18] verifyNotify ok: out_trade_no=20180301151990822073204 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 22:19:13] getSignVeryfy prestr=buyer_email=61-4****1325&buyer_id=2088612189140637&gmt_create=2018-03-01 20:55:12&gmt_payment=2018-03-01 20:55:12&is_total_fee_adjust=N&notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5&notify_time=2018-03-01 22:19:13&notify_type=trade_status_sync&out_trade_no=20180301151990889391794&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030121001004630599804818&trade_status=TRADE_SUCCESS&use_coupon=N sign=6cb3c1c7171f9a3be2b8c9aa7614d627 
+
+[2018-03-01 22:19:13] getResponse partner=2088511580474070 notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5 
+
+[2018-03-01 22:19:13] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 22:19:13] verifyNotify ok: out_trade_no=20180301151990889391794 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 22:50:40] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-01 22:50:40] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 23:34:28] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-01 23:34:28] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 23:34:44] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:34:44&gmt_payment=2018-03-01 23:34:44&is_total_fee_adjust=N&notify_id=71d888687023d69879f3b3e9cd5e0b2m0t&notify_time=2018-03-01 23:34:44&notify_type=trade_status_sync&out_trade_no=20180301151991845593022&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004780593856898&trade_status=TRADE_SUCCESS&use_coupon=N sign=9a5af42ebb6411161d9e7b3d5eeacaf0 
+
+[2018-03-01 23:34:44] getResponse partner=2088511580474070 notify_id=71d888687023d69879f3b3e9cd5e0b2m0t 
+
+[2018-03-01 23:34:45] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 23:34:45] verifyNotify ok: out_trade_no=20180301151991845593022 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 23:34:53] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tvf8GYYoKZ4%2BvcBFT%2FJ6NcAHUvor1M%2FR1C%2Bx7cNcYp29oE5&notify_time=2018-03-01 23:34:53&notify_type=trade_status_sync&out_trade_no=20180301151991845593022&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004780593856898&trade_status=TRADE_SUCCESS sign=8845b727afe3b370964cea59c16f9eb0 
+
+[2018-03-01 23:34:53] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tvf8GYYoKZ4%2BvcBFT%2FJ6NcAHUvor1M%2FR1C%2Bx7cNcYp29oE5 
+
+[2018-03-01 23:34:53] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 23:34:53] verifyReturn ok: partner=2088511580474070 out_trade_no=20180301151991845593022 trade_status=TRADE_SUCCESS
+
+[2018-03-01 23:38:33] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:34:44&gmt_payment=2018-03-01 23:34:44&is_total_fee_adjust=N&notify_id=71d888687023d69879f3b3e9cd5e0b2m0t&notify_time=2018-03-01 23:38:33&notify_type=trade_status_sync&out_trade_no=20180301151991845593022&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004780593856898&trade_status=TRADE_SUCCESS&use_coupon=N sign=1d41597403d3a29082c37d614d4532fa 
+
+[2018-03-01 23:38:33] getResponse partner=2088511580474070 notify_id=71d888687023d69879f3b3e9cd5e0b2m0t 
+
+[2018-03-01 23:38:33] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 23:38:33] verifyNotify ok: out_trade_no=20180301151991845593022 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 23:40:20] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-01 23:40:20] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 23:40:34] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:40:33&gmt_payment=2018-03-01 23:40:33&is_total_fee_adjust=N&notify_id=3a79f731b6a63094392363b627bd6f5m0t&notify_time=2018-03-01 23:40:34&notify_type=trade_status_sync&out_trade_no=20180301151991880738743&payment_type=1&price=1.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=1.00&trade_no=2018030121001004780593680586&trade_status=TRADE_SUCCESS&use_coupon=N sign=a25a9871c0c4defaa1a4fb55e964517e 
+
+[2018-03-01 23:40:34] getResponse partner=2088511580474070 notify_id=3a79f731b6a63094392363b627bd6f5m0t 
+
+[2018-03-01 23:40:34] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 23:40:34] verifyNotify ok: out_trade_no=20180301151991880738743 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 23:40:35] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tvf8GqQMCJdaID2ZlpTraRM4gybe3wZi080ZNT3%2Ful9JzRS&notify_time=2018-03-01 23:40:35&notify_type=trade_status_sync&out_trade_no=20180301151991880738743&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=1.00&trade_no=2018030121001004780593680586&trade_status=TRADE_SUCCESS sign=47dec0356a8bca559bb6d3ec1e9310a6 
+
+[2018-03-01 23:40:35] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tvf8GqQMCJdaID2ZlpTraRM4gybe3wZi080ZNT3%2Ful9JzRS 
+
+[2018-03-01 23:40:35] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 23:40:35] verifyReturn ok: partner=2088511580474070 out_trade_no=20180301151991880738743 trade_status=TRADE_SUCCESS
+
+[2018-03-01 23:41:35] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tvf8GqQMCJdaID2ZlpTraRM4gybe3wZi080ZNT3%2Ful9JzRS&notify_time=2018-03-01 23:40:35&notify_type=trade_status_sync&out_trade_no=20180301151991880738743&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=1.00&trade_no=2018030121001004780593680586&trade_status=TRADE_SUCCESS sign=47dec0356a8bca559bb6d3ec1e9310a6 
+
+[2018-03-01 23:41:35] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tvf8GqQMCJdaID2ZlpTraRM4gybe3wZi080ZNT3%2Ful9JzRS 
+
+[2018-03-01 23:41:35] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 23:41:35] verifyReturn ok: partner=2088511580474070 out_trade_no=20180301151991880738743 trade_status=TRADE_SUCCESS
+
+[2018-03-01 23:44:13] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-01 23:44:13] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 23:44:27] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:44:26&gmt_payment=2018-03-01 23:44:27&is_total_fee_adjust=N&notify_id=d2483b1e67d59210eefd4f94fc32052m0t&notify_time=2018-03-01 23:44:27&notify_type=trade_status_sync&out_trade_no=20180301151991904143685&payment_type=1&price=7.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=7.00&trade_no=2018030121001004780593699155&trade_status=TRADE_SUCCESS&use_coupon=N sign=38cf061998c65c3b82673dc2847aff8b 
+
+[2018-03-01 23:44:27] getResponse partner=2088511580474070 notify_id=d2483b1e67d59210eefd4f94fc32052m0t 
+
+[2018-03-01 23:44:27] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 23:44:27] verifyNotify ok: out_trade_no=20180301151991904143685 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 23:44:29] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tvf8ekPRrF%2ByWRPUcnPgV%2B1AJ7VVavaa1nwIOeLSxy0UaxX&notify_time=2018-03-01 23:44:29&notify_type=trade_status_sync&out_trade_no=20180301151991904143685&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=7.00&trade_no=2018030121001004780593699155&trade_status=TRADE_SUCCESS sign=731be724ced2fe6fb18f5d12797ec10a 
+
+[2018-03-01 23:44:29] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih32tvf8ekPRrF%2ByWRPUcnPgV%2B1AJ7VVavaa1nwIOeLSxy0UaxX 
+
+[2018-03-01 23:44:29] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-01 23:44:29] verifyReturn ok: partner=2088511580474070 out_trade_no=20180301151991904143685 trade_status=TRADE_SUCCESS
+
+[2018-03-01 23:44:49] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:40:33&gmt_payment=2018-03-01 23:40:33&is_total_fee_adjust=N&notify_id=3a79f731b6a63094392363b627bd6f5m0t&notify_time=2018-03-01 23:44:49&notify_type=trade_status_sync&out_trade_no=20180301151991880738743&payment_type=1&price=1.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=1.00&trade_no=2018030121001004780593680586&trade_status=TRADE_SUCCESS&use_coupon=N sign=c6aa1352a035fa0d39c0bd99c59e266d 
+
+[2018-03-01 23:44:49] getResponse partner=2088511580474070 notify_id=3a79f731b6a63094392363b627bd6f5m0t 
+
+[2018-03-01 23:44:50] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 23:44:50] verifyNotify ok: out_trade_no=20180301151991880738743 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 23:48:08] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:34:44&gmt_payment=2018-03-01 23:34:44&is_total_fee_adjust=N&notify_id=71d888687023d69879f3b3e9cd5e0b2m0t&notify_time=2018-03-01 23:48:08&notify_type=trade_status_sync&out_trade_no=20180301151991845593022&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004780593856898&trade_status=TRADE_SUCCESS&use_coupon=N sign=2af795a5e8388ad7a56301d0cb26251c 
+
+[2018-03-01 23:48:08] getResponse partner=2088511580474070 notify_id=71d888687023d69879f3b3e9cd5e0b2m0t 
+
+[2018-03-01 23:48:08] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 23:48:08] verifyNotify ok: out_trade_no=20180301151991845593022 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 23:48:38] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:44:26&gmt_payment=2018-03-01 23:44:27&is_total_fee_adjust=N&notify_id=d2483b1e67d59210eefd4f94fc32052m0t&notify_time=2018-03-01 23:48:38&notify_type=trade_status_sync&out_trade_no=20180301151991904143685&payment_type=1&price=7.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=7.00&trade_no=2018030121001004780593699155&trade_status=TRADE_SUCCESS&use_coupon=N sign=4aefbc2a6916d6561056498a70b15fd4 
+
+[2018-03-01 23:48:38] getResponse partner=2088511580474070 notify_id=d2483b1e67d59210eefd4f94fc32052m0t 
+
+[2018-03-01 23:48:38] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 23:48:38] verifyNotify ok: out_trade_no=20180301151991904143685 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 23:54:30] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:40:33&gmt_payment=2018-03-01 23:40:33&is_total_fee_adjust=N&notify_id=3a79f731b6a63094392363b627bd6f5m0t&notify_time=2018-03-01 23:54:30&notify_type=trade_status_sync&out_trade_no=20180301151991880738743&payment_type=1&price=1.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=1.00&trade_no=2018030121001004780593680586&trade_status=TRADE_SUCCESS&use_coupon=N sign=b42fd11247130f63d9cc921d342d4475 
+
+[2018-03-01 23:54:30] getResponse partner=2088511580474070 notify_id=3a79f731b6a63094392363b627bd6f5m0t 
+
+[2018-03-01 23:54:30] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 23:54:30] verifyNotify ok: out_trade_no=20180301151991880738743 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 23:58:09] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:34:44&gmt_payment=2018-03-01 23:34:44&is_total_fee_adjust=N&notify_id=71d888687023d69879f3b3e9cd5e0b2m0t&notify_time=2018-03-01 23:58:09&notify_type=trade_status_sync&out_trade_no=20180301151991845593022&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004780593856898&trade_status=TRADE_SUCCESS&use_coupon=N sign=d9861df93fe92fd1083409e9f90fd78d 
+
+[2018-03-01 23:58:09] getResponse partner=2088511580474070 notify_id=71d888687023d69879f3b3e9cd5e0b2m0t 
+
+[2018-03-01 23:58:09] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 23:58:09] verifyNotify ok: out_trade_no=20180301151991845593022 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-01 23:58:39] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:44:26&gmt_payment=2018-03-01 23:44:27&is_total_fee_adjust=N&notify_id=d2483b1e67d59210eefd4f94fc32052m0t&notify_time=2018-03-01 23:58:38&notify_type=trade_status_sync&out_trade_no=20180301151991904143685&payment_type=1&price=7.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=7.00&trade_no=2018030121001004780593699155&trade_status=TRADE_SUCCESS&use_coupon=N sign=fb9f49981fe2d2ff27a05cda14d0793d 
+
+[2018-03-01 23:58:39] getResponse partner=2088511580474070 notify_id=d2483b1e67d59210eefd4f94fc32052m0t 
+
+[2018-03-01 23:58:39] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-01 23:58:39] verifyNotify ok: out_trade_no=20180301151991904143685 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 00:04:38] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:40:33&gmt_payment=2018-03-01 23:40:33&is_total_fee_adjust=N&notify_id=3a79f731b6a63094392363b627bd6f5m0t&notify_time=2018-03-02 00:04:38&notify_type=trade_status_sync&out_trade_no=20180301151991880738743&payment_type=1&price=1.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=1.00&trade_no=2018030121001004780593680586&trade_status=TRADE_SUCCESS&use_coupon=N sign=862d8209a89521615025c1e395248cb3 
+
+[2018-03-02 00:04:38] getResponse partner=2088511580474070 notify_id=3a79f731b6a63094392363b627bd6f5m0t 
+
+[2018-03-02 00:04:38] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 00:04:38] verifyNotify ok: out_trade_no=20180301151991880738743 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 00:08:29] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:44:26&gmt_payment=2018-03-01 23:44:27&is_total_fee_adjust=N&notify_id=d2483b1e67d59210eefd4f94fc32052m0t&notify_time=2018-03-02 00:08:29&notify_type=trade_status_sync&out_trade_no=20180301151991904143685&payment_type=1&price=7.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=7.00&trade_no=2018030121001004780593699155&trade_status=TRADE_SUCCESS&use_coupon=N sign=52f3f18d1c3949a7807e44101111e1a4 
+
+[2018-03-02 00:08:29] getResponse partner=2088511580474070 notify_id=d2483b1e67d59210eefd4f94fc32052m0t 
+
+[2018-03-02 00:08:29] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 00:08:29] verifyNotify ok: out_trade_no=20180301151991904143685 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 00:08:49] getSignVeryfy prestr=buyer_email=155****7928&buyer_id=2088222285672215&gmt_create=2018-03-01 20:44:13&gmt_payment=2018-03-01 20:44:19&is_total_fee_adjust=N&notify_id=adfde507cd240a4ed6ad419b0317830hmh&notify_time=2018-03-02 00:08:49&notify_type=trade_status_sync&out_trade_no=20180301151990822073204&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004210509938953&trade_status=TRADE_SUCCESS&use_coupon=N sign=70b7007b347a9558518ca2734a99b5ed 
+
+[2018-03-02 00:08:49] getResponse partner=2088511580474070 notify_id=adfde507cd240a4ed6ad419b0317830hmh 
+
+[2018-03-02 00:08:49] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 00:08:49] verifyNotify ok: out_trade_no=20180301151990822073204 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 00:19:21] getSignVeryfy prestr=buyer_email=61-4****1325&buyer_id=2088612189140637&gmt_create=2018-03-01 20:55:12&gmt_payment=2018-03-01 20:55:12&is_total_fee_adjust=N&notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5&notify_time=2018-03-02 00:19:21&notify_type=trade_status_sync&out_trade_no=20180301151990889391794&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030121001004630599804818&trade_status=TRADE_SUCCESS&use_coupon=N sign=8e36307938a5298b24e279efb889b403 
+
+[2018-03-02 00:19:21] getResponse partner=2088511580474070 notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5 
+
+[2018-03-02 00:19:21] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 00:19:21] verifyNotify ok: out_trade_no=20180301151990889391794 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 00:58:08] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:34:44&gmt_payment=2018-03-01 23:34:44&is_total_fee_adjust=N&notify_id=71d888687023d69879f3b3e9cd5e0b2m0t&notify_time=2018-03-02 00:58:08&notify_type=trade_status_sync&out_trade_no=20180301151991845593022&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004780593856898&trade_status=TRADE_SUCCESS&use_coupon=N sign=f9ae9a862029469fa9832f0083471803 
+
+[2018-03-02 00:58:08] getResponse partner=2088511580474070 notify_id=71d888687023d69879f3b3e9cd5e0b2m0t 
+
+[2018-03-02 00:58:08] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 00:58:08] verifyNotify ok: out_trade_no=20180301151991845593022 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 01:04:15] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:40:33&gmt_payment=2018-03-01 23:40:33&is_total_fee_adjust=N&notify_id=3a79f731b6a63094392363b627bd6f5m0t&notify_time=2018-03-02 01:04:15&notify_type=trade_status_sync&out_trade_no=20180301151991880738743&payment_type=1&price=1.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=1.00&trade_no=2018030121001004780593680586&trade_status=TRADE_SUCCESS&use_coupon=N sign=6898244fae3ecfdaea99f3d675d147b4 
+
+[2018-03-02 01:04:15] getResponse partner=2088511580474070 notify_id=3a79f731b6a63094392363b627bd6f5m0t 
+
+[2018-03-02 01:04:15] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 01:04:15] verifyNotify ok: out_trade_no=20180301151991880738743 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 01:08:33] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:44:26&gmt_payment=2018-03-01 23:44:27&is_total_fee_adjust=N&notify_id=d2483b1e67d59210eefd4f94fc32052m0t&notify_time=2018-03-02 01:08:33&notify_type=trade_status_sync&out_trade_no=20180301151991904143685&payment_type=1&price=7.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=7.00&trade_no=2018030121001004780593699155&trade_status=TRADE_SUCCESS&use_coupon=N sign=e9ac0548d2b6c855a94f6acd4ff94df7 
+
+[2018-03-02 01:08:33] getResponse partner=2088511580474070 notify_id=d2483b1e67d59210eefd4f94fc32052m0t 
+
+[2018-03-02 01:08:33] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 01:08:33] verifyNotify ok: out_trade_no=20180301151991904143685 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 02:58:31] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:34:44&gmt_payment=2018-03-01 23:34:44&is_total_fee_adjust=N&notify_id=71d888687023d69879f3b3e9cd5e0b2m0t&notify_time=2018-03-02 02:58:31&notify_type=trade_status_sync&out_trade_no=20180301151991845593022&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004780593856898&trade_status=TRADE_SUCCESS&use_coupon=N sign=54699ce38afd6122d4cd2024885816f4 
+
+[2018-03-02 02:58:31] getResponse partner=2088511580474070 notify_id=71d888687023d69879f3b3e9cd5e0b2m0t 
+
+[2018-03-02 02:58:31] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 02:58:31] verifyNotify ok: out_trade_no=20180301151991845593022 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 03:04:05] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:40:33&gmt_payment=2018-03-01 23:40:33&is_total_fee_adjust=N&notify_id=3a79f731b6a63094392363b627bd6f5m0t&notify_time=2018-03-02 03:04:05&notify_type=trade_status_sync&out_trade_no=20180301151991880738743&payment_type=1&price=1.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=1.00&trade_no=2018030121001004780593680586&trade_status=TRADE_SUCCESS&use_coupon=N sign=94caa0cc3386239a331bb1662b56e00b 
+
+[2018-03-02 03:04:05] getResponse partner=2088511580474070 notify_id=3a79f731b6a63094392363b627bd6f5m0t 
+
+[2018-03-02 03:04:05] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 03:04:05] verifyNotify ok: out_trade_no=20180301151991880738743 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 03:08:40] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:44:26&gmt_payment=2018-03-01 23:44:27&is_total_fee_adjust=N&notify_id=d2483b1e67d59210eefd4f94fc32052m0t&notify_time=2018-03-02 03:08:40&notify_type=trade_status_sync&out_trade_no=20180301151991904143685&payment_type=1&price=7.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=7.00&trade_no=2018030121001004780593699155&trade_status=TRADE_SUCCESS&use_coupon=N sign=e6c36d70d907b9206a7c4732005faddd 
+
+[2018-03-02 03:08:40] getResponse partner=2088511580474070 notify_id=d2483b1e67d59210eefd4f94fc32052m0t 
+
+[2018-03-02 03:08:40] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 03:08:40] verifyNotify ok: out_trade_no=20180301151991904143685 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 06:08:40] getSignVeryfy prestr=buyer_email=155****7928&buyer_id=2088222285672215&gmt_create=2018-03-01 20:44:13&gmt_payment=2018-03-01 20:44:19&is_total_fee_adjust=N&notify_id=adfde507cd240a4ed6ad419b0317830hmh&notify_time=2018-03-02 06:08:40&notify_type=trade_status_sync&out_trade_no=20180301151990822073204&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004210509938953&trade_status=TRADE_SUCCESS&use_coupon=N sign=09bb40ba2874646d72fcc20a02c7a218 
+
+[2018-03-02 06:08:40] getResponse partner=2088511580474070 notify_id=adfde507cd240a4ed6ad419b0317830hmh 
+
+[2018-03-02 06:08:40] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 06:08:40] verifyNotify ok: out_trade_no=20180301151990822073204 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 06:19:40] getSignVeryfy prestr=buyer_email=61-4****1325&buyer_id=2088612189140637&gmt_create=2018-03-01 20:55:12&gmt_payment=2018-03-01 20:55:12&is_total_fee_adjust=N&notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5&notify_time=2018-03-02 06:19:40&notify_type=trade_status_sync&out_trade_no=20180301151990889391794&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030121001004630599804818&trade_status=TRADE_SUCCESS&use_coupon=N sign=2861a6570583a346b6f8b2d17345e805 
+
+[2018-03-02 06:19:40] getResponse partner=2088511580474070 notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5 
+
+[2018-03-02 06:19:40] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 06:19:40] verifyNotify ok: out_trade_no=20180301151990889391794 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 08:58:14] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:34:44&gmt_payment=2018-03-01 23:34:44&is_total_fee_adjust=N&notify_id=71d888687023d69879f3b3e9cd5e0b2m0t&notify_time=2018-03-02 08:58:14&notify_type=trade_status_sync&out_trade_no=20180301151991845593022&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004780593856898&trade_status=TRADE_SUCCESS&use_coupon=N sign=0b0efb1d6c11367ead5fd2b502e992da 
+
+[2018-03-02 08:58:14] getResponse partner=2088511580474070 notify_id=71d888687023d69879f3b3e9cd5e0b2m0t 
+
+[2018-03-02 08:58:15] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 08:58:15] verifyNotify ok: out_trade_no=20180301151991845593022 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 09:04:29] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:40:33&gmt_payment=2018-03-01 23:40:33&is_total_fee_adjust=N&notify_id=3a79f731b6a63094392363b627bd6f5m0t&notify_time=2018-03-02 09:04:29&notify_type=trade_status_sync&out_trade_no=20180301151991880738743&payment_type=1&price=1.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=1.00&trade_no=2018030121001004780593680586&trade_status=TRADE_SUCCESS&use_coupon=N sign=bf94a8c2632202466e57df26c5ca455d 
+
+[2018-03-02 09:04:29] getResponse partner=2088511580474070 notify_id=3a79f731b6a63094392363b627bd6f5m0t 
+
+[2018-03-02 09:04:29] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 09:04:29] verifyNotify ok: out_trade_no=20180301151991880738743 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 09:08:02] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:44:26&gmt_payment=2018-03-01 23:44:27&is_total_fee_adjust=N&notify_id=d2483b1e67d59210eefd4f94fc32052m0t&notify_time=2018-03-02 09:08:02&notify_type=trade_status_sync&out_trade_no=20180301151991904143685&payment_type=1&price=7.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=7.00&trade_no=2018030121001004780593699155&trade_status=TRADE_SUCCESS&use_coupon=N sign=5d724d422144e2d82079db4ed65ff720 
+
+[2018-03-02 09:08:02] getResponse partner=2088511580474070 notify_id=d2483b1e67d59210eefd4f94fc32052m0t 
+
+[2018-03-02 09:08:03] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 09:08:03] verifyNotify ok: out_trade_no=20180301151991904143685 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 10:41:42] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-02 10:41:42] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-02 15:53:01] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-02 15:53:01] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-02 21:08:37] getSignVeryfy prestr=buyer_email=155****7928&buyer_id=2088222285672215&gmt_create=2018-03-01 20:44:13&gmt_payment=2018-03-01 20:44:19&is_total_fee_adjust=N&notify_id=adfde507cd240a4ed6ad419b0317830hmh&notify_time=2018-03-02 21:08:37&notify_type=trade_status_sync&out_trade_no=20180301151990822073204&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004210509938953&trade_status=TRADE_SUCCESS&use_coupon=N sign=d3c069e55fb403875a5ab83cbc9b3ca9 
+
+[2018-03-02 21:08:37] getResponse partner=2088511580474070 notify_id=adfde507cd240a4ed6ad419b0317830hmh 
+
+[2018-03-02 21:08:37] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 21:08:37] verifyNotify ok: out_trade_no=20180301151990822073204 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 21:19:41] getSignVeryfy prestr=buyer_email=61-4****1325&buyer_id=2088612189140637&gmt_create=2018-03-01 20:55:12&gmt_payment=2018-03-01 20:55:12&is_total_fee_adjust=N&notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5&notify_time=2018-03-02 21:19:41&notify_type=trade_status_sync&out_trade_no=20180301151990889391794&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030121001004630599804818&trade_status=TRADE_SUCCESS&use_coupon=N sign=161abdef75d163f8bdae0b406739e310 
+
+[2018-03-02 21:19:41] getResponse partner=2088511580474070 notify_id=8b6f6218b8eda829f44d5c61f56d26ckv5 
+
+[2018-03-02 21:19:41] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 21:19:41] verifyNotify ok: out_trade_no=20180301151990889391794 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-02 23:58:32] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:34:44&gmt_payment=2018-03-01 23:34:44&is_total_fee_adjust=N&notify_id=71d888687023d69879f3b3e9cd5e0b2m0t&notify_time=2018-03-02 23:58:32&notify_type=trade_status_sync&out_trade_no=20180301151991845593022&payment_type=1&price=8.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=8.00&trade_no=2018030121001004780593856898&trade_status=TRADE_SUCCESS&use_coupon=N sign=0e0edb48f3ec1cb1ca95efd239f018e2 
+
+[2018-03-02 23:58:32] getResponse partner=2088511580474070 notify_id=71d888687023d69879f3b3e9cd5e0b2m0t 
+
+[2018-03-02 23:58:32] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-02 23:58:32] verifyNotify ok: out_trade_no=20180301151991845593022 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 00:04:48] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:40:33&gmt_payment=2018-03-01 23:40:33&is_total_fee_adjust=N&notify_id=3a79f731b6a63094392363b627bd6f5m0t&notify_time=2018-03-03 00:04:48&notify_type=trade_status_sync&out_trade_no=20180301151991880738743&payment_type=1&price=1.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=1.00&trade_no=2018030121001004780593680586&trade_status=TRADE_SUCCESS&use_coupon=N sign=4b6dfefaca3eaa0f3fffd41f7eacad15 
+
+[2018-03-03 00:04:48] getResponse partner=2088511580474070 notify_id=3a79f731b6a63094392363b627bd6f5m0t 
+
+[2018-03-03 00:04:49] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 00:04:49] verifyNotify ok: out_trade_no=20180301151991880738743 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 00:08:21] getSignVeryfy prestr=buyer_email=139****8292&buyer_id=2088522362853781&gmt_create=2018-03-01 23:44:26&gmt_payment=2018-03-01 23:44:27&is_total_fee_adjust=N&notify_id=d2483b1e67d59210eefd4f94fc32052m0t&notify_time=2018-03-03 00:08:21&notify_type=trade_status_sync&out_trade_no=20180301151991904143685&payment_type=1&price=7.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=7.00&trade_no=2018030121001004780593699155&trade_status=TRADE_SUCCESS&use_coupon=N sign=07d30bbda15e47d8cbe9caaf6fa255f9 
+
+[2018-03-03 00:08:21] getResponse partner=2088511580474070 notify_id=d2483b1e67d59210eefd4f94fc32052m0t 
+
+[2018-03-03 00:08:21] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 00:08:21] verifyNotify ok: out_trade_no=20180301151991904143685 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 00:51:40] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-03 00:51:40] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-03 00:51:48] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-03 00:51:48] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-03 00:52:29] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-03-03 00:52:29&gmt_payment=2018-03-03 00:52:29&is_total_fee_adjust=N&notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31&notify_time=2018-03-03 00:52:29&notify_type=trade_status_sync&out_trade_no=84488820180303005146&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018030321001004140582360837&trade_status=TRADE_SUCCESS&use_coupon=N sign=be30c1cefb2602e06ba21593bc4484cf 
+
+[2018-03-03 00:52:29] getResponse partner=2088511580474070 notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31 
+
+[2018-03-03 00:52:29] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 00:52:29] verifyNotify ok: out_trade_no=84488820180303005146 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 00:52:31] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9Sxy%2BmRSM9UaFZgIAjKD9mYcRJlv9%2F5T74o3aQEqBBxnJ%2Bn&notify_time=2018-03-03 00:52:31&notify_type=trade_status_sync&out_trade_no=84488820180303005146&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.03&trade_no=2018030321001004140582360837&trade_status=TRADE_SUCCESS sign=5578b80a4078acf72af243de07251d3d 
+
+[2018-03-03 00:52:31] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9Sxy%2BmRSM9UaFZgIAjKD9mYcRJlv9%2F5T74o3aQEqBBxnJ%2Bn 
+
+[2018-03-03 00:52:31] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-03 00:52:31] verifyReturn ok: partner=2088511580474070 out_trade_no=84488820180303005146 trade_status=TRADE_SUCCESS
+
+[2018-03-03 00:53:31] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9Sxy%2BmRSM9UaFZgIAjKD9mYcRJlv9%2F5T74o3aQEqBBxnJ%2Bn&notify_time=2018-03-03 00:52:31&notify_type=trade_status_sync&out_trade_no=84488820180303005146&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.03&trade_no=2018030321001004140582360837&trade_status=TRADE_SUCCESS sign=5578b80a4078acf72af243de07251d3d 
+
+[2018-03-03 00:53:31] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9Sxy%2BmRSM9UaFZgIAjKD9mYcRJlv9%2F5T74o3aQEqBBxnJ%2Bn 
+
+[2018-03-03 00:53:31] verifyReturn responseTxt=[false][0] isSign=[false] 
+
+[2018-03-03 00:53:31] verifyReturn fail: partner=2088511580474070 seller_email=yundai@hzit.com  out_trade_no=84488820180303005146 trade_status=TRADE_SUCCESS
+
+[2018-03-03 00:53:31] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9Sxy%2BmRSM9UaFZgIAjKD9mYcRJlv9%2F5T74o3aQEqBBxnJ%2Bn&notify_time=2018-03-03 00:52:31&notify_type=trade_status_sync&out_trade_no=84488820180303005146&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=0.03&trade_no=2018030321001004140582360837&trade_status=TRADE_SUCCESS sign=5578b80a4078acf72af243de07251d3d 
+
+[2018-03-03 00:53:31] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9Sxy%2BmRSM9UaFZgIAjKD9mYcRJlv9%2F5T74o3aQEqBBxnJ%2Bn 
+
+[2018-03-03 00:53:31] verifyReturn responseTxt=[false][0] isSign=[false] 
+
+[2018-03-03 00:53:31] verifyReturn fail: partner=2088511580474070 seller_email=yundai@hzit.com  out_trade_no=84488820180303005146 trade_status=TRADE_SUCCESS
+
+[2018-03-03 00:56:13] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-03-03 00:52:29&gmt_payment=2018-03-03 00:52:29&is_total_fee_adjust=N&notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31&notify_time=2018-03-03 00:56:13&notify_type=trade_status_sync&out_trade_no=84488820180303005146&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018030321001004140582360837&trade_status=TRADE_SUCCESS&use_coupon=N sign=5183edb2bad4df66a1846cda0c81fa8b 
+
+[2018-03-03 00:56:13] getResponse partner=2088511580474070 notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31 
+
+[2018-03-03 00:56:13] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 00:56:13] verifyNotify ok: out_trade_no=84488820180303005146 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 01:06:35] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-03-03 00:52:29&gmt_payment=2018-03-03 00:52:29&is_total_fee_adjust=N&notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31&notify_time=2018-03-03 01:06:35&notify_type=trade_status_sync&out_trade_no=84488820180303005146&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018030321001004140582360837&trade_status=TRADE_SUCCESS&use_coupon=N sign=2363a36452a97646e01a196b2440da9e 
+
+[2018-03-03 01:06:35] getResponse partner=2088511580474070 notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31 
+
+[2018-03-03 01:06:35] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 01:06:35] verifyNotify ok: out_trade_no=84488820180303005146 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 01:16:43] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-03-03 00:52:29&gmt_payment=2018-03-03 00:52:29&is_total_fee_adjust=N&notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31&notify_time=2018-03-03 01:16:43&notify_type=trade_status_sync&out_trade_no=84488820180303005146&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018030321001004140582360837&trade_status=TRADE_SUCCESS&use_coupon=N sign=4b953f7179c3047acda23624c14a6f7e 
+
+[2018-03-03 01:16:43] getResponse partner=2088511580474070 notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31 
+
+[2018-03-03 01:16:43] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 01:16:43] verifyNotify ok: out_trade_no=84488820180303005146 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 02:16:41] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-03-03 00:52:29&gmt_payment=2018-03-03 00:52:29&is_total_fee_adjust=N&notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31&notify_time=2018-03-03 02:16:41&notify_type=trade_status_sync&out_trade_no=84488820180303005146&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018030321001004140582360837&trade_status=TRADE_SUCCESS&use_coupon=N sign=d0eccb51a7abefe625e0df81ee370852 
+
+[2018-03-03 02:16:41] getResponse partner=2088511580474070 notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31 
+
+[2018-03-03 02:16:41] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 02:16:41] verifyNotify ok: out_trade_no=84488820180303005146 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 03:53:17] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-03 03:53:17] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-03 03:53:50] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:53:49&gmt_payment=2018-03-03 03:53:50&is_total_fee_adjust=N&notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa&notify_time=2018-03-03 03:53:50&notify_type=trade_status_sync&out_trade_no=20180303152002037982539&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350252396545&trade_status=TRADE_SUCCESS&use_coupon=N sign=5c1e9b5b1715131e61519052921f4596 
+
+[2018-03-03 03:53:50] getResponse partner=2088511580474070 notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa 
+
+[2018-03-03 03:53:50] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 03:53:50] verifyNotify ok: out_trade_no=20180303152002037982539 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 03:53:52] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySJCjtSAVxN5T2sQydjAe8AGtMg%2F2T0ynmFQ0NMas2B5&notify_time=2018-03-03 03:53:50&notify_type=trade_status_sync&out_trade_no=20180303152002037982539&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350252396545&trade_status=TRADE_SUCCESS sign=82ef33d01d994b9365d0f927fddb8ddb 
+
+[2018-03-03 03:53:52] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySJCjtSAVxN5T2sQydjAe8AGtMg%2F2T0ynmFQ0NMas2B5 
+
+[2018-03-03 03:53:52] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-03 03:53:52] verifyReturn ok: partner=2088511580474070 out_trade_no=20180303152002037982539 trade_status=TRADE_SUCCESS
+
+[2018-03-03 03:54:52] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySJCjtSAVxN5T2sQydjAe8AGtMg%2F2T0ynmFQ0NMas2B5&notify_time=2018-03-03 03:53:50&notify_type=trade_status_sync&out_trade_no=20180303152002037982539&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350252396545&trade_status=TRADE_SUCCESS sign=82ef33d01d994b9365d0f927fddb8ddb 
+
+[2018-03-03 03:54:52] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySJCjtSAVxN5T2sQydjAe8AGtMg%2F2T0ynmFQ0NMas2B5 
+
+[2018-03-03 03:54:52] verifyReturn responseTxt=[false][0] isSign=[false] 
+
+[2018-03-03 03:54:52] verifyReturn fail: partner=2088511580474070 seller_email=yundai@hzit.com  out_trade_no=20180303152002037982539 trade_status=TRADE_SUCCESS
+
+[2018-03-03 03:57:37] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-03 03:57:37] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-03 03:57:43] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:53:49&gmt_payment=2018-03-03 03:53:50&is_total_fee_adjust=N&notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa&notify_time=2018-03-03 03:57:43&notify_type=trade_status_sync&out_trade_no=20180303152002037982539&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350252396545&trade_status=TRADE_SUCCESS&use_coupon=N sign=95eef5bc12a944903228b76f39e1d5d9 
+
+[2018-03-03 03:57:43] getResponse partner=2088511580474070 notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa 
+
+[2018-03-03 03:57:43] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 03:57:43] verifyNotify ok: out_trade_no=20180303152002037982539 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 03:57:50] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:57:49&gmt_payment=2018-03-03 03:57:50&is_total_fee_adjust=N&notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa&notify_time=2018-03-03 03:57:50&notify_type=trade_status_sync&out_trade_no=20180303152002064538231&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350253815956&trade_status=TRADE_SUCCESS&use_coupon=N sign=8e2f9fb9a5b6b35dc9f720b1fd6cc87c 
+
+[2018-03-03 03:57:50] getResponse partner=2088511580474070 notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa 
+
+[2018-03-03 03:57:50] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 03:57:50] verifyNotify ok: out_trade_no=20180303152002064538231 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 03:57:59] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySBVMOA%2BVpBRchJRK8yjzWrNNsqzjDpcnqCR0KdkQ3HQ&notify_time=2018-03-03 03:57:50&notify_type=trade_status_sync&out_trade_no=20180303152002064538231&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350253815956&trade_status=TRADE_SUCCESS sign=4bdd9acdcbee7108c8da5b63db2d1c76 
+
+[2018-03-03 03:57:59] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySBVMOA%2BVpBRchJRK8yjzWrNNsqzjDpcnqCR0KdkQ3HQ 
+
+[2018-03-03 03:57:59] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-03 03:57:59] verifyReturn ok: partner=2088511580474070 out_trade_no=20180303152002064538231 trade_status=TRADE_SUCCESS
+
+[2018-03-03 03:58:05] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySBaIfXxu0CUoDsLBZllf9bA40GeTPtCqjfpM%2B1BwUPJ&notify_time=2018-03-03 03:58:05&notify_type=trade_status_sync&out_trade_no=20180303152002064538231&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350253815956&trade_status=TRADE_SUCCESS sign=f6d7a8b5c3a4a9dd0a2a801938e5431c 
+
+[2018-03-03 03:58:05] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySBaIfXxu0CUoDsLBZllf9bA40GeTPtCqjfpM%2B1BwUPJ 
+
+[2018-03-03 03:58:05] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-03 03:58:05] verifyReturn ok: partner=2088511580474070 out_trade_no=20180303152002064538231 trade_status=TRADE_SUCCESS
+
+[2018-03-03 03:58:59] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySBVMOA%2BVpBRchJRK8yjzWrNNsqzjDpcnqCR0KdkQ3HQ&notify_time=2018-03-03 03:57:50&notify_type=trade_status_sync&out_trade_no=20180303152002064538231&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350253815956&trade_status=TRADE_SUCCESS sign=4bdd9acdcbee7108c8da5b63db2d1c76 
+
+[2018-03-03 03:58:59] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySBVMOA%2BVpBRchJRK8yjzWrNNsqzjDpcnqCR0KdkQ3HQ 
+
+[2018-03-03 03:58:59] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySBVMOA%2BVpBRchJRK8yjzWrNNsqzjDpcnqCR0KdkQ3HQ&notify_time=2018-03-03 03:57:50&notify_type=trade_status_sync&out_trade_no=20180303152002064538231&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350253815956&trade_status=TRADE_SUCCESS sign=4bdd9acdcbee7108c8da5b63db2d1c76 
+
+[2018-03-03 03:58:59] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySBVMOA%2BVpBRchJRK8yjzWrNNsqzjDpcnqCR0KdkQ3HQ 
+
+[2018-03-03 03:58:59] verifyReturn responseTxt=[false][0] isSign=[false] 
+
+[2018-03-03 03:58:59] verifyReturn fail: partner=2088511580474070 seller_email=yundai@hzit.com  out_trade_no=20180303152002064538231 trade_status=TRADE_SUCCESS
+
+[2018-03-03 03:58:59] verifyReturn responseTxt=[false][0] isSign=[false] 
+
+[2018-03-03 03:58:59] verifyReturn fail: partner=2088511580474070 seller_email=yundai@hzit.com  out_trade_no=20180303152002064538231 trade_status=TRADE_SUCCESS
+
+[2018-03-03 03:59:05] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySBaIfXxu0CUoDsLBZllf9bA40GeTPtCqjfpM%2B1BwUPJ&notify_time=2018-03-03 03:58:05&notify_type=trade_status_sync&out_trade_no=20180303152002064538231&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350253815956&trade_status=TRADE_SUCCESS sign=f6d7a8b5c3a4a9dd0a2a801938e5431c 
+
+[2018-03-03 03:59:05] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9SzySBaIfXxu0CUoDsLBZllf9bA40GeTPtCqjfpM%2B1BwUPJ 
+
+[2018-03-03 03:59:05] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-03 03:59:05] verifyReturn ok: partner=2088511580474070 out_trade_no=20180303152002064538231 trade_status=TRADE_SUCCESS
+
+[2018-03-03 04:01:38] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:57:49&gmt_payment=2018-03-03 03:57:50&is_total_fee_adjust=N&notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa&notify_time=2018-03-03 04:01:38&notify_type=trade_status_sync&out_trade_no=20180303152002064538231&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350253815956&trade_status=TRADE_SUCCESS&use_coupon=N sign=6f6289e96cda699b356e3f744546e021 
+
+[2018-03-03 04:01:38] getResponse partner=2088511580474070 notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa 
+
+[2018-03-03 04:01:38] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 04:01:38] verifyNotify ok: out_trade_no=20180303152002064538231 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 04:07:03] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:53:49&gmt_payment=2018-03-03 03:53:50&is_total_fee_adjust=N&notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa&notify_time=2018-03-03 04:07:03&notify_type=trade_status_sync&out_trade_no=20180303152002037982539&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350252396545&trade_status=TRADE_SUCCESS&use_coupon=N sign=d452cb4c54a7cc0d9a5aba28d23320ad 
+
+[2018-03-03 04:07:03] getResponse partner=2088511580474070 notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa 
+
+[2018-03-03 04:07:04] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 04:07:04] verifyNotify ok: out_trade_no=20180303152002037982539 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 04:11:39] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:57:49&gmt_payment=2018-03-03 03:57:50&is_total_fee_adjust=N&notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa&notify_time=2018-03-03 04:11:39&notify_type=trade_status_sync&out_trade_no=20180303152002064538231&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350253815956&trade_status=TRADE_SUCCESS&use_coupon=N sign=32ea6eaaf8e753715f2bb0c77dee0f1c 
+
+[2018-03-03 04:11:39] getResponse partner=2088511580474070 notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa 
+
+[2018-03-03 04:11:39] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 04:11:39] verifyNotify ok: out_trade_no=20180303152002064538231 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 04:16:21] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-03-03 00:52:29&gmt_payment=2018-03-03 00:52:29&is_total_fee_adjust=N&notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31&notify_time=2018-03-03 04:16:21&notify_type=trade_status_sync&out_trade_no=84488820180303005146&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018030321001004140582360837&trade_status=TRADE_SUCCESS&use_coupon=N sign=6505bc658160713f15a89b847ca51658 
+
+[2018-03-03 04:16:21] getResponse partner=2088511580474070 notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31 
+
+[2018-03-03 04:16:21] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 04:16:21] verifyNotify ok: out_trade_no=84488820180303005146 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 04:17:24] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:53:49&gmt_payment=2018-03-03 03:53:50&is_total_fee_adjust=N&notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa&notify_time=2018-03-03 04:17:24&notify_type=trade_status_sync&out_trade_no=20180303152002037982539&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350252396545&trade_status=TRADE_SUCCESS&use_coupon=N sign=511b73728bb11838a855641f70b9960e 
+
+[2018-03-03 04:17:24] getResponse partner=2088511580474070 notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa 
+
+[2018-03-03 04:17:24] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 04:17:24] verifyNotify ok: out_trade_no=20180303152002037982539 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 04:21:19] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:57:49&gmt_payment=2018-03-03 03:57:50&is_total_fee_adjust=N&notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa&notify_time=2018-03-03 04:21:19&notify_type=trade_status_sync&out_trade_no=20180303152002064538231&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350253815956&trade_status=TRADE_SUCCESS&use_coupon=N sign=f427406429c9978d1df04daf95818981 
+
+[2018-03-03 04:21:19] getResponse partner=2088511580474070 notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa 
+
+[2018-03-03 04:21:19] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 04:21:19] verifyNotify ok: out_trade_no=20180303152002064538231 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 05:17:28] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:53:49&gmt_payment=2018-03-03 03:53:50&is_total_fee_adjust=N&notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa&notify_time=2018-03-03 05:17:27&notify_type=trade_status_sync&out_trade_no=20180303152002037982539&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350252396545&trade_status=TRADE_SUCCESS&use_coupon=N sign=e24818c2cb941708b4a66b418a4e5657 
+
+[2018-03-03 05:17:28] getResponse partner=2088511580474070 notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa 
+
+[2018-03-03 05:17:28] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 05:17:28] verifyNotify ok: out_trade_no=20180303152002037982539 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 05:21:05] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:57:49&gmt_payment=2018-03-03 03:57:50&is_total_fee_adjust=N&notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa&notify_time=2018-03-03 05:21:05&notify_type=trade_status_sync&out_trade_no=20180303152002064538231&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350253815956&trade_status=TRADE_SUCCESS&use_coupon=N sign=af20ccd1d507a5958d831eff03ef565a 
+
+[2018-03-03 05:21:05] getResponse partner=2088511580474070 notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa 
+
+[2018-03-03 05:21:05] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 05:21:05] verifyNotify ok: out_trade_no=20180303152002064538231 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 07:17:27] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:53:49&gmt_payment=2018-03-03 03:53:50&is_total_fee_adjust=N&notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa&notify_time=2018-03-03 07:17:27&notify_type=trade_status_sync&out_trade_no=20180303152002037982539&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350252396545&trade_status=TRADE_SUCCESS&use_coupon=N sign=929ada8b297662af26b0a4150b6d3214 
+
+[2018-03-03 07:17:27] getResponse partner=2088511580474070 notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa 
+
+[2018-03-03 07:17:27] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 07:17:27] verifyNotify ok: out_trade_no=20180303152002037982539 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 07:21:40] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:57:49&gmt_payment=2018-03-03 03:57:50&is_total_fee_adjust=N&notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa&notify_time=2018-03-03 07:21:40&notify_type=trade_status_sync&out_trade_no=20180303152002064538231&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350253815956&trade_status=TRADE_SUCCESS&use_coupon=N sign=cb15992bb2fd63604dbcd0c80cf1bc25 
+
+[2018-03-03 07:21:40] getResponse partner=2088511580474070 notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa 
+
+[2018-03-03 07:21:40] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 07:21:40] verifyNotify ok: out_trade_no=20180303152002064538231 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 10:16:44] getSignVeryfy prestr=buyer_email=881***@gmail.com&buyer_id=2088002005443143&gmt_create=2018-03-03 00:52:29&gmt_payment=2018-03-03 00:52:29&is_total_fee_adjust=N&notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31&notify_time=2018-03-03 10:16:44&notify_type=trade_status_sync&out_trade_no=84488820180303005146&payment_type=1&price=0.03&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.03&trade_no=2018030321001004140582360837&trade_status=TRADE_SUCCESS&use_coupon=N sign=a8fd85d1a1ffda2cc33ec1ac94b29749 
+
+[2018-03-03 10:16:44] getResponse partner=2088511580474070 notify_id=4dca6a4d44a539397cb30bcb8cd9dcah31 
+
+[2018-03-03 10:16:44] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 10:16:44] verifyNotify ok: out_trade_no=84488820180303005146 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 13:02:31] getSignVeryfy prestr=_URL_=Array sign= 
+
+[2018-03-03 13:02:31] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-03 13:02:50] getSignVeryfy prestr=buyer_email=182****7863&buyer_id=2088022471574240&gmt_create=2018-03-03 13:02:44&gmt_payment=2018-03-03 13:02:50&is_total_fee_adjust=N&notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut&notify_time=2018-03-03 13:02:50&notify_type=trade_status_sync&out_trade_no=20180303152005333188785&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030321001004240592760096&trade_status=TRADE_SUCCESS&use_coupon=N sign=65393a0517c517df959802a208ea90b2 
+
+[2018-03-03 13:02:50] getResponse partner=2088511580474070 notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut 
+
+[2018-03-03 13:02:50] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 13:02:50] verifyNotify ok: out_trade_no=20180303152005333188785 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 13:02:59] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9S0gnsZ3vcfQpIALs4A94vJUjb9PyfkZnXoZCszPaM4z8mh&notify_time=2018-03-03 13:02:59&notify_type=trade_status_sync&out_trade_no=20180303152005333188785&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030321001004240592760096&trade_status=TRADE_SUCCESS sign=a77de10b8ce9906a5160924d41133264 
+
+[2018-03-03 13:02:59] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9S0gnsZ3vcfQpIALs4A94vJUjb9PyfkZnXoZCszPaM4z8mh 
+
+[2018-03-03 13:03:00] verifyReturn responseTxt=[true][1] isSign=[false] 
+
+[2018-03-03 13:03:00] verifyReturn ok: partner=2088511580474070 out_trade_no=20180303152005333188785 trade_status=TRADE_SUCCESS
+
+[2018-03-03 13:04:00] getSignVeryfy prestr=_URL_=Array&is_success=T&notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9S0gnsZ3vcfQpIALs4A94vJUjb9PyfkZnXoZCszPaM4z8mh&notify_time=2018-03-03 13:02:59&notify_type=trade_status_sync&out_trade_no=20180303152005333188785&payment_type=1&seller_id=2088511580474070&service=alipay.wap.create.direct.pay.by.user&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030321001004240592760096&trade_status=TRADE_SUCCESS sign=a77de10b8ce9906a5160924d41133264 
+
+[2018-03-03 13:04:00] getResponse partner=2088511580474070 notify_id=RqPnCoPT3K9%2Fvwbh3Ih0G9S0gnsZ3vcfQpIALs4A94vJUjb9PyfkZnXoZCszPaM4z8mh 
+
+[2018-03-03 13:04:00] verifyReturn responseTxt=[false][0] isSign=[false] 
+
+[2018-03-03 13:04:00] verifyReturn fail: partner=2088511580474070 seller_email=yundai@hzit.com  out_trade_no=20180303152005333188785 trade_status=TRADE_SUCCESS
+
+[2018-03-03 13:06:25] getSignVeryfy prestr=buyer_email=182****7863&buyer_id=2088022471574240&gmt_create=2018-03-03 13:02:44&gmt_payment=2018-03-03 13:02:50&is_total_fee_adjust=N&notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut&notify_time=2018-03-03 13:06:25&notify_type=trade_status_sync&out_trade_no=20180303152005333188785&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030321001004240592760096&trade_status=TRADE_SUCCESS&use_coupon=N sign=a1aa3efc6af165f236d5747effbd1811 
+
+[2018-03-03 13:06:25] getResponse partner=2088511580474070 notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut 
+
+[2018-03-03 13:06:25] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 13:06:25] verifyNotify ok: out_trade_no=20180303152005333188785 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 13:16:00] getSignVeryfy prestr=buyer_email=182****7863&buyer_id=2088022471574240&gmt_create=2018-03-03 13:02:44&gmt_payment=2018-03-03 13:02:50&is_total_fee_adjust=N&notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut&notify_time=2018-03-03 13:16:00&notify_type=trade_status_sync&out_trade_no=20180303152005333188785&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030321001004240592760096&trade_status=TRADE_SUCCESS&use_coupon=N sign=65ac5529f2371f25e078879af5bd7c48 
+
+[2018-03-03 13:16:00] getResponse partner=2088511580474070 notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut 
+
+[2018-03-03 13:16:00] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 13:16:00] verifyNotify ok: out_trade_no=20180303152005333188785 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 13:17:26] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:53:49&gmt_payment=2018-03-03 03:53:50&is_total_fee_adjust=N&notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa&notify_time=2018-03-03 13:17:26&notify_type=trade_status_sync&out_trade_no=20180303152002037982539&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350252396545&trade_status=TRADE_SUCCESS&use_coupon=N sign=dcf31891cfe18ac3333b1396bf870e94 
+
+[2018-03-03 13:17:26] getResponse partner=2088511580474070 notify_id=45f70d13d2fb2e0d62dcb7ee1857c10ipa 
+
+[2018-03-03 13:17:26] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 13:17:26] verifyNotify ok: out_trade_no=20180303152002037982539 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 13:21:42] getSignVeryfy prestr=buyer_email=159****8561&buyer_id=2088222300186350&gmt_create=2018-03-03 03:57:49&gmt_payment=2018-03-03 03:57:50&is_total_fee_adjust=N&notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa&notify_time=2018-03-03 13:21:42&notify_type=trade_status_sync&out_trade_no=20180303152002064538231&payment_type=1&price=2.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=2.00&trade_no=2018030321001004350253815956&trade_status=TRADE_SUCCESS&use_coupon=N sign=90290fb04af8e19939a9e34abfdf07b5 
+
+[2018-03-03 13:21:42] getResponse partner=2088511580474070 notify_id=3b329a9aa2cda5fc42e56005d211ef7ipa 
+
+[2018-03-03 13:21:42] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 13:21:42] verifyNotify ok: out_trade_no=20180303152002064538231 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 13:26:25] getSignVeryfy prestr=buyer_email=182****7863&buyer_id=2088022471574240&gmt_create=2018-03-03 13:02:44&gmt_payment=2018-03-03 13:02:50&is_total_fee_adjust=N&notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut&notify_time=2018-03-03 13:26:25&notify_type=trade_status_sync&out_trade_no=20180303152005333188785&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030321001004240592760096&trade_status=TRADE_SUCCESS&use_coupon=N sign=1be5b1dc443d7cf862dac0b3bce393df 
+
+[2018-03-03 13:26:25] getResponse partner=2088511580474070 notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut 
+
+[2018-03-03 13:26:25] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 13:26:25] verifyNotify ok: out_trade_no=20180303152005333188785 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 14:26:47] getSignVeryfy prestr=buyer_email=182****7863&buyer_id=2088022471574240&gmt_create=2018-03-03 13:02:44&gmt_payment=2018-03-03 13:02:50&is_total_fee_adjust=N&notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut&notify_time=2018-03-03 14:26:47&notify_type=trade_status_sync&out_trade_no=20180303152005333188785&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030321001004240592760096&trade_status=TRADE_SUCCESS&use_coupon=N sign=723893a522d7969fe37123540300c7fc 
+
+[2018-03-03 14:26:47] getResponse partner=2088511580474070 notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut 
+
+[2018-03-03 14:26:47] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 14:26:47] verifyNotify ok: out_trade_no=20180303152005333188785 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 16:26:32] getSignVeryfy prestr=buyer_email=182****7863&buyer_id=2088022471574240&gmt_create=2018-03-03 13:02:44&gmt_payment=2018-03-03 13:02:50&is_total_fee_adjust=N&notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut&notify_time=2018-03-03 16:26:32&notify_type=trade_status_sync&out_trade_no=20180303152005333188785&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030321001004240592760096&trade_status=TRADE_SUCCESS&use_coupon=N sign=6f500c83f1f32d7008ea013a363bbff0 
+
+[2018-03-03 16:26:32] getResponse partner=2088511580474070 notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut 
+
+[2018-03-03 16:26:32] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 16:26:32] verifyNotify ok: out_trade_no=20180303152005333188785 trade_status=TRADE_SUCCESS partner=2088511580474070 
+
+[2018-03-03 22:26:25] getSignVeryfy prestr=buyer_email=182****7863&buyer_id=2088022471574240&gmt_create=2018-03-03 13:02:44&gmt_payment=2018-03-03 13:02:50&is_total_fee_adjust=N&notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut&notify_time=2018-03-03 22:26:25&notify_type=trade_status_sync&out_trade_no=20180303152005333188785&payment_type=1&price=68.00&quantity=1&seller_email=yundai@hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=68.00&trade_no=2018030321001004240592760096&trade_status=TRADE_SUCCESS&use_coupon=N sign=7c634a70b198134a9b9b51f36fb23a27 
+
+[2018-03-03 22:26:25] getResponse partner=2088511580474070 notify_id=a6c78a1a958ece38d4a14f63f43b8c0hut 
+
+[2018-03-03 22:26:25] verifyNotify responsetTxt=[true][1] isSign=[true] 
+
+[2018-03-03 22:26:25] verifyNotify ok: out_trade_no=20180303152005333188785 trade_status=TRADE_SUCCESS partner=2088511580474070 
+

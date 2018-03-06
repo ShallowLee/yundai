@@ -1,0 +1,6 @@
+2017年01月10日7时35分42秒2127毫秒   网银通知接口
+appId=1483073883204354&channelOrderNo=4003122001201701095714850434&deviceType=06&funcode=N001&mhtCharset=UTF-8&mhtCurrencyType=156&mhtOrderAmt=1&mhtOrderName=15408020170109115235&mhtOrderNo=15408020170109115235&mhtOrderStartTime=20170109115247&mhtOrderTimeOut=3600&mhtOrderType=01&mhtReserved=test&nowPayOrderNo=200601201701091152481732478&payChannelType=13&signType=MD5&signature=1d64fdf3031ffc7bbe474d071e64441e&tradeStatus=A001
+------------------
+2017年01月10日22时35分41秒4659毫秒   网银通知接口
+appId=1483073883204354&channelOrderNo=4003122001201701095714850434&deviceType=06&funcode=N001&mhtCharset=UTF-8&mhtCurrencyType=156&mhtOrderAmt=1&mhtOrderName=15408020170109115235&mhtOrderNo=15408020170109115235&mhtOrderStartTime=20170109115247&mhtOrderTimeOut=3600&mhtOrderType=01&mhtReserved=test&nowPayOrderNo=200601201701091152481732478&payChannelType=13&signType=MD5&signature=1d64fdf3031ffc7bbe474d071e64441e&tradeStatus=A001
+------------------

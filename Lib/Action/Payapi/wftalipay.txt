@@ -1,0 +1,978 @@
+{"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"34682920180208002338","p3_Amt":"0.02","p4_Cur":"CNY","p5_Pid":"10086","p6_Pcat":"10086","p7_Pdesc":"VIP\u670d\u52a1","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Result_url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"VIP%E6%9C%8D%E5%8A%A1%7Cadmin%7C%E6%B5%8B%E8%AF%95%7Cadmin","hmac":"6f05bbc12b39bc9a8b22b1f9415ef1d8","tjurl":"http:\/\/pay08.hzit.com\/PayApi\/","total":"34682920180208002338","PayBank":"6","typego":"pc","__hash__":"a1040248feefd520328cf27b3ea9ee71_240ab790da3be3cce2422b77275b6a53","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+{"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"34682920180208002338","p3_Amt":"0.02","p4_Cur":"CNY","p5_Pid":"10086","p6_Pcat":"10086","p7_Pdesc":"VIP\u670d\u52a1","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Result_url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"VIP%E6%9C%8D%E5%8A%A1%7Cadmin%7C%E6%B5%8B%E8%AF%95%7Cadmin","hmac":"6f05bbc12b39bc9a8b22b1f9415ef1d8","tjurl":"","total":"34682920180208002338","PayBank":"6","typego":"pc","__hash__":"76795a4c0e0ee5642b180a274cdb7d81_6f19ea10ea396ee8f3f6f4711f1c5270","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+{"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"34682920180208002338","p3_Amt":"0.02","p4_Cur":"CNY","p5_Pid":"10086","p6_Pcat":"10086","p7_Pdesc":"VIP\u670d\u52a1","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Result_url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"VIP%E6%9C%8D%E5%8A%A1%7Cadmin%7C%E6%B5%8B%E8%AF%95%7Cadmin","hmac":"6f05bbc12b39bc9a8b22b1f9415ef1d8","tjurl":"","total":"34682920180208002338","PayBank":"6","typego":"pc","__hash__":"76795a4c0e0ee5642b180a274cdb7d81_6f19ea10ea396ee8f3f6f4711f1c5270","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+{"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"34682920180208002338","p3_Amt":"0.02","p4_Cur":"CNY","p5_Pid":"10086","p6_Pcat":"10086","p7_Pdesc":"VIP\u670d\u52a1","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Result_url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"VIP%E6%9C%8D%E5%8A%A1%7Cadmin%7C%E6%B5%8B%E8%AF%95%7Cadmin","hmac":"6f05bbc12b39bc9a8b22b1f9415ef1d8","tjurl":"","total":"34682920180208002338","PayBank":"6","typego":"pc","__hash__":"76795a4c0e0ee5642b180a274cdb7d81_6f19ea10ea396ee8f3f6f4711f1c5270","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+{"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"92761720180209214537","p3_Amt":"0.01","p4_Cur":"CNY","p5_Pid":"10086","p6_Pcat":"10086","p7_Pdesc":"VIP\u670d\u52a1","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/Result_url.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"VIP\u670d\u52a1|cardid|\u6d4b\u8bd5\u5546\u54c1|admin","hmac":"afd8b4d83e478e1ae1cc9639abeb314c","tjurl":"http:\/\/pay08.hzit.com\/PayApi\/","total":"92761720180209214537","PayBank":"6","typego":"pc","__hash__":"d2a260e7e8c001e6bb86ef3d29757710_5be41d3ee6aff2549304546c18062cba","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+
+{"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"92761720180209214537","p3_Amt":"0.01","p4_Cur":"CNY","p5_Pid":"10086","p6_Pcat":"10086","p7_Pdesc":"VIP\u670d\u52a1","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/Result_url.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"VIP\u670d\u52a1|cardid|\u6d4b\u8bd5\u5546\u54c1|admin","hmac":"afd8b4d83e478e1ae1cc9639abeb314c","tjurl":"http:\/\/pay08.hzit.com\/PayApi\/","total":"92761720180209214537","PayBank":"6","typego":"pc","__hash__":"d2a260e7e8c001e6bb86ef3d29757710_5be41d3ee6aff2549304546c18062cba","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+
+[2018-02-09 22:13:48] 异步通知: preEncodeStr=6254862018020922052512018020921001004140239414926CNY PostKey=31f56de455300ab1fd0fa94bf6933396
+
+[2018-02-09 22:13:48] 异步通知: out_trade_no=62548620180209220525 验签成功 
+
+[2018-02-09 22:13:50] 异步通知: preEncodeStr=CNY PostKey=
+
+[2018-02-09 22:13:50] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-09 22:13:57] 异步通知: preEncodeStr=CNY PostKey=
+
+[2018-02-09 22:13:57] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-09 22:14:27] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 22:14:27] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 22:14:43] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 22:14:43] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 22:14:58] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 22:14:58] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 22:15:28] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 22:15:28] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+{"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"48845120180209221408","p3_Amt":"0.01","p4_Cur":"CNY","p5_Pid":"10086","p6_Pcat":"10086","p7_Pdesc":"VIP\u670d\u52a1","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/Result_url.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"VIP\u670d\u52a1|cardid|\u6d4b\u8bd5\u5546\u54c1|admin","hmac":"3b6a1932f46fe74409ec9757c878a848","tjurl":"","total":"48845120180209221408","PayBank":"6","typego":"pc","__hash__":"028726031fe56049c37c1215c44ce8dc_d26761554bd810fea15502dad0b942b9","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+
+[2018-02-09 22:18:25] 异步通知: preEncodeStr=CNY PostKey=
+
+[2018-02-09 22:18:25] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-09 22:18:26] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 22:18:26] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 22:18:30] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 22:18:30] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 22:18:42] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 22:18:42] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 22:18:58] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 22:18:58] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 22:19:29] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 22:19:29] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 22:21:17] 异步通知: preEncodeStr=4518062018020920461632018020921001004140528516298CNY PostKey=4db3a558ec1e76234c5a0cb80bdd13fc
+
+[2018-02-09 22:21:17] 异步通知: out_trade_no=45180620180209204616 验签成功 
+
+[2018-02-09 22:22:29] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 22:22:29] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 22:24:36] 异步通知: preEncodeStr=4518062018020920461632018020921001004140528516298CNY PostKey=4db3a558ec1e76234c5a0cb80bdd13fc
+
+[2018-02-09 22:24:36] 异步通知: out_trade_no=45180620180209204616 验签成功 
+
+[2018-02-09 22:27:56] 异步通知: preEncodeStr=3566762018020921531812018020921001004140528331590CNY PostKey=b3aaf36ab243376ea2d674aec82c7dbd
+
+[2018-02-09 22:27:56] 异步通知: out_trade_no=35667620180209215318 验签成功 
+
+[2018-02-09 22:31:37] 异步通知: preEncodeStr=3566762018020921531812018020921001004140528331590CNY PostKey=b3aaf36ab243376ea2d674aec82c7dbd
+
+[2018-02-09 22:31:37] 异步通知: out_trade_no=35667620180209215318 验签成功 
+
+[2018-02-09 22:39:47] 异步通知: preEncodeStr=6254862018020922052512018020921001004140239414926CNY PostKey=31f56de455300ab1fd0fa94bf6933396
+
+[2018-02-09 22:39:47] 异步通知: out_trade_no=62548620180209220525 验签成功 
+
+[2018-02-09 22:43:50] 异步通知: preEncodeStr=6254862018020922052512018020921001004140239414926CNY PostKey=31f56de455300ab1fd0fa94bf6933396
+
+[2018-02-09 22:43:50] 异步通知: out_trade_no=62548620180209220525 验签成功 
+
+[2018-02-09 22:48:30] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 22:48:30] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 22:51:17] 异步通知: preEncodeStr=4518062018020920461632018020921001004140528516298CNY PostKey=4db3a558ec1e76234c5a0cb80bdd13fc
+
+[2018-02-09 22:51:17] 异步通知: out_trade_no=45180620180209204616 验签成功 
+
+[2018-02-09 22:52:30] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 22:52:30] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 22:54:37] 异步通知: preEncodeStr=4518062018020920461632018020921001004140528516298CNY PostKey=4db3a558ec1e76234c5a0cb80bdd13fc
+
+[2018-02-09 22:54:37] 异步通知: out_trade_no=45180620180209204616 验签成功 
+
+[2018-02-09 22:57:56] 异步通知: preEncodeStr=3566762018020921531812018020921001004140528331590CNY PostKey=b3aaf36ab243376ea2d674aec82c7dbd
+
+[2018-02-09 22:57:56] 异步通知: out_trade_no=35667620180209215318 验签成功 
+
+[2018-02-09 23:01:38] 异步通知: preEncodeStr=3566762018020921531812018020921001004140528331590CNY PostKey=b3aaf36ab243376ea2d674aec82c7dbd
+
+[2018-02-09 23:01:38] 异步通知: out_trade_no=35667620180209215318 验签成功 
+
+[2018-02-09 23:09:47] 异步通知: preEncodeStr=6254862018020922052512018020921001004140239414926CNY PostKey=31f56de455300ab1fd0fa94bf6933396
+
+[2018-02-09 23:09:47] 异步通知: out_trade_no=62548620180209220525 验签成功 
+
+[2018-02-09 23:13:51] 异步通知: preEncodeStr=6254862018020922052512018020921001004140239414926CNY PostKey=31f56de455300ab1fd0fa94bf6933396
+
+[2018-02-09 23:13:51] 异步通知: out_trade_no=62548620180209220525 验签成功 
+
+[2018-02-09 23:18:31] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 23:18:31] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 23:22:31] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 23:22:31] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 23:27:56] 异步通知: preEncodeStr=3566762018020921531812018020921001004140528331590CNY PostKey=b3aaf36ab243376ea2d674aec82c7dbd
+
+[2018-02-09 23:27:56] 异步通知: out_trade_no=35667620180209215318 验签成功 
+
+[2018-02-09 23:31:38] 异步通知: preEncodeStr=3566762018020921531812018020921001004140528331590CNY PostKey=b3aaf36ab243376ea2d674aec82c7dbd
+
+[2018-02-09 23:31:38] 异步通知: out_trade_no=35667620180209215318 验签成功 
+
+[2018-02-09 23:39:48] 异步通知: preEncodeStr=6254862018020922052512018020921001004140239414926CNY PostKey=31f56de455300ab1fd0fa94bf6933396
+
+[2018-02-09 23:39:48] 异步通知: out_trade_no=62548620180209220525 验签成功 
+
+[2018-02-09 23:43:52] 异步通知: preEncodeStr=6254862018020922052512018020921001004140239414926CNY PostKey=31f56de455300ab1fd0fa94bf6933396
+
+[2018-02-09 23:43:52] 异步通知: out_trade_no=62548620180209220525 验签成功 
+
+[2018-02-09 23:48:31] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 23:48:31] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 23:51:18] 异步通知: preEncodeStr=4518062018020920461632018020921001004140528516298CNY PostKey=4db3a558ec1e76234c5a0cb80bdd13fc
+
+[2018-02-09 23:51:18] 异步通知: out_trade_no=45180620180209204616 验签成功 
+
+[2018-02-09 23:52:31] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-09 23:52:31] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-09 23:54:37] 异步通知: preEncodeStr=4518062018020920461632018020921001004140528516298CNY PostKey=4db3a558ec1e76234c5a0cb80bdd13fc
+
+[2018-02-09 23:54:37] 异步通知: out_trade_no=45180620180209204616 验签成功 
+
+[2018-02-09 23:57:56] 异步通知: preEncodeStr=3566762018020921531812018020921001004140528331590CNY PostKey=b3aaf36ab243376ea2d674aec82c7dbd
+
+[2018-02-09 23:57:56] 异步通知: out_trade_no=35667620180209215318 验签成功 
+
+[2018-02-10 00:01:38] 异步通知: preEncodeStr=3566762018020921531812018020921001004140528331590CNY PostKey=b3aaf36ab243376ea2d674aec82c7dbd
+
+[2018-02-10 00:01:38] 异步通知: out_trade_no=35667620180209215318 验签成功 
+
+[2018-02-10 00:09:48] 异步通知: preEncodeStr=6254862018020922052512018020921001004140239414926CNY PostKey=31f56de455300ab1fd0fa94bf6933396
+
+[2018-02-10 00:09:48] 异步通知: out_trade_no=62548620180209220525 验签成功 
+
+[2018-02-10 00:13:53] 异步通知: preEncodeStr=6254862018020922052512018020921001004140239414926CNY PostKey=31f56de455300ab1fd0fa94bf6933396
+
+[2018-02-10 00:13:53] 异步通知: out_trade_no=62548620180209220525 验签成功 
+
+[2018-02-10 00:18:31] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-10 00:18:31] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-10 00:22:31] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-10 00:22:31] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-10 00:57:56] 异步通知: preEncodeStr=3566762018020921531812018020921001004140528331590CNY PostKey=b3aaf36ab243376ea2d674aec82c7dbd
+
+[2018-02-10 00:57:56] 异步通知: out_trade_no=35667620180209215318 验签成功 
+
+[2018-02-10 01:01:39] 异步通知: preEncodeStr=3566762018020921531812018020921001004140528331590CNY PostKey=b3aaf36ab243376ea2d674aec82c7dbd
+
+[2018-02-10 01:01:39] 异步通知: out_trade_no=35667620180209215318 验签成功 
+
+[2018-02-10 01:09:50] 异步通知: preEncodeStr=6254862018020922052512018020921001004140239414926CNY PostKey=31f56de455300ab1fd0fa94bf6933396
+
+[2018-02-10 01:09:50] 异步通知: out_trade_no=62548620180209220525 验签成功 
+
+[2018-02-10 01:13:53] 异步通知: preEncodeStr=6254862018020922052512018020921001004140239414926CNY PostKey=31f56de455300ab1fd0fa94bf6933396
+
+[2018-02-10 01:13:53] 异步通知: out_trade_no=62548620180209220525 验签成功 
+
+[2018-02-10 01:18:32] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-10 01:18:32] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-10 01:22:33] 异步通知: preEncodeStr=4884512018020922140812018020921001004140528605373CNY PostKey=9861c3b18f8e1d8177f39fef72ff826e
+
+[2018-02-10 01:22:33] 异步通知: out_trade_no=48845120180209221408 验签成功 
+
+[2018-02-11 11:16:08] 扫码显示: noncestr=1863226459 验签失败 
+
+[2018-02-11 11:18:45] 扫码显示: userid= noncestr=1597590900 NewPostKey=b5b1b0f18847f83b6e6ef53a1d3df662 sign=21ae48c35f794e4dbcdbd25cdb3987ab 验签失败 
+
+[2018-02-11 11:24:19] 扫码显示获取成功: code_img_url=Error Code: https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax00780q8xwlckxqpvx80d0 msg= noncestr=3124578015 验签成功 
+
+[2018-02-11 11:25:44] 扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax0733896clr2xq65gr2030 msg= noncestr=2281178382 验签成功 
+
+[2018-02-11 11:34:39] 扫码显示获取成功: code_img_url=https://pay2.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax01070ptenpj7t7wxt608d msg= noncestr=1722761130 验签成功 
+
+[2018-02-11 11:34:59] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 11:35:14] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 11:35:29] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 11:36:00] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 11:38:21] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 11:38:36] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 11:38:51] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 11:38:59] 扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax056227hb63rzs5xt080ef msg= noncestr=1522384031 验签成功 
+
+[2018-02-11 11:39:00] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 11:39:21] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 11:39:24] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:39:39] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:39:54] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:40:25] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:42:21] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 11:43:14] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:43:25] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:43:29] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:43:44] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:44:14] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:47:15] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:50:20] 扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax02370os3ox8rgxisz20d4 msg= noncestr=2291131765 验签成功 
+
+[2018-02-11 11:50:38] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 11:50:38] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:50:53] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 11:50:53] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:51:09] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 11:51:09] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:51:40] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 11:51:40] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:53:55] 扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax06953vrlafohevrsm0043 msg= noncestr=2069471578 验签成功 
+
+[2018-02-11 11:54:06] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 11:54:06] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:54:07] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 11:54:07] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 11:54:22] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 11:54:22] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:54:23] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 11:54:23] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 11:54:37] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 11:54:37] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:54:39] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 11:54:39] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 11:54:40] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 11:54:40] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:55:07] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 11:55:07] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:55:09] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 11:55:09] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 11:57:43] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 11:57:43] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 11:57:58] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 11:57:58] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 11:58:07] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 11:58:07] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 11:58:09] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 11:58:09] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 11:58:13] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 11:58:13] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 11:58:43] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 11:58:43] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 12:01:43] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 12:01:43] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 12:09:00] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 12:12:21] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 12:13:25] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 12:13:25] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 12:17:15] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 12:17:15] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 12:24:41] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 12:24:41] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 12:28:07] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 12:28:07] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 12:28:09] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 12:28:09] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 12:31:43] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 12:31:43] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 12:39:00] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 12:42:21] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 12:43:25] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 12:43:25] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 12:47:15] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 12:47:15] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 12:54:41] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 12:54:41] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 12:58:07] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 12:58:07] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 12:58:09] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 12:58:09] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 13:01:45] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 13:01:45] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 13:09:00] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 13:12:21] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 13:13:25] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 13:13:25] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 13:17:15] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 13:17:15] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 13:24:42] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 13:24:42] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 13:28:07] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 13:28:07] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 13:28:09] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 13:28:09] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 13:31:45] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 13:31:45] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 13:39:01] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 13:42:21] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 13:43:25] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 13:43:25] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 13:47:15] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 13:47:15] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 13:54:43] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 13:54:43] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 13:58:08] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 13:58:08] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 13:58:09] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 13:58:09] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 14:01:45] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 14:01:45] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 14:39:01] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 14:42:22] 扫码显示: userid=101530272052 noncestr= NewPostKey=70425e75ec5fdcb66cdfb1415dff4421 sign= 验签失败 
+
+[2018-02-11 14:43:26] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 14:43:26] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 14:47:15] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 14:47:15] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 14:54:43] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 14:54:43] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 14:58:08] 异步通知初始化: out_trade_no= out_transaction_id= total_fee= PostKey= NewPostKey=889ee9331f891492f89b1e578fa377e0
+
+[2018-02-11 14:58:08] 异步通知: out_trade_no= 验签失败 
+
+[2018-02-11 14:58:09] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 14:58:09] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 15:01:45] 异步通知初始化: out_trade_no=18960820180211115353 out_transaction_id=2018021121001004140534061522 total_fee=2 PostKey=b49569aad4f4c967b070b159017112ae NewPostKey=b49569aad4f4c967b070b159017112ae
+
+[2018-02-11 15:01:45] 异步通知: out_trade_no=18960820180211115353 验签和支付成功 
+
+[2018-02-11 15:23:05] 扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax06953vrlafohevrsm0043 msg= noncestr=2069471578 验签成功 
+
+[2018-02-14 01:06:53] 扫码显示获取成功: code_img_url=https://pay2.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax05700d5mireps4rob40ad msg= noncestr=2961417634 验签成功 
+
+[2018-02-14 01:07:33] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 01:07:33] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 01:07:49] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 01:07:49] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 01:08:04] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 01:08:04] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 01:08:34] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 01:08:34] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 01:11:40] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 01:11:40] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 01:11:50] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 01:11:50] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 01:11:55] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 01:11:55] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 01:12:10] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 01:12:10] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 01:12:40] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 01:12:40] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 01:15:51] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 01:15:51] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 01:42:48] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 01:42:48] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 01:47:48] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 01:47:48] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 02:12:48] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 02:12:48] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 02:17:48] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 02:17:48] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 02:42:48] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 02:42:48] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 02:47:48] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 02:47:48] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 03:12:48] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 03:12:48] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 03:17:48] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 03:17:48] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 04:12:49] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 04:12:49] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-14 04:17:49] 异步通知初始化: out_trade_no=51012420180214010651 out_transaction_id=2018021421001004140540897279 total_fee=1 PostKey=4c0b82991f25c708064f8465c84060ba NewPostKey=4c0b82991f25c708064f8465c84060ba
+
+[2018-02-14 04:17:49] 异步通知: out_trade_no=51012420180214010651 验签和支付成功 
+
+[2018-02-17 19:55:36] 扫码显示获取成功: code_img_url=https://pay2.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax04785mbg0y9pxodbu00c7 msg= noncestr=2323695941 验签成功 
+
+[2018-02-18 17:25:49] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 17:25:49] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 17:26:04] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 17:26:04] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 17:26:20] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 17:26:20] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 17:26:50] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 17:26:50] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 17:29:05] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 17:29:05] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 17:29:21] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 17:29:21] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 17:29:37] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 17:29:37] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 17:29:50] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 17:29:50] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 17:30:07] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 17:30:07] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 17:33:07] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 17:33:07] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 17:59:50] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 17:59:50] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 18:03:07] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 18:03:07] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 18:29:51] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 18:29:51] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 18:33:07] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 18:33:07] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 18:59:52] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 18:59:52] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 19:03:08] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 19:03:08] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 19:29:53] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 19:29:53] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 19:33:09] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 19:33:09] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 20:29:55] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 20:29:55] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+[2018-02-18 20:33:09] 异步通知初始化: out_trade_no=24488420180218172511 out_transaction_id=2018021821001004140552148228 total_fee=1 PostKey=a991d30e8d11fd8708741f2e58d08b82 NewPostKey=a991d30e8d11fd8708741f2e58d08b82
+
+[2018-02-18 20:33:09] 异步通知: out_trade_no=24488420180218172511 验签和支付成功 
+
+{"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"43813220180225133912","p3_Amt":"0.03","p4_Cur":"CNY","p5_Pid":"\u7f51\u7edc\u670d\u52a1","p6_Pcat":"10086","p7_Pdesc":"user123","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/resulturl.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"\u7f51\u7edc\u670d\u52a1||user123|","hmac":"aae71ba7f25d988f0ea36d7c9f756ecb","tjurl":"","PostKey":"69b592ee26eb5e092f80f6f1c21720d5","total":"43813220180225133912","PayBank":"6","typego":"pc","__hash__":"10b92c529d94b42d6693412360d8ce74_c7ec2eb134cf5f26e83d24059974224d","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+
+{"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"76263720180227113343","p3_Amt":"0.03","p4_Cur":"CNY","p5_Pid":"\u7f51\u7edc\u670d\u52a1","p6_Pcat":"10086","p7_Pdesc":"user123","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/resulturl.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"\u7f51\u7edc\u670d\u52a1||user123|","hmac":"2c387685dda2fff532eb1ff014e6497a","tjurl":"","PostKey":"c44066a27f0edde9cb77292f811a56bc","total":"76263720180227113343","PayBank":"6","typego":"pc","__hash__":"10b92c529d94b42d6693412360d8ce74_7912e8047fc30f5d9f06da552676952f","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+
+[2018-02-27 23:36:41] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-27 23:36:41] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-27 23:36:57] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-27 23:36:57] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-27 23:37:12] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-27 23:37:12] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-27 23:37:43] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-27 23:37:43] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-27 23:40:35] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-27 23:40:35] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-27 23:40:43] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-27 23:40:43] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-27 23:40:51] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-27 23:40:51] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-27 23:41:06] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-27 23:41:06] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-27 23:41:37] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-27 23:41:37] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-27 23:44:37] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-27 23:44:37] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+{"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"18640120180227235412","p3_Amt":"0.03","p4_Cur":"CNY","p5_Pid":"\u7f51\u7edc\u670d\u52a1","p6_Pcat":"10086","p7_Pdesc":"user123","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/resulturl.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"\u7f51\u7edc\u670d\u52a1||user123|","hmac":"e9adc4907774caca24c0ecd1268b4e22","tjurl":"","PostKey":"3421bae55d06c3ee0dfa779c6f57044b","total":"18640120180227235412","PayBank":"6","typego":"pc","__hash__":"10b92c529d94b42d6693412360d8ce74_f3fccdff0560976fa936e5dae2faf832","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+
+[2018-02-28 00:10:43] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-28 00:10:43] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-28 00:14:37] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-28 00:14:37] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-28 00:40:44] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-28 00:40:44] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-28 00:44:38] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-28 00:44:38] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-28 01:10:45] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-28 01:10:45] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-28 01:14:38] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-28 01:14:38] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-28 01:20:42] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 01:20:42] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 01:20:57] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 01:20:57] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 01:21:12] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 01:21:12] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 01:21:43] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 01:21:43] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 01:24:16] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 01:24:16] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 01:24:31] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 01:24:31] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 01:24:46] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 01:24:46] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 01:24:56] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 01:24:56] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 01:25:16] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 01:25:16] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 01:28:17] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 01:28:17] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 01:40:46] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-28 01:40:46] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-28 01:44:38] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-28 01:44:38] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-28 01:54:56] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 01:54:56] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 01:58:17] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 01:58:17] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 02:24:56] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 02:24:56] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 02:28:17] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 02:28:17] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 02:40:47] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-28 02:40:47] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-28 02:44:38] 异步通知初始化: out_trade_no=20180227151974577588046 out_transaction_id=2018022721001004140573588984 total_fee=100 PostKey=60877ed8f2d8d80b8541071ed50aa606 NewPostKey=60877ed8f2d8d80b8541071ed50aa606
+
+[2018-02-28 02:44:38] 异步通知: out_trade_no=20180227151974577588046 验签和支付成功 
+
+[2018-02-28 02:54:56] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 02:54:56] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 02:58:18] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 02:58:18] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 03:24:57] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 03:24:57] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 03:28:18] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 03:28:18] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 04:24:58] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 04:24:58] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 04:28:18] 异步通知初始化: out_trade_no=20180228151975202098190 out_transaction_id=2018022821001004140575744018 total_fee=100 PostKey=0209c95ae84d86af7ebc47de46e2232a NewPostKey=0209c95ae84d86af7ebc47de46e2232a
+
+[2018-02-28 04:28:18] 异步通知: out_trade_no=20180228151975202098190 验签和支付成功 
+
+[2018-02-28 11:06:22] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 11:06:22] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 11:06:37] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 11:06:37] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 11:06:53] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 11:06:53] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 11:07:23] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 11:07:23] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 11:10:23] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 11:10:23] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 11:10:44] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 11:10:44] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 11:11:00] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 11:11:00] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 11:11:15] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 11:11:15] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 11:11:45] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 11:11:45] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 11:14:46] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 11:14:46] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 11:40:24] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 11:40:24] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 11:44:46] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 11:44:46] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 12:10:24] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 12:10:24] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 12:14:46] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 12:14:46] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 12:40:25] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 12:40:25] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 12:44:46] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 12:44:46] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 13:10:26] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 13:10:26] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 13:14:46] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 13:14:46] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 14:10:27] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 14:10:27] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-02-28 14:14:46] 异步通知初始化: out_trade_no=20180228151978713425647 out_transaction_id=2018022821001004050269246033 total_fee=100 PostKey=90f2b491883282b39a49f86fa679b8ae NewPostKey=90f2b491883282b39a49f86fa679b8ae
+
+[2018-02-28 14:14:46] 异步通知: out_trade_no=20180228151978713425647 验签和支付成功 
+
+[2018-03-02 04:45:57] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 04:45:57] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 04:46:12] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 04:46:12] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 04:46:28] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 04:46:28] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 04:46:58] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 04:46:58] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 04:49:01] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 04:49:01] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 04:49:16] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 04:49:16] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 04:49:32] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 04:49:32] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 04:49:58] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 04:49:58] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 04:50:03] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 04:50:03] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 04:53:03] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 04:53:03] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 05:19:58] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 05:19:58] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 05:23:03] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 05:23:03] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 05:49:58] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 05:49:58] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 05:53:03] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 05:53:03] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 06:20:00] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 06:20:00] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 06:23:03] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 06:23:03] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 06:50:00] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 06:50:00] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 06:53:04] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 06:53:04] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 07:50:00] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 07:50:00] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+
+[2018-03-02 07:53:04] 异步通知初始化: out_trade_no=20180302151993713147928 out_transaction_id=2018030221001004830562757669 total_fee=200 PostKey=c2954638964ec5e573b9b04c91e429f3 NewPostKey=c2954638964ec5e573b9b04c91e429f3
+
+[2018-03-02 07:53:04] 异步通知: out_trade_no=20180302151993713147928 验签和支付成功 
+

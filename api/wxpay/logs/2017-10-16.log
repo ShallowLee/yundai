@@ -1,0 +1,9 @@
+[2017-10-16 09:54:40][debug] begin notify
+[2017-10-16 13:54:24][debug] begin notify
+[2017-10-16 13:54:24][debug] call back:{"appid":"wx7f449488322918f3","openid":"oDnQ7s_n8nLvodISnesZeKnLtOH8","mch_id":"10020900","is_subscribe":"N","nonce_str":"5ROfsArYTPABTLd8","product_id":"123456789","sign":"3514D1FE3FDF820ACE6F61E6CD90652D"}
+[2017-10-16 13:54:28][debug] begin notify
+[2017-10-16 13:54:28][debug] call back:{"appid":"wx7f449488322918f3","openid":"oDnQ7s_n8nLvodISnesZeKnLtOH8","mch_id":"10020900","is_subscribe":"N","nonce_str":"L0MZAmnDFDhunWYo","product_id":"123456789","sign":"B4D89F207B896C160DEF3FC357B42AF7"}
+[2017-10-16 15:23:12][debug] begin notify
+[2017-10-16 15:23:12][debug] call back:{"appid":"wx7f449488322918f3","attach":"test","bank_type":"CMB_DEBIT","cash_fee":"4","fee_type":"CNY","is_subscribe":"N","mch_id":"10020900","nonce_str":"59pqi649d6ji6comcwt2frccca8v5fi7","openid":"oDnQ7s8aqWSoCxiOdpQ8RHhFX0x4","out_trade_no":"2017101686800214","result_code":"SUCCESS","return_code":"SUCCESS","sign":"4CB2D1407E846D8FDC514C77F81F3DFE","time_end":"20171016152311","total_fee":"4","trade_type":"JSAPI","transaction_id":"4200000027201710168420481067"}
+[2017-10-16 15:23:12][debug] query:{"appid":"wx7f449488322918f3","attach":"test","bank_type":"CMB_DEBIT","cash_fee":"4","fee_type":"CNY","is_subscribe":"N","mch_id":"10020900","nonce_str":"ubWeojlSk9PDbY4w","openid":"oDnQ7s8aqWSoCxiOdpQ8RHhFX0x4","out_trade_no":"2017101686800214","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"F9A4696DA9A80972879CE1925A2E209C","time_end":"20171016152311","total_fee":"4","trade_state":"SUCCESS","trade_type":"JSAPI","transaction_id":"4200000027201710168420481067"}
+[2017-10-16 15:23:12][debug] file_get_url:http://pay08.hzit.com/Payapi_Wxdemo_ReturnUrl.html?sp_billno=2017101686800214&transaction_id=4200000027201710168420481067&trade_status=SUCCESS&weixin=1&pay_result=0

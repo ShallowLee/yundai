@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" />
+<title>开发者平台-<{:C("WEB_NAME")}></title>
+<link href="static/css/bootstrap.min.css" rel="stylesheet" />
+<link href="static/css/index.min.css" rel="stylesheet" />
+<script type="text/javascript" src="Public/js/floatDiv.js"></script>
+<script type="text/javascript" src="Public/js/js.js"></script>
+<script src="static/js/jquery.min.js" type="text/javascript"></script>
+<script src="static/js/index.min.js" type="text/javascript"></script>
+<style type="text/css">
+body{background:url(static/images/wallpaper3.jpg) repeat-y left top; overflow: scroll;}
+.in-login{left:50%;margin-left:-160px;top:30%;}
+#doc {display:block;margin:0 auto;width:1200px;margin-top:200px;}
+/*  sidebar  */
+ul,li {list-style: none;}
+a,a:hover,a.active {text-decoration:none;}
+.container {width:1200px;margin:0 auto;margin-top:120px;}
+.sidebar{float:left;width:320px;padding-top:30px; background:#EEE;}
+.sidebar .sidebar-li{line-height:0;}
+.sidebar .font-ico {float:left;width:40px;margin-left:-40px;font-size:23px;text-align:center;line-height:50px;_zoom:1;}
+.sidebar .font-ico-fund {font-size:17px;}
+.sidebar .sidebar-a, .sidebar .sidebar-droped{display:block;font-size:16px;padding-left:12px;color:#666666;line-height:50px;height:50px;}
+.sidebar .sidebar-droped{position:relative;}
+.sidebar .sidebar-drop{display:none;font-size:14px;line-height:50px;}
+.sidebar .sidebar-drop-a {display:block;padding-left:12px;border-left:5px solid #EEE;color:#666666;}
+.sidebar .sidebar-droped .sidebar-arr, .sidebar .sidebar-droped .sidebar-arr-b{position:absolute;width:0;height:0;font-size:0;line-height:0}
+.sidebar .sidebar-droped .sidebar-arr{left:135px;top:50%;margin-top:-6px;border:6px dashed transparent;border-left:6px solid #D4D4D4;}
+.sidebar .sidebar-droped .sidebar-arr-b{left:-6px;top:-4px;border:4px dashed transparent;border-left:4px solid #F5F5F5;}
+.sidebar .sidebar-on .sidebar-droped{color:#363636;}
+.sidebar .sidebar-on .sidebar-drop{display:block;}
+.sidebar .sidebar-on .sidebar-a, .sidebar .sidebar-a:hover, .sidebar .sidebar-li .on, .sidebar .sidebar-drop-a:hover{border-left:5px solid #05B0FF;background-color:#fff;color:#05B0FF;}
+.sidebar .sidebar-on .sidebar-arr{left:134px;margin-top:-2px;border:6px dashed transparent;border-top:6px solid #D4D4D4;}
+.sidebar .sidebar-on .sidebar-arr-b{left:-4px;top:-6px;border:4px dashed transparent;border-top:4px solid #F5F5F5;}
+/*  content  */
+.content {float:right;width:830px;padding:0 10px 30px 40px;min-height:1000px;_height:1000px;background-color:#ffffff;font-size:16px;}
+.title-line{position:relative;border-bottom:1px solid #E8E8E8;font-weight:normal;margin-bottom:22px;}
+.title-line .title{float:left;height:58px;font-size:28px;line-height:58px;padding-top:13px;border-bottom:3px solid #05B0FF;margin-bottom:-1px;color:#363636;}
+.title-line .link{position:absolute;right:0;bottom:10px;}
+.title-line .subtitle{float:left;height:46px;font-size:20px;line-height:46px;padding-top:3px;border-bottom:3px solid #05B0FF;margin-bottom:-1px;color:#363636;}
+.content h3 {font-size:18px;color:#333;font-weight:normal;padding:22px 0 22px;}
+.content p {font-size:16px;line-height:24px;color:#666666;padding-bottom:6px;width:100%;word-wrap:break-word;}
+.content p img {display:block;margin:0 auto;}
+.content table {width:100%;font-size:12px;border-collapse:collapse;}
+.content table,.content table td {border: 1px solid #000;}
+.content table td {line-height:32px;}
+</style>
+</head>
+<body>
+<header>
+<div class="logo">
+<a href="http://<{:C("WEB_URL")}>"><img src="static/picture/developer_logo.png" alt="我的网站"class="img-responsive" />
+</a>
+</div>
+
+<div class="hotline"> </div>
+<div class="menu-icon"> <a href="tel://<{:C("WEB_TEL")}>" title="点击直拨"><span class="glyphicon glyphicon-earphone"></span></a> <span class="glyphicon glyphicon-th-large"></span> </div>
+</header>
+<div class="welcome"></div>
+<div class="quality1"><div class="box"><div class="caption"></div></div></div>
+
+<div class="container clearfix">
+<div class="sidebar">
+<ul class="sidebar-ul">
+
+<li class="sidebar-li">
+<a class="sidebar-droped" href="javascript:;" data-id="23">功能说明 <span class="sidebar-arr"><span class="sidebar-arr-b"></span></span></a>
+<div class="sidebar-drop"><!-- 选中给.sidebar-drop-a加class "on" -->
+<a class="sidebar-drop-a" href="/Index_developer.html">&nbsp;&nbsp;&nbsp;功能说明</a>
+</div>
+</li>
+
+<li class="sidebar-li ">
+<a class="sidebar-droped" href="javascript:;" data-id="26">支付流程图 <span class="sidebar-arr"><span class="sidebar-arr-b"></span></span></a>
+<div class="sidebar-drop"><!-- 选中给.sidebar-drop-a加class "on" -->
+<a class="sidebar-drop-a" href="/Index_developer2.html">&nbsp;&nbsp;&nbsp;支付流程图</a>
+</div>
+</li>
+
+<li class="sidebar-li ">
+<a class="sidebar-droped" href="javascript:;" data-id="30">网关接口规范 <span class="sidebar-arr"><span class="sidebar-arr-b"></span></span></a>
+<div class="sidebar-drop"><!-- 选中给.sidebar-drop-a加class "on" -->
+<a class="sidebar-drop-a" href="/Index_developer3.html">&nbsp;&nbsp;&nbsp;统一下单接口提交参数</a>
+<a class="sidebar-drop-a" href="/Index_developer4.html">&nbsp;&nbsp;&nbsp;充值状态回调/商户取货转向</a>
+</div>
+</li>
+
+<li class="sidebar-li ">
+<a class="sidebar-droped" href="javascript:;" data-id="9">附录 <span class="sidebar-arr"><span class="sidebar-arr-b"></span></span></a>
+<div class="sidebar-drop"><!-- 选中给.sidebar-drop-a加class "on" -->
+<a class="sidebar-drop-a" href="/Index_developer5.html">&nbsp;&nbsp;&nbsp;支付渠道类型表</a>
+<a class="sidebar-drop-a" href="/Index_developer6.html">&nbsp;&nbsp;&nbsp;错误代码表</a>
+</div>
+</li>
+
+
+<li class="sidebar-li ">
+<a class="sidebar-droped" href="javascript:;" data-id="26">Demo下载 <span class="sidebar-arr"><span class="sidebar-arr-b"></span></span></a>
+<div class="sidebar-drop"><!-- 选中给.sidebar-drop-a加class "on" -->
+<a class="sidebar-drop-a" href="/Index_developer7.html">&nbsp;&nbsp;&nbsp;Demo下载</a>
+</div>
+</li>
+
+</ul>
+</div>
+
+<div class="content" id="content">
+<h2 class="title-line clearfix"><span class="title">支付流程图</span></h2>
+<p class="MsoNormal">
+<p><img src="Public/developer/liucheng.png" /></p>
+</p>
+
+
+
+
+</div>
+</div>
+
+
+</body>
+</html>
+<script src="js/jquery-1.9.1.js"></script>
+<script>
+var nick = "{nick}";
+$(function(){
+$('.sidebar-li').on('click', 'a', function(e){
+$(this)
+.siblings('.sidebar-drop')
+.slideToggle('fast', function(){
+$(this).parent()
+.toggleClass('sidebar-on');
+})
+.parent()
+.siblings()
+.children('.sidebar-drop')
+.slideUp('fast', function(){
+$(this).parent().removeClass('sidebar-on');
+});
+});
+
+});
+
+</script>

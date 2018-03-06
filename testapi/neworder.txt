@@ -1,0 +1,168 @@
+[2018-02-10 16:19:07] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=20367820180210161906&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=57eea794d5a751e2bbe1304cb50b2b88 status= msg=
+
+[2018-02-10 16:21:21] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=61616620180210162121&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=16323ed7b4db38822adacf927f9e837d status= msg=
+
+[2018-02-10 22:27:18] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=64197320180210222718&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=70267f5d50b326844f326ec072d3ff4c status= msg=
+
+[2018-02-11 10:54:08] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=79963920180211105408&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=a318c115168a81244300845020751b68 status= msg=
+
+[2018-02-11 10:55:27] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=95015720180211105527&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=d2d6f6c45aa9ce9cdcae0b2ca7b0a582 status= msg=
+
+[2018-02-11 11:02:14] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=86045320180211110214&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=95e15c4e0cc4247360e4068674c9568e status= msg=
+
+[2018-02-11 11:16:05] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=94747920180211111605&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=1067c9d7615c467a6ecfb92f25cbde54 status= msg=
+
+[2018-02-11 11:18:43] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=14616220180211111843&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=c555b2780131379c607a53bc38116678 status= msg=
+
+[2018-02-11 11:24:17] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=28175420180211112417&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=b98d4e32782df24d1b01c68442e70fbc status= msg=
+
+[2018-02-11 11:25:43] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=45806620180211112543&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=66e640439a4c3684ae1e66ef2469cbb0 status= msg=
+
+[2018-02-11 11:34:37] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=97745220180211113437&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=8e51e688957a8e99f21cc559ebf9cf1b status= msg=
+
+[2018-02-11 11:38:57] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=97476620180211113857&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=700230ecdc2061a6652d3337b0bcbb1c status= msg=
+
+[2018-02-11 11:50:18] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=65843820180211115018&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.02&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=6d0bfe961dd641879a0d3cc98f18cee0 status= msg=
+
+[2018-02-11 11:53:53] 威富通支付宝扫码提交 params=P_UserId=10297&P_OrderId=18960820180211115353&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.02&P_ChannelId=10000&P_Subject=VIP服务&P_Quantity=1&P_Description=测试商品&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=3126906628c5c4741027a14fe1299f75 status= msg=
+
+[2018-02-14 00:45:06] 支付宝扫码提交 params=P_UserId=10297&P_OrderId=79958120180214004506&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=网络服务&P_Quantity=1&P_Description=网络服务收费&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=dee4bf841e3a8eab45f634bdbda41c8d status= msg=
+
+[2018-02-14 00:59:53] 支付宝扫码提交 params=P_UserId=10297&P_OrderId=42031720180214005953&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=网络服务&P_Quantity=1&P_Description=网络服务收费&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=548eacddb321b4e189b404729eaef5eb status= msg=
+
+[2018-02-14 01:01:09] 支付宝扫码提交 params=P_UserId=10297&P_OrderId=99651520180214010109&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=网络服务&P_Quantity=1&P_Description=网络服务收费&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=80569e442d93ad008aee17339fbe0200 status= msg=
+
+[2018-02-14 01:06:51] 支付宝扫码提交 params=P_UserId=10297&P_OrderId=51012420180214010651&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1&P_Quantity=1&P_Description=%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E6%94%B6%E8%B4%B9&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=53c4ef45784e9342e8dc4c29de1a0223 status= msg=
+
+[2018-02-17 17:17:07] 支付宝扫码提交 params=P_UserId=10297&P_OrderId=72429820180217171707&P_CardId=cardid&P_CardPass=cardpass&P_FaceValue=0.01&P_ChannelId=10000&P_Subject=%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1&P_Quantity=1&P_Description=%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E6%94%B6%E8%B4%B9&P_Notic=admin&P_Result_url=http://pay08.hzit.com/PayApi/Result_url.php&P_Notify_url=http://pay08.hzit.com/PayApi/Notify_Url.php&P_PostKey=d2c46f1be901b340b3b34d36ad815804 status= msg=
+
+[2018-02-18 17:20:45] 微信扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=weixin://wxpay/bizpayurl?pr=tqDbp84 msg= postkey=21e116f1f4fd6ced625908945c6a7535 验签成功 
+
+[2018-02-18 17:25:13] 支付宝扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax0427268xbalwoejkn0005 msg= postkey=1c36708bb113a426eb98cc36dce7d4ca 验签成功 
+
+[2018-02-19 00:04:31] 微信扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=weixin://wxpay/bizpayurl?pr=vTwIQRO msg= postkey=31d11ecd42ec15c9840611bdbd5c19e3 验签成功 
+
+[2018-02-19 00:05:31] 微信扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=weixin://wxpay/bizpayurl?pr=vTwIQRO msg= postkey=31d11ecd42ec15c9840611bdbd5c19e3 验签成功 
+
+[2018-02-19 16:04:08] 微信WAP扫码显示获取成功: code_img_url=https://statecheck.swiftpass.cn/pay/wappay?token_id=17a37072b392b593dd0a2af027e81fb6c msg= postkey=26dfd1c4dce7747c459c840736108f3e 验签成功 
+
+[2018-02-19 16:05:08] 微信WAP扫码显示获取成功: code_img_url=https://statecheck.swiftpass.cn/pay/wappay?token_id=17a37072b392b593dd0a2af027e81fb6c msg= postkey=26dfd1c4dce7747c459c840736108f3e 验签成功 
+
+[2018-02-19 16:17:08] 微信WAP扫码显示获取成功: code_img_url=https://statecheck.swiftpass.cn/pay/wappay?token_id=1e7f4267100b31e182d527c2603668ebb msg= postkey=66b5cf53f98aa31a178e3c8a8284a6a1 验签成功 
+
+[2018-02-19 16:18:08] 微信WAP扫码显示获取成功: code_img_url=https://statecheck.swiftpass.cn/pay/wappay?token_id=1e7f4267100b31e182d527c2603668ebb msg= postkey=66b5cf53f98aa31a178e3c8a8284a6a1 验签成功 
+
+[2018-02-19 17:02:03] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTI0YzUyNzk0YjRhZWI0YjQzMWZjN2JmNjczMTEwMmRiMyZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=9d9c792d9fae643f2946d1ef3931d4b7 验签成功 
+
+[2018-02-19 17:10:42] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTExODI2N2VlYzkzYmQwNzVkOTFjMTE2OTQ4MmJhOTc4ZSZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=4016b2d18b9c2cfdfef4142ac9f47243 验签成功 
+
+[2018-02-19 17:11:42] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTExODI2N2VlYzkzYmQwNzVkOTFjMTE2OTQ4MmJhOTc4ZSZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=4016b2d18b9c2cfdfef4142ac9f47243 验签成功 
+
+[2018-02-19 17:12:16] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTJmNzc0ZWUwMDM0NTg0Y2FjYWFhNTgwMjkxYTQwN2QxMyZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=ec304e6b07bc7693bf25fd3171ff53d1 验签成功 
+
+[2018-02-19 17:13:16] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTJmNzc0ZWUwMDM0NTg0Y2FjYWFhNTgwMjkxYTQwN2QxMyZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=ec304e6b07bc7693bf25fd3171ff53d1 验签成功 
+
+[2018-02-19 17:14:33] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTIwY2E0ZmZiZGUzYjk4NTgzNmNhMjI1NWM0NzE4N2ViMyZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=00b36cc11f4dd0e8082845c4b927f9c7 验签成功 
+
+[2018-02-19 17:16:05] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTEwYWM3M2ZmZDViYjc5Y2YwYzYwNmNiZDM0MDZlYTZiMiZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=0fded2992a9a010e34d389d72477e5d6 验签成功 
+
+[2018-02-19 17:17:05] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTEwYWM3M2ZmZDViYjc5Y2YwYzYwNmNiZDM0MDZlYTZiMiZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=0fded2992a9a010e34d389d72477e5d6 验签成功 
+
+[2018-02-19 17:22:10] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrMi5zd2lmdHBhc3MuY24vcGF5L3dhcHBheT90b2tlbl9pZD0zMmM1ZWZiMjUyZmIyMjZkYTc5MGNkMWNhMDEzOTY1ZmImc2VydmljZT1wYXkud2VpeGluLndhcHBheXYy msg= postkey=69d93b48f1045901f333450798166974 验签成功 
+
+[2018-02-19 17:27:24] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTJjMzY4NTVlMTI0ODFiMGI4OWZkNTQ3NDFmZGFkYjU2NiZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=0365a3557fecc4f784264a4569932145 验签成功 
+
+[2018-02-19 17:38:22] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTJhZjg2ZWU1ZjczNTdiZWFjMzNiMGVjZGZkMWJhZDlhMSZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=282df26b54d5c371d120445603f6c5cf 验签成功 
+
+[2018-02-19 17:39:22] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTJhZjg2ZWU1ZjczNTdiZWFjMzNiMGVjZGZkMWJhZDlhMSZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=282df26b54d5c371d120445603f6c5cf 验签成功 
+
+[2018-02-19 17:42:07] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTJhZjg2ZWU1ZjczNTdiZWFjMzNiMGVjZGZkMWJhZDlhMSZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=282df26b54d5c371d120445603f6c5cf 验签成功 
+
+[2018-02-19 17:44:36] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrMi5zd2lmdHBhc3MuY24vcGF5L3dhcHBheT90b2tlbl9pZD0zY2Y5MTNhYzExMzc1MmEwNjJlODA0NGUxYzk3MTM4NGImc2VydmljZT1wYXkud2VpeGluLndhcHBheXYy msg= postkey=c46d45748f2fb8d3dcee1090c66ab327 验签成功 
+
+[2018-02-19 17:45:36] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrMi5zd2lmdHBhc3MuY24vcGF5L3dhcHBheT90b2tlbl9pZD0zY2Y5MTNhYzExMzc1MmEwNjJlODA0NGUxYzk3MTM4NGImc2VydmljZT1wYXkud2VpeGluLndhcHBheXYy msg= postkey=c46d45748f2fb8d3dcee1090c66ab327 验签成功 
+
+[2018-02-19 17:48:27] 微信WAP2扫码显示获取失败: status=500 msg=Error Code: Order paid Error Message: 订单已支付 paymethod=微信WAP2 
+
+[2018-02-19 17:48:33] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrMi5zd2lmdHBhc3MuY24vcGF5L3dhcHBheT90b2tlbl9pZD0zY2Y5MTNhYzExMzc1MmEwNjJlODA0NGUxYzk3MTM4NGImc2VydmljZT1wYXkud2VpeGluLndhcHBheXYy msg= postkey=c46d45748f2fb8d3dcee1090c66ab327 验签成功 
+
+[2018-02-19 23:54:26] 扫码显示获取失败: status= msg= paymethod= 
+
+[2018-02-19 23:55:26] 扫码显示获取失败: status= msg= paymethod= 
+
+[2018-02-20 00:27:20] 扫码显示获取失败: status= msg= paymethod= 
+
+[2018-02-20 00:28:20] 扫码显示获取失败: status= msg= paymethod= 
+
+[2018-02-25 13:32:56] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrMi5zd2lmdHBhc3MuY24vcGF5L3dhcHBheT90b2tlbl9pZD0zYTUxNjIyYWY2ZjdhNzk3OTM0MDMwZDVjMDRiZWRkYzMmc2VydmljZT1wYXkud2VpeGluLndhcHBheXYy msg= postkey=64e3ef0deaa838c371875de89f308e60 验签成功 
+
+[2018-02-25 13:35:38] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTJiMGJjNGExMmQ3MDk3ZjdiMDk3ZGNiYTBiMjFiYThmZCZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=41b64f4d528e77ef0560313fb39966a9 验签成功 
+
+[2018-02-25 13:39:19] 微信扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=weixin://wxpay/bizpayurl?pr=ny0xRiD msg= postkey=0eed7ce149b3a93bc39282852ba4e39b 验签成功 
+
+[2018-02-25 13:39:41] 支付宝扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax07958qtchctwwv0li80c1 msg= postkey=bc8bde37e46b5551dd38c8b6a77d28f1 验签成功 
+
+[2018-02-25 13:41:41] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTI4ZGViMjU2MDY4MGU0OWRlZmM4ZDE2NDRjZTk0ODAwOCZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=cd465f97be1339ce6150cba0fcd6d85d 验签成功 
+
+[2018-02-25 13:41:51] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTFhOGY1NDgwZGQ2N2I3ODU2Zjc1YWNiYjFlM2NjMjc5NCZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=7e71d5f11dc55826b6a25b28a8e10324 验签成功 
+
+[2018-02-25 13:42:35] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTJjYTgxNTMwMmRhNmI2MDc5ODE4MDAzOGZiNWFmMTk1ZiZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=56b50d4ab4d4e909669bfe99633dce40 验签成功 
+
+[2018-02-25 13:43:16] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTE1ZmM5Yzc3OTk5M2YwZTZkNmVmNjBiMWRmNGNlNWE5MSZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=bc94ec87b275e8eee3a92aba20832d8f 验签成功 
+
+[2018-02-25 13:43:39] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTIxMzU1ZDM3NGJkNzMxYmY3YzI2NDQ3YmZhZjIwZDVjNiZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=635faf775e6dc2035d1750239d9b7ceb 验签成功 
+
+[2018-02-25 14:05:49] 支付宝扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax01288o6aczsyqcj1m60cf msg= postkey=6f2f6e2421f36522b13671d377e62eed 验签成功 
+
+[2018-02-25 14:05:55] 支付宝扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax01288o6aczsyqcj1m60cf msg= postkey=6f2f6e2421f36522b13671d377e62eed 验签成功 
+
+[2018-02-25 14:06:11] 支付宝扫码显示获取成功: code_img_url=https://pay2.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax00132zy71ajgyiolz804d msg= postkey=56295a33883a80f0425e60a5a9a0d211 验签成功 
+
+[2018-02-25 14:06:26] 支付宝扫码显示获取成功: code_img_url=https://pay2.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax00132zy71ajgyiolz804d msg= postkey=56295a33883a80f0425e60a5a9a0d211 验签成功 
+
+[2018-02-25 14:11:38] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTI0MmY5MTRmY2ZhMjZjNDdiMzJkZmRlOWZjZTNlN2Y5ZiZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=ed0be77c4c61c292ce54c4f77710a240 验签成功 
+
+[2018-02-25 14:12:38] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTI0MmY5MTRmY2ZhMjZjNDdiMzJkZmRlOWZjZTNlN2Y5ZiZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=ed0be77c4c61c292ce54c4f77710a240 验签成功 
+
+[2018-02-25 14:26:57] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTJmOWJmNGRhZjRhOWZjMjdiMTIxYjIwZTE5YmIxOWE2YSZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=ba0ad31bdcdd30dd8da7247cbdd8b6e4 验签成功 
+
+[2018-02-25 17:26:32] 扫码显示获取失败: status= msg= paymethod= 
+
+[2018-02-25 17:27:33] 扫码显示获取失败: status= msg= paymethod= 
+
+[2018-02-25 17:38:03] 扫码显示获取失败: status= msg= paymethod= 
+
+[2018-02-25 17:38:23] 扫码显示获取失败: status= msg= paymethod= 
+
+[2018-02-25 18:30:44] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTFlYzlmMzMwNzg5NzAyODIyNzQ2YWNlZDE5MWZlYjVmMSZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=e970554594c0b713bb989633c0a6276f 验签成功 
+
+[2018-02-25 19:35:40] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTJjZjQxMjM3NGE1Mjc5NDNkNzc4NmM0Mjk5NzM4NjBhYyZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=b058747b4c87829c881f4ba3643f3b62 验签成功 
+
+[2018-02-25 21:41:19] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTI1ZmU5YzdmMzU3MjA5N2ZjYTJkZGYxMzJiYzBmNmEyOCZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=a3c9964eed8dc1df2ad6f6880a076d03 验签成功 
+
+[2018-02-25 22:58:53] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTIwYWJkNGNhYzc2OTdiZmVmNGRlZTI0ZDZlNGM2MWM1MCZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=585b558a223a1d6ad5253fc6aab9ec0f 验签成功 
+
+[2018-02-25 22:58:54] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTJmZWU2ZWIwNjkzN2FkZjk0NDdkYmE2NTEzNmFmNzExNiZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=30224063fe88624ef1d0eceb2e8fb979 验签成功 
+
+[2018-02-25 22:59:53] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTIwYWJkNGNhYzc2OTdiZmVmNGRlZTI0ZDZlNGM2MWM1MCZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=585b558a223a1d6ad5253fc6aab9ec0f 验签成功 
+
+[2018-02-26 14:54:11] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTE1NWJlYmZlNjMzNTgwNTM0ZWU1ZTk3OGI5ZmM5NmNkNSZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=b820b128f5e56fa0d0a94a89333c2f02 验签成功 
+
+[2018-02-26 14:54:55] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTEzMjhlMzgyYTU5OGVkZDhlOTY5Yjc4N2ZjMTY2NGM3MyZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=ea8351c998ac50f1b827a61ebc76f767 验签成功 
+
+[2018-02-26 14:55:12] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTE1NWJlYmZlNjMzNTgwNTM0ZWU1ZTk3OGI5ZmM5NmNkNSZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=b820b128f5e56fa0d0a94a89333c2f02 验签成功 
+
+[2018-02-26 18:24:04] 微信WAP2扫码显示获取成功: code_img_url=aHR0cHM6Ly9zdGF0ZWNoZWNrLnN3aWZ0cGFzcy5jbi9wYXkvd2FwcGF5P3Rva2VuX2lkPTFhMmU3MTQ0MjUyZGUwNTc5ZDIzNGJhMDZmNGU0ZTc1MiZzZXJ2aWNlPXBheS53ZWl4aW4ud2FwcGF5djI= msg= postkey=ef99126a0e9d42e9ec9480bc66b63583 验签成功 
+
+[2018-02-27 11:33:46] 支付宝扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax02435uvpuq9sahlzr6095 msg= postkey=babeadbc11767febb99e12c0c21c8c0e 验签成功 
+
+[2018-02-27 11:33:52] 支付宝扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax02435uvpuq9sahlzr6095 msg= postkey=babeadbc11767febb99e12c0c21c8c0e 验签成功 
+
+[2018-02-27 23:33:37] 支付宝扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax08748lkgo60kwbt3m20de msg= postkey=1361e4ad303621187be217aa12c1ba4f 验签成功 
+
+[2018-02-27 23:54:14] 微信扫码显示获取成功: code_img_url=https://pay2.swiftpass.cn/pay/qrcode?uuid=weixin://wxpay/bizpayurl?pr=T0wyGef msg= postkey=ff7d2132352ee2cedff9b5e6867bb8af 验签成功 
+
+[2018-02-28 00:55:56] 支付宝扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax08262easrjpmiaewb60d7 msg= postkey=6488e4a0c3c3be213b3a4ec2f0dc86a5 验签成功 
+
+[2018-02-28 23:36:43] 支付宝扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=https://qr.alipay.com/bax08937lllseh6unydj8057 msg= postkey=d9fa594d795cf719d74105a78e64686b 验签成功 
+

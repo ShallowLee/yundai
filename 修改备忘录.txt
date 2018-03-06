@@ -1,0 +1,74 @@
+23:28 2017/10/15
+如果在手机端user.php查看订单详情页点击支付却不弹出ydf支付按钮的话，就在商城的\mobile\themesmobile\mo_paleng_moban\library\user_order_detail.lbi里增加ydf的选项判断：
+    <!--{if $iswei}-->
+        <!--{foreach from=$payment_list item=payment}-->
+            <!--{if $payment.pay_code eq "weixin" || $payment.pay_code eq "alipay" || $payment.pay_code eq "balance" || $payment.pay_code eq "cod" || $payment.pay_code eq "unionpay" || $payment.pay_code eq "ydf"}-->
+                <li>
+                  <input type="radio" name="pay_code" onchange="choose_payment(this.value)"  {if $order.pay_id eq $payment.pay_id}checked="true"{/if} class="f_checkbox_t"   value="{$payment.pay_code}"> {$payment.pay_name}
+                </li>
+            <!--{/if}-->
+        <!--{/foreach}-->
+    <!--{else}-->
+        <!--{foreach from=$payment_list item=payment}-->
+            <!--{if $payment.pay_code eq "alipay" || $payment.pay_code eq "balance" || $payment.pay_code eq "cod" || $payment.pay_code eq "unionpay" || $payment.pay_code eq "ydf"}-->
+              <li>
+                  <input type="radio" name="pay_code" onchange="choose_payment(this.value)" {if $order.pay_id eq $payment.pay_id}checked="checked"{/if} class="f_checkbox_t"   value="{$payment.pay_code}"> {$payment.pay_name}
+              </li>
+            <!--{/if}-->
+		<!-- {/foreach} -->
+	<!--{/if}-->
+
+12:42 2017/9/22
+修改后台右侧框架内容高度：
+D:\Codes\pay\Public\SjtAdminSjt\Style\default.css
+#contents #cnt div iframe {height:???px!important;height:100%;width:100%;}
+
+后台网银交易列表页，判断如果某个总金额在数据库里为空就显示为0（之前显示为空）
+D:\Codes\pay\Lib\Action\SjtAdminSjt\JiluAction.class.php
+例如当日总金额
+$daymoney = empty($Order->where("(typepay = 0 or typepay = 1 or typepay = 3) and Zt = 1 and DATEDIFF('".$datedate."',TradeDate) = 0")->sum("trademoney")) ? 0 : $daymoney;
+
+----------------------------------------------------------------------
+
+23:49 2017/9/13
+总后台：http://pay08.hzit.com/admin
+admin  adminadmin
+
+商户后台：http://pay08.hzit.com/Index_login.html
+ceshi@qq.com   123456
+
+提交地址：http://pay08.hzit.com/Payapi_Index_Pay.html
+
+商城用户名：palenggege   abc123
+
+----------------------------------------------------------------------
+
+商城移动端修改：
+除了两个语言文件外，还要修改\mobile\themesmobile\mo_paleng_moban\flow.dwt的1159（在{if $iswei}下面）和1169行，把unionpay改成ydf
+
+
+支付流程：
+
+商城里的\includes\modules\payment\ydf.php  function get_code($order, $payment) 生成支付按钮，发送请求到提交地址
+
+\pay\Lib\Action\Payapi\IndexAction.class.php  function Pay() 获取请求信息，调用function CompatibleApi()，判断如果是移动端，就显示\pay\Tpl\Payapi\Index\prepaytwo.html，如果不是，就显示\pay\Tpl\Payapi\Index\prepay.html
+
+选择一种支付方式后，重新提交到Payapi_Index_Pay.html，此时进入Sjt_Paytype=b的情况执行，调用\pay\Lib\Action\Payapi\AlipayAction.class.php里的Post()，调起最终支付界面
+
+支付成功，返回\pay\Lib\Action\Payapi\AlipayAction.class.php 里的function MerChantUrl()验签并记录保存（调用TongdaoManage($out_trade_no,0)），最后返回商城的通知地址：ydf.php里的response()
+
+之前从字面理解以为MerChantUrl是异步通知，后来才发现是function ReturnUrl()，两个名字貌似颠倒了，但在从支付平台跳转到商城过程中是对的
+
+------------------以上为支付宝通道时的情况-------------------------
+
+
+微信扫码支付（即微信官方native模式）在\pay\Lib\Action\Payapi\WxdemoAction.class.php
+
+微信原生支付（即微信官方jsapi模式）在后来新建的\pay\Lib\Action\Payapi\WxwapAction.class.php
+
+
+测试扫码的URL参数：
+http://pay08.hzit.com/Payapi_Alipay_MerChantUrl.html?buyer_email=881886%40gmail.com&buyer_id=2088002005443143&exterface=create_direct_pay_by_user&is_success=T&notify_id=RqPnCoPT3K9%252Fvwbh3Ih21yIIERC%252FfykWGfKIQX370lRC9IqapIEm7QPpmHN6Kmr%252FISzz&notify_time=2017-09-13+17%3A28%3A25&notify_type=trade_status_sync&out_trade_no=2017091372227176&payment_type=1&seller_email=yundai%40hzit.com&seller_id=2088511580474070&subject=支付宝在线支付&total_fee=0.02&trade_no=2017091321001004140242748545&trade_status=TRADE_SUCCESS&sign=90ed58d8987ed8aa3241a8750b4f7ce8&sign_type=MD5
+
+
+------------------以上为微信通道时的情况-------------------------

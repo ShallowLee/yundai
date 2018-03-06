@@ -1,0 +1,590 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" />
+<title>开发者平台-<{:C("WEB_NAME")}></title>
+<link href="static/css/bootstrap.min.css" rel="stylesheet" />
+<link href="static/css/index.min.css" rel="stylesheet" />
+<script type="text/javascript" src="Public/js/floatDiv.js"></script>
+<script type="text/javascript" src="Public/js/js.js"></script>
+<script src="static/js/jquery.min.js" type="text/javascript"></script>
+<script src="static/js/index.min.js" type="text/javascript"></script>
+<style type="text/css">
+body{background:url(static/images/wallpaper3.jpg) repeat-y left top; overflow: scroll;}
+.in-login{left:50%;margin-left:-160px;top:30%;}
+#doc {display:block;margin:0 auto;width:1200px;margin-top:200px;}
+/*  sidebar  */
+ul,li {list-style: none;}
+a,a:hover,a.active {text-decoration:none;}
+.container {width:1200px;margin:0 auto;margin-top:120px;}
+.sidebar{float:left;width:320px;padding-top:30px; background:#EEE;}
+.sidebar .sidebar-li{line-height:0;}
+.sidebar .font-ico {float:left;width:40px;margin-left:-40px;font-size:23px;text-align:center;line-height:50px;_zoom:1;}
+.sidebar .font-ico-fund {font-size:17px;}
+.sidebar .sidebar-a, .sidebar .sidebar-droped{display:block;font-size:16px;padding-left:12px;color:#666666;line-height:50px;height:50px;}
+.sidebar .sidebar-droped{position:relative;}
+.sidebar .sidebar-drop{display:none;font-size:14px;line-height:50px;}
+.sidebar .sidebar-drop-a {display:block;padding-left:12px;border-left:5px solid #EEE;color:#666666;}
+.sidebar .sidebar-droped .sidebar-arr, .sidebar .sidebar-droped .sidebar-arr-b{position:absolute;width:0;height:0;font-size:0;line-height:0}
+.sidebar .sidebar-droped .sidebar-arr{left:135px;top:50%;margin-top:-6px;border:6px dashed transparent;border-left:6px solid #D4D4D4;}
+.sidebar .sidebar-droped .sidebar-arr-b{left:-6px;top:-4px;border:4px dashed transparent;border-left:4px solid #F5F5F5;}
+.sidebar .sidebar-on .sidebar-droped{color:#363636;}
+.sidebar .sidebar-on .sidebar-drop{display:block;}
+.sidebar .sidebar-on .sidebar-a, .sidebar .sidebar-a:hover, .sidebar .sidebar-li .on, .sidebar .sidebar-drop-a:hover{border-left:5px solid #05B0FF;background-color:#fff;color:#05B0FF;}
+.sidebar .sidebar-on .sidebar-arr{left:134px;margin-top:-2px;border:6px dashed transparent;border-top:6px solid #D4D4D4;}
+.sidebar .sidebar-on .sidebar-arr-b{left:-4px;top:-6px;border:4px dashed transparent;border-top:4px solid #F5F5F5;}
+/*  content  */
+.content {float:right;width:830px;padding:0 10px 30px 40px;min-height:1000px;_height:1000px;background-color:#ffffff;font-size:16px;}
+.title-line{position:relative;border-bottom:1px solid #E8E8E8;font-weight:normal;margin-bottom:22px;}
+.title-line .title{float:left;height:58px;font-size:28px;line-height:58px;padding-top:13px;border-bottom:3px solid #05B0FF;margin-bottom:-1px;color:#363636;}
+.title-line .link{position:absolute;right:0;bottom:10px;}
+.title-line .subtitle{float:left;height:46px;font-size:20px;line-height:46px;padding-top:3px;border-bottom:3px solid #05B0FF;margin-bottom:-1px;color:#363636;}
+.content h3 {font-size:18px;color:#333;font-weight:normal;padding:22px 0 22px;}
+.content p {font-size:16px;line-height:24px;color:#666666;padding-bottom:6px;width:100%;word-wrap:break-word;}
+.content p img {display:block;margin:0 auto;}
+.content table {width:100%;font-size:12px;border-collapse:collapse;}
+.content table,.content table td {border: 1px solid #000;}
+.content table td {line-height:32px;}
+</style>
+</head>
+<body>
+<header>
+<div class="logo">
+<a href="http://<{:C("WEB_URL")}>"><img src="static/picture/developer_logo.png" alt="我的网站"class="img-responsive" />
+</a>
+</div>
+
+<div class="hotline"> </div>
+<div class="menu-icon"> <a href="tel://<{:C("WEB_TEL")}>" title="点击直拨"><span class="glyphicon glyphicon-earphone"></span></a> <span class="glyphicon glyphicon-th-large"></span> </div>
+</header>
+<div class="welcome"></div>
+<div class="quality1"><div class="box"><div class="caption"></div></div></div>
+
+<div class="container clearfix">
+<div class="sidebar">
+<ul class="sidebar-ul">
+
+<li class="sidebar-li">
+<a class="sidebar-droped" href="javascript:;" data-id="23">功能说明 <span class="sidebar-arr"><span class="sidebar-arr-b"></span></span></a>
+<div class="sidebar-drop"><!-- 选中给.sidebar-drop-a加class "on" -->
+<a class="sidebar-drop-a" href="/Index_developer.html">&nbsp;&nbsp;&nbsp;功能说明</a>
+</div>
+</li>
+
+<li class="sidebar-li ">
+<a class="sidebar-droped" href="javascript:;" data-id="26">支付流程图 <span class="sidebar-arr"><span class="sidebar-arr-b"></span></span></a>
+<div class="sidebar-drop"><!-- 选中给.sidebar-drop-a加class "on" -->
+<a class="sidebar-drop-a" href="/Index_developer2.html">&nbsp;&nbsp;&nbsp;支付流程图</a>
+</div>
+</li>
+
+<li class="sidebar-li ">
+<a class="sidebar-droped" href="javascript:;" data-id="30">网关接口规范 <span class="sidebar-arr"><span class="sidebar-arr-b"></span></span></a>
+<div class="sidebar-drop"><!-- 选中给.sidebar-drop-a加class "on" -->
+<a class="sidebar-drop-a" href="/Index_developer3.html">&nbsp;&nbsp;&nbsp;统一下单接口提交参数</a>
+<a class="sidebar-drop-a" href="/Index_developer4.html">&nbsp;&nbsp;&nbsp;充值状态回调/商户取货转向</a>
+</div>
+</li>
+
+<li class="sidebar-li ">
+<a class="sidebar-droped" href="javascript:;" data-id="9">附录 <span class="sidebar-arr"><span class="sidebar-arr-b"></span></span></a>
+<div class="sidebar-drop"><!-- 选中给.sidebar-drop-a加class "on" -->
+<a class="sidebar-drop-a" href="/Index_developer5.html">&nbsp;&nbsp;&nbsp;支付渠道类型表</a>
+<a class="sidebar-drop-a" href="/Index_developer6.html">&nbsp;&nbsp;&nbsp;错误代码表</a>
+</div>
+</li>
+
+
+<li class="sidebar-li ">
+<a class="sidebar-droped" href="javascript:;" data-id="26">Demo下载 <span class="sidebar-arr"><span class="sidebar-arr-b"></span></span></a>
+<div class="sidebar-drop"><!-- 选中给.sidebar-drop-a加class "on" -->
+<a class="sidebar-drop-a" href="/Index_developer7.html">&nbsp;&nbsp;&nbsp;Demo下载</a>
+</div>
+</li>
+
+</ul>
+</div>
+
+<div class="content" id="content">
+<h2 class="title-line clearfix"><span class="title">充值状态回调/商户取货转向 参数说明</span></h2>
+
+
+<p class="MsoNormal">
+<p>充值状态回调：用户通过本平台网关充值后，本平台接收到充值报告状态时，立即向您在提交网关参数中的P_Result_URL（充值状态回调地址），传递充值报告，您根据这个充值报告的状态，决定给是否给用户增加网站服务；</p>
+<p>商户取货转向：在提交到API接口的时候，如果正确传递了P_Notify_URL参数，那么在商户充值成功后点“到商户取货”时，就自动转向到P_Notify_URL所指的地址，同时跟上以下参数表的所有参数。</p>
+<p>以下是充值报告状态参数列表：</p>
+<table>
+    <tbody>
+        <tr class="firstRow">
+            <td width="103" style="border-width: 1px; border-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <strong><span>参数</span></strong>
+                </p>
+            </td>
+            <td width="138">
+                <p>
+                    <strong><span>参数说明</span></strong>
+                </p>
+            </td>
+            <td width="84">
+                <p>
+                    <strong><span>参与签名</span></strong>
+                </p>
+            </td>
+            <td width="144">
+                <p>
+                    <strong><span>类型</span></strong>
+                </p>
+            </td>
+            <td width="204">
+                <p>
+                    <strong><span>备注</span></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_UserId</span>
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>商户</span>ID
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>是</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>整型数字</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>必须</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>OrderId
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>商户订单号</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>是</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>字符串，最长</span>32<span>位</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>必须，在商户系统中保持唯一</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>CardId
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>卡类充值时的卡号</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>是</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>字符串，最长</span>20<span>位</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>卡类充值时必须，否则可为空</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>CardPass
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>卡类充值时的卡密</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>是</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>字符串，最长</span>20<span>位</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>卡类充值时必须，否则可为空</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>FaceValue
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>面值</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>是</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    float<span>，保留</span>2<span>位小数</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>必须</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>ChannelId
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>充值类型</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>是</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>整型数字</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>必须</span>(<span>具体参数详见附录</span>)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_PayMoney</span>
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>实际充值金额</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>否</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    float<span>，保留</span>2<span>位小数</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>必须</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>Subject
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>产品名称</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>否</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>字符串，最常</span>20<span>位</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>可为空</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>Price
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>产品价格</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>否</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    float<span>，保留</span>2<span>位小数</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>必须，可传</span>0
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>Quantity
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>产品数量</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>否</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>整型数字</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>必须</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>Description
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>产品描述</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>否</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>字符串，最常</span>100<span>位</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>可为空</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>Notic
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>用户附加信息</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>否</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>字符串，最常</span>50<span>位</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>可为空</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>ErrCode
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>错误代码</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>否</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>整型数字</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>必须</span>(<a href="file:///C:/Users/Administrator/Desktop/API%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3.htm#错误代码" style="color: purple"><span>错误代码详见附录</span></a>)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>ErrMsg
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>错误描述</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>否</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>字符串</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>可为空</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="103" style="border-right-width: 1px; border-right-color: windowtext; border-bottom-width: 1px; border-bottom-color: windowtext; border-left-width: 1px; border-left-color: windowtext; border-top-style: none; padding: 0px 7px;">
+                <p>
+                    <span style="color: rgb(51, 51, 51)">P_</span>PostKey
+                </p>
+            </td>
+            <td width="138" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>签名认证串</span>
+                </p>
+            </td>
+            <td width="84" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>－</span>
+                </p>
+            </td>
+            <td width="144" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px;">
+                <p>
+                    <span>字符串</span>
+                </p>
+            </td>
+            <td width="204" style="border-top-style: none; border-left-style: none; border-bottom-width: 1px; border-bottom-color: windowtext; border-right-width: 1px; border-right-color: windowtext; padding: 0px 7px; word-break: break-all;">
+                <p>
+                    <span>必须</span>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>说明：</p>
+<p>	签名认证postKey的生成：必须按照“参与签名”状态为“是”的参数按其顺序用“|”组合，最后加上用户密钥，然后进行32位的md5编码，比如：P_PostKey=md5_32(P_UserId| P_OrderId| P_CardId| P_CardPass| P_FaceValue| P_ChannelId|SalfStr)，SalfStr是您在设置信息的时候，填写的安全码。</p>
+<p>	ErrCode=0为充值成功</p>
+<p>	接收成功请在页面上显示errCode=0</p>
+
+</p>
+
+
+
+
+</div>
+</div>
+
+
+</body>
+</html>
+<script src="js/jquery-1.9.1.js"></script>
+<script>
+var nick = "{nick}";
+$(function(){
+$('.sidebar-li').on('click', 'a', function(e){
+$(this)
+.siblings('.sidebar-drop')
+.slideToggle('fast', function(){
+$(this).parent()
+.toggleClass('sidebar-on');
+})
+.parent()
+.siblings()
+.children('.sidebar-drop')
+.slideUp('fast', function(){
+$(this).parent().removeClass('sidebar-on');
+});
+});
+
+});
+
+</script>

@@ -1,0 +1,190 @@
+[2018-02-17 17:19:56] 扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=weixin://wxpay/bizpayurl?pr=ilHgLwB msg= noncestr=1948805901 验签成功 
+
+[2018-02-17 17:28:33] 扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=weixin://wxpay/bizpayurl?pr=ScdkiWg msg= noncestr=2283982143 验签成功 
+
+[2018-02-17 17:28:48] 异步通知初始化: out_trade_no=39504520180217172828 out_transaction_id=4200000060201802174010190938 total_fee=3 PostKey=d8964f95ce769928da10124bf12afc26 NewPostKey=d8964f95ce769928da10124bf12afc26
+
+[2018-02-17 17:28:48] 异步通知: out_trade_no=39504520180217172828 验签和支付成功 
+
+[2018-02-17 17:29:03] 异步通知初始化: out_trade_no=39504520180217172828 out_transaction_id=4200000060201802174010190938 total_fee=3 PostKey=d8964f95ce769928da10124bf12afc26 NewPostKey=d8964f95ce769928da10124bf12afc26
+
+[2018-02-17 17:29:03] 异步通知: out_trade_no=39504520180217172828 验签和支付成功 
+
+[2018-02-17 17:29:19] 异步通知初始化: out_trade_no=39504520180217172828 out_transaction_id=4200000060201802174010190938 total_fee=3 PostKey=d8964f95ce769928da10124bf12afc26 NewPostKey=d8964f95ce769928da10124bf12afc26
+
+[2018-02-17 17:29:19] 异步通知: out_trade_no=39504520180217172828 验签和支付成功 
+
+[2018-02-17 17:29:49] 异步通知初始化: out_trade_no=39504520180217172828 out_transaction_id=4200000060201802174010190938 total_fee=3 PostKey=d8964f95ce769928da10124bf12afc26 NewPostKey=d8964f95ce769928da10124bf12afc26
+
+[2018-02-17 17:29:49] 异步通知: out_trade_no=39504520180217172828 验签和支付成功 
+
+[2018-02-17 17:32:49] 异步通知初始化: out_trade_no=39504520180217172828 out_transaction_id=4200000060201802174010190938 total_fee=3 PostKey=d8964f95ce769928da10124bf12afc26 NewPostKey=d8964f95ce769928da10124bf12afc26
+
+[2018-02-17 17:32:49] 异步通知: out_trade_no=39504520180217172828 验签和支付成功 
+
+[2018-02-17 17:54:32] 异步通知初始化: out_trade_no=31647320180217171950 out_transaction_id=4200000055201802174120091135 total_fee=1 PostKey=85914652a6e0e357968a728643c7a622 NewPostKey=85914652a6e0e357968a728643c7a622
+
+[2018-02-17 17:54:32] 异步通知: out_trade_no=31647320180217171950 验签和支付成功 
+
+[2018-02-17 18:02:49] 异步通知初始化: out_trade_no=39504520180217172828 out_transaction_id=4200000060201802174010190938 total_fee=3 PostKey=d8964f95ce769928da10124bf12afc26 NewPostKey=d8964f95ce769928da10124bf12afc26
+
+[2018-02-17 18:02:49] 异步通知: out_trade_no=39504520180217172828 验签和支付成功 
+
+[2018-02-17 18:19:21] 扫码显示获取成功: code_img_url=https://pay.swiftpass.cn/pay/qrcode?uuid=weixin://wxpay/bizpayurl?pr=YKazZYd msg= noncestr=2281542686 验签成功 
+
+[2018-02-17 18:24:33] 异步通知初始化: out_trade_no=31647320180217171950 out_transaction_id=4200000055201802174120091135 total_fee=1 PostKey=85914652a6e0e357968a728643c7a622 NewPostKey=85914652a6e0e357968a728643c7a622
+
+[2018-02-17 18:24:33] 异步通知: out_trade_no=31647320180217171950 验签和支付成功 
+
+[2018-02-17 18:32:49] 异步通知初始化: out_trade_no=39504520180217172828 out_transaction_id=4200000060201802174010190938 total_fee=3 PostKey=d8964f95ce769928da10124bf12afc26 NewPostKey=d8964f95ce769928da10124bf12afc26
+
+[2018-02-17 18:32:49] 异步通知: out_trade_no=39504520180217172828 验签和支付成功 
+
+[2018-02-17 18:54:33] 异步通知初始化: out_trade_no=31647320180217171950 out_transaction_id=4200000055201802174120091135 total_fee=1 PostKey=85914652a6e0e357968a728643c7a622 NewPostKey=85914652a6e0e357968a728643c7a622
+
+[2018-02-17 18:54:33] 异步通知: out_trade_no=31647320180217171950 验签和支付成功 
+
+[2018-02-17 19:02:49] 异步通知初始化: out_trade_no=39504520180217172828 out_transaction_id=4200000060201802174010190938 total_fee=3 PostKey=d8964f95ce769928da10124bf12afc26 NewPostKey=d8964f95ce769928da10124bf12afc26
+
+[2018-02-17 19:02:49] 异步通知: out_trade_no=39504520180217172828 验签和支付成功 
+
+[2018-02-17 19:24:33] 异步通知初始化: out_trade_no=31647320180217171950 out_transaction_id=4200000055201802174120091135 total_fee=1 PostKey=85914652a6e0e357968a728643c7a622 NewPostKey=85914652a6e0e357968a728643c7a622
+
+[2018-02-17 19:24:33] 异步通知: out_trade_no=31647320180217171950 验签和支付成功 
+
+[2018-02-17 19:32:49] 异步通知初始化: out_trade_no=39504520180217172828 out_transaction_id=4200000060201802174010190938 total_fee=3 PostKey=d8964f95ce769928da10124bf12afc26 NewPostKey=d8964f95ce769928da10124bf12afc26
+
+[2018-02-17 19:32:49] 异步通知: out_trade_no=39504520180217172828 验签和支付成功 
+
+{"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"51323320180217195833","p3_Amt":"0.01","p4_Cur":"CNY","p5_Pid":"\u7f51\u7edc\u670d\u52a1","p6_Pcat":"10086","p7_Pdesc":"\u7f51\u7edc\u670d\u52a1\u6536\u8d39","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/Result_url.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"\u7f51\u7edc\u670d\u52a1|cardid|\u7f51\u7edc\u670d\u52a1\u6536\u8d39|admin","hmac":"782cd7a37734eac1dcb9fe0b1968d06c","tjurl":"","total":"51323320180217195833","PayBank":"24","typego":"pc","__hash__":"10b92c529d94b42d6693412360d8ce74_4398736de19d373a1397a31f19f99106","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+
+[2018-02-17 20:24:34] 异步通知初始化: out_trade_no=31647320180217171950 out_transaction_id=4200000055201802174120091135 total_fee=1 PostKey=85914652a6e0e357968a728643c7a622 NewPostKey=85914652a6e0e357968a728643c7a622
+
+[2018-02-17 20:24:34] 异步通知: out_trade_no=31647320180217171950 验签和支付成功 
+
+[2018-02-17 20:32:50] 异步通知初始化: out_trade_no=39504520180217172828 out_transaction_id=4200000060201802174010190938 total_fee=3 PostKey=d8964f95ce769928da10124bf12afc26 NewPostKey=d8964f95ce769928da10124bf12afc26
+
+[2018-02-17 20:32:50] 异步通知: out_trade_no=39504520180217172828 验签和支付成功 
+
+[2018-02-18 13:48:33] 异步通知初始化: out_trade_no=62585720180218134809 out_transaction_id=4200000061201802184387178866 total_fee=1 PostKey=bebfc7972ebde2403b05cea6f089baee NewPostKey=bebfc7972ebde2403b05cea6f089baee
+
+[2018-02-18 13:48:33] 异步通知: out_trade_no=62585720180218134809 验签和支付成功 
+
+[2018-02-18 13:48:49] 异步通知初始化: out_trade_no=62585720180218134809 out_transaction_id=4200000061201802184387178866 total_fee=1 PostKey=bebfc7972ebde2403b05cea6f089baee NewPostKey=bebfc7972ebde2403b05cea6f089baee
+
+[2018-02-18 13:48:49] 异步通知: out_trade_no=62585720180218134809 验签和支付成功 
+
+[2018-02-18 13:49:04] 异步通知初始化: out_trade_no=62585720180218134809 out_transaction_id=4200000061201802184387178866 total_fee=1 PostKey=bebfc7972ebde2403b05cea6f089baee NewPostKey=bebfc7972ebde2403b05cea6f089baee
+
+[2018-02-18 13:49:04] 异步通知: out_trade_no=62585720180218134809 验签和支付成功 
+
+[2018-02-18 13:49:34] 异步通知初始化: out_trade_no=62585720180218134809 out_transaction_id=4200000061201802184387178866 total_fee=1 PostKey=bebfc7972ebde2403b05cea6f089baee NewPostKey=bebfc7972ebde2403b05cea6f089baee
+
+[2018-02-18 13:49:34] 异步通知: out_trade_no=62585720180218134809 验签和支付成功 
+
+[2018-02-18 13:52:53] 异步通知初始化: out_trade_no=62585720180218134809 out_transaction_id=4200000061201802184387178866 total_fee=1 PostKey=bebfc7972ebde2403b05cea6f089baee NewPostKey=bebfc7972ebde2403b05cea6f089baee
+
+[2018-02-18 13:52:53] 异步通知: out_trade_no=62585720180218134809 验签和支付成功 
+
+[2018-02-18 14:22:53] 异步通知初始化: out_trade_no=62585720180218134809 out_transaction_id=4200000061201802184387178866 total_fee=1 PostKey=bebfc7972ebde2403b05cea6f089baee NewPostKey=bebfc7972ebde2403b05cea6f089baee
+
+[2018-02-18 14:22:53] 异步通知: out_trade_no=62585720180218134809 验签和支付成功 
+
+[2018-02-18 14:54:53] 异步通知初始化: out_trade_no=62585720180218134809 out_transaction_id=4200000061201802184387178866 total_fee=1 PostKey=bebfc7972ebde2403b05cea6f089baee NewPostKey=bebfc7972ebde2403b05cea6f089baee
+
+[2018-02-18 14:54:53] 异步通知: out_trade_no=62585720180218134809 验签和支付成功 
+
+[2018-02-18 15:26:54] 异步通知初始化: out_trade_no=62585720180218134809 out_transaction_id=4200000061201802184387178866 total_fee=1 PostKey=bebfc7972ebde2403b05cea6f089baee NewPostKey=bebfc7972ebde2403b05cea6f089baee
+
+[2018-02-18 15:26:54] 异步通知: out_trade_no=62585720180218134809 验签和支付成功 
+
+[2018-02-18 15:56:54] 异步通知初始化: out_trade_no=62585720180218134809 out_transaction_id=4200000061201802184387178866 total_fee=1 PostKey=bebfc7972ebde2403b05cea6f089baee NewPostKey=bebfc7972ebde2403b05cea6f089baee
+
+[2018-02-18 15:56:54] 异步通知: out_trade_no=62585720180218134809 验签和支付成功 
+
+[2018-02-18 16:56:54] 异步通知初始化: out_trade_no=62585720180218134809 out_transaction_id=4200000061201802184387178866 total_fee=1 PostKey=bebfc7972ebde2403b05cea6f089baee NewPostKey=bebfc7972ebde2403b05cea6f089baee
+
+[2018-02-18 16:56:54] 异步通知: out_trade_no=62585720180218134809 验签和支付成功 
+
+[2018-02-18 17:21:11] 异步通知初始化: out_trade_no=87137920180218172036 out_transaction_id=4200000076201802184571034388 total_fee=3 PostKey=ee66cd0ef456b21469a35a63c0d2b8cf NewPostKey=ee66cd0ef456b21469a35a63c0d2b8cf
+
+[2018-02-18 17:21:11] 异步通知: out_trade_no=87137920180218172036 验签和支付成功 
+
+[2018-02-18 17:21:26] 异步通知初始化: out_trade_no=87137920180218172036 out_transaction_id=4200000076201802184571034388 total_fee=3 PostKey=ee66cd0ef456b21469a35a63c0d2b8cf NewPostKey=ee66cd0ef456b21469a35a63c0d2b8cf
+
+[2018-02-18 17:21:26] 异步通知: out_trade_no=87137920180218172036 验签和支付成功 
+
+[2018-02-18 17:21:41] 异步通知初始化: out_trade_no=87137920180218172036 out_transaction_id=4200000076201802184571034388 total_fee=3 PostKey=ee66cd0ef456b21469a35a63c0d2b8cf NewPostKey=ee66cd0ef456b21469a35a63c0d2b8cf
+
+[2018-02-18 17:21:41] 异步通知: out_trade_no=87137920180218172036 验签和支付成功 
+
+[2018-02-18 17:22:12] 异步通知初始化: out_trade_no=87137920180218172036 out_transaction_id=4200000076201802184571034388 total_fee=3 PostKey=ee66cd0ef456b21469a35a63c0d2b8cf NewPostKey=ee66cd0ef456b21469a35a63c0d2b8cf
+
+[2018-02-18 17:22:12] 异步通知: out_trade_no=87137920180218172036 验签和支付成功 
+
+[2018-02-18 17:25:12] 异步通知初始化: out_trade_no=87137920180218172036 out_transaction_id=4200000076201802184571034388 total_fee=3 PostKey=ee66cd0ef456b21469a35a63c0d2b8cf NewPostKey=ee66cd0ef456b21469a35a63c0d2b8cf
+
+[2018-02-18 17:25:12] 异步通知: out_trade_no=87137920180218172036 验签和支付成功 
+
+[2018-02-18 17:55:12] 异步通知初始化: out_trade_no=87137920180218172036 out_transaction_id=4200000076201802184571034388 total_fee=3 PostKey=ee66cd0ef456b21469a35a63c0d2b8cf NewPostKey=ee66cd0ef456b21469a35a63c0d2b8cf
+
+[2018-02-18 17:55:12] 异步通知: out_trade_no=87137920180218172036 验签和支付成功 
+
+[2018-02-18 18:25:13] 异步通知初始化: out_trade_no=87137920180218172036 out_transaction_id=4200000076201802184571034388 total_fee=3 PostKey=ee66cd0ef456b21469a35a63c0d2b8cf NewPostKey=ee66cd0ef456b21469a35a63c0d2b8cf
+
+[2018-02-18 18:25:13] 异步通知: out_trade_no=87137920180218172036 验签和支付成功 
+
+[2018-02-18 18:55:14] 异步通知初始化: out_trade_no=87137920180218172036 out_transaction_id=4200000076201802184571034388 total_fee=3 PostKey=ee66cd0ef456b21469a35a63c0d2b8cf NewPostKey=ee66cd0ef456b21469a35a63c0d2b8cf
+
+[2018-02-18 18:55:14] 异步通知: out_trade_no=87137920180218172036 验签和支付成功 
+
+[2018-02-18 19:25:14] 异步通知初始化: out_trade_no=87137920180218172036 out_transaction_id=4200000076201802184571034388 total_fee=3 PostKey=ee66cd0ef456b21469a35a63c0d2b8cf NewPostKey=ee66cd0ef456b21469a35a63c0d2b8cf
+
+[2018-02-18 19:25:14] 异步通知: out_trade_no=87137920180218172036 验签和支付成功 
+
+[2018-02-18 20:25:14] 异步通知初始化: out_trade_no=87137920180218172036 out_transaction_id=4200000076201802184571034388 total_fee=3 PostKey=ee66cd0ef456b21469a35a63c0d2b8cf NewPostKey=ee66cd0ef456b21469a35a63c0d2b8cf
+
+[2018-02-18 20:25:14] 异步通知: out_trade_no=87137920180218172036 验签和支付成功 
+
+[2018-02-25 13:39:29] 威富通微信扫码 ReturnUrl: {"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"43813220180225133912","p3_Amt":"0.03","p4_Cur":"CNY","p5_Pid":"\u7f51\u7edc\u670d\u52a1","p6_Pcat":"10086","p7_Pdesc":"user123","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/resulturl.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"\u7f51\u7edc\u670d\u52a1||user123|","hmac":"aae71ba7f25d988f0ea36d7c9f756ecb","tjurl":"","PostKey":"69b592ee26eb5e092f80f6f1c21720d5","total":"43813220180225133912","PayBank":"24","typego":"pc","__hash__":"10b92c529d94b42d6693412360d8ce74_c7ec2eb134cf5f26e83d24059974224d","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+
+[2018-02-25 14:06:01] 威富通微信扫码 ReturnUrl: {"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"16279320180225140545","p3_Amt":"0.03","p4_Cur":"CNY","p5_Pid":"\u7f51\u7edc\u670d\u52a1","p6_Pcat":"10086","p7_Pdesc":"user123","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/resulturl.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"\u7f51\u7edc\u670d\u52a1||user123|","hmac":"62bf73279b3d8f8701a79f6c22640158","tjurl":"","PostKey":"47ebf4c30cecebe89a52ee212b1b255a","total":"16279320180225140545","PayBank":"24","typego":"pc","__hash__":"10b92c529d94b42d6693412360d8ce74_6922d959f14568aa10d33beccf549089","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+
+[2018-02-27 11:33:58] 威富通微信扫码 ReturnUrl: {"p0_Cmd":"Buy","p1_MerId":"10297","p2_Order":"76263720180227113343","p3_Amt":"0.03","p4_Cur":"CNY","p5_Pid":"\u7f51\u7edc\u670d\u52a1","p6_Pcat":"10086","p7_Pdesc":"user123","p8_Url":"http:\/\/pay08.hzit.com\/PayApi\/resulturl.php","p9_SAF":"0","pa_MP":"0","pd_FrpId":"zsyh","pr_NeedResponse":"http:\/\/pay08.hzit.com\/PayApi\/Notify_Url.php","Sjt_Paytype":"b","fhlx":"huaqi","Sjt_UserName":"\u7f51\u7edc\u670d\u52a1||user123|","hmac":"2c387685dda2fff532eb1ff014e6497a","tjurl":"","PostKey":"c44066a27f0edde9cb77292f811a56bc","total":"76263720180227113343","PayBank":"24","typego":"pc","__hash__":"10b92c529d94b42d6693412360d8ce74_7912e8047fc30f5d9f06da552676952f","\/Payapi_Index_Pay_html":"","_URL_":["Payapi","Index","Pay"]}
+
+[2018-02-27 23:53:29] 异步通知初始化: out_trade_no=20180227151974677919449 out_transaction_id=4200000080201802279594930812 total_fee=100 PostKey=e78d9516e35a5895ffd45b1d6d8ba9de NewPostKey=e78d9516e35a5895ffd45b1d6d8ba9de
+
+[2018-02-27 23:53:29] 异步通知: out_trade_no=20180227151974677919449 验签和支付成功 
+
+[2018-02-28 11:08:54] 异步通知初始化: out_trade_no=20180228151978730253513 out_transaction_id=4200000076201802289679472469 total_fee=100 PostKey=4f860df971b124b83ec2c43f5788090b NewPostKey=4f860df971b124b83ec2c43f5788090b
+
+[2018-02-28 11:08:54] 异步通知: out_trade_no=20180228151978730253513 验签和支付成功 
+
+[2018-03-01 20:31:07] 异步通知初始化: out_trade_no=20180301151990742508607 out_transaction_id=4200000059201803010701800756 total_fee=400 PostKey=0c4361910262765f71b6221b7b567694 NewPostKey=0c4361910262765f71b6221b7b567694
+
+[2018-03-01 20:31:07] 异步通知: out_trade_no=20180301151990742508607 验签和支付成功 
+
+[2018-03-01 20:34:34] 异步通知初始化: out_trade_no=20180301151990764145409 out_transaction_id=4200000064201803010714308664 total_fee=400 PostKey=dfa3520e685d4988240f49ff36867b0e NewPostKey=dfa3520e685d4988240f49ff36867b0e
+
+[2018-03-01 20:34:34] 异步通知: out_trade_no=20180301151990764145409 验签和支付成功 
+
+[2018-03-01 22:21:48] 异步通知初始化: out_trade_no=20180301151991406572474 out_transaction_id=4200000067201803010822787963 total_fee=1000 PostKey=e12c7a9806ef9384579e20ebb2c792b5 NewPostKey=e12c7a9806ef9384579e20ebb2c792b5
+
+[2018-03-01 22:21:48] 异步通知: out_trade_no=20180301151991406572474 验签和支付成功 
+
+[2018-03-02 09:32:59] 异步通知初始化: out_trade_no=20180302151995434158758 out_transaction_id=4200000079201803020984776031 total_fee=1000 PostKey=73d0a61e0dd3d34e4eeedc48d5571cbe NewPostKey=73d0a61e0dd3d34e4eeedc48d5571cbe
+
+[2018-03-02 09:32:59] 异步通知: out_trade_no=20180302151995434158758 验签和支付成功 
+
+[2018-03-02 15:47:18] 异步通知初始化: out_trade_no=20180302151997681723917 out_transaction_id=4200000051201803021272291575 total_fee=900 PostKey=92e1202cbfc8190b1bc52ad49c01c60e NewPostKey=92e1202cbfc8190b1bc52ad49c01c60e
+
+[2018-03-02 15:47:18] 异步通知: out_trade_no=20180302151997681723917 验签和支付成功 
+
+[2018-03-02 23:45:40] 异步通知初始化: out_trade_no=20180302152000549072925 out_transaction_id=4200000051201803021525373201 total_fee=500 PostKey=a9556d1956545f8c84b4dfcbaec67bb6 NewPostKey=a9556d1956545f8c84b4dfcbaec67bb6
+
+[2018-03-02 23:45:40] 异步通知: out_trade_no=20180302152000549072925 验签和支付成功 
+
+[2018-03-03 10:21:18] 异步通知初始化: out_trade_no=20180303152004364556062 out_transaction_id=4200000052201803031617680522 total_fee=600 PostKey=a540a43d80e0f0e40ffda72b03db1247 NewPostKey=a540a43d80e0f0e40ffda72b03db1247
+
+[2018-03-03 10:21:18] 异步通知: out_trade_no=20180303152004364556062 验签和支付成功 
+
