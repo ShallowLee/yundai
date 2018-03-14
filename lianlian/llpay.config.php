@@ -53,10 +53,12 @@ $llpay_config['input_charset'] = strtolower('utf-8');
 
 //访问模式,根据自己的服务器是否支持ssl访问，若支持请选择https；若不支持请选择http
 $llpay_config['transport'] = 'http';
+$llpay_config['risk_item'] = '{\"frms_ware_category\":\"2009\",\"user_info_mercht_userno\":\"123456\",\"user_info_dt_register\":\"20141015165530\",\"user_info_full_name\":\"张三\",\"user_info_id_no\":\"3306821990012121221\",\"user_info_identify_type\":\"1\",\"user_info_identify_state\":\"1\"}
+';
+$gateWary="http://yundai.itcitylife.com/Payapi_Llpay_Pay.html";
 
 
-
-
+$notify="http://yundai.itcitylife.com/Payapi_Llpay_Notify.html";
 
 
 //$llpay_config['oid_partner'] = '201710120001012537';

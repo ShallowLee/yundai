@@ -58,19 +58,20 @@ class ShangHuAction extends Action{
             $wherestr = $wherestr." and 1=1";
         }
         
-        $Listuser = M('Listuser'); 
+        $Listuser = M('Listuser');
         import("ORG.Util.Page");       //导入分页类
-        $count = $Listuser->where($wherestr)->count();    //计算总数 
-        $p = new Page($count, 20); 
+        $count = $Listuser->where($wherestr)->count();    //计算总数
+        $p = new Page($count, 20);
 
-        $list = $Listuser->where($wherestr)->limit($p->firstRow . ',' . $p->listRows)->order('Shh desc')->select(); 
-        //$p->firstRow 当前页开始记录的下标，$p->listRows 每页显示记录数 
-        //一般定义分页样式 通过分页对象的setConfig定义其config属性； 
-        /* 
+        $list = $Listuser->where($wherestr)->limit($p->firstRow . ',' . $p->listRows)->order('Shh desc')->select();
+        //$p->firstRow 当前页开始记录的下标，$p->listRows 每页显示记录数
+        //一般定义分页样式 通过分页对象的setConfig定义其config属性；
+        /*
           默认值为$config = array('header'=>'条记录','prev'=>'上一页','next'=>'下一页','first'=>'第一页','last'=>'最后一页', 
           'theme'=>' %totalRow% %header% %nowPage%/%totalPage% 页 %upPage% %downPage% %first%  %prePage%  %linkPage%  %nextPage% %end%'); 
           修改显示的元素的话设置theme就行了，可对其元素加class 
-         */ 
+         */
+
         $p->setConfig('header', '个商户'); 
        // $p->setConfig('prev', "<"); 
        // $p->setConfig('next', '>'); 
@@ -88,7 +89,7 @@ class ShangHuAction extends Action{
         $this->assign("list", $list); //数据循环变量 
 		$this->display();
 	}
-      
+      //审核展现
 	public function ShowShenhe(){
           $UserID = $this->_get("UserID");
           $Userapiinformation = M("Userapiinformation");

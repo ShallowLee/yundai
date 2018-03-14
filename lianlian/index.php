@@ -6,6 +6,10 @@
  * 说明：
  * 以下代码只是为了方便商户测试而提供的样例代码，商户可以根据自己网站的需要，按照技术文档编写,并非一定要使用该代码。
  */
+
+//var_dump($_SERVER);
+//echo "00000<br><br><br>";
+//print_r($_SERVER);
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
@@ -189,7 +193,7 @@ ul,ol{
                       <dt>交易金额：</dt>
                     <dd>
                         <span class="null-star">*</span>
-                        <input size="30" name="money_order" value="0.1"/>
+                        <input size="30" name="money_order" value="0.01"/>
                         <span>必填
 </span>
                     </dd>
@@ -197,6 +201,28 @@ ul,ol{
                     <dd>
                         <span class="null-star">*</span>
                         <input size="30" name="name_goods" value="羽毛球"/>
+                        <span>
+</span>
+                    </dd>
+
+                    <dt>商户密匙：</dt>
+                    <dd>
+                        <span class="null-star">*</span>
+                        <input size="30" name="activate" value="7c433588c789b89a5ebf83c50b10ab91fc0978dcfbf542847d69b87fee4a5ca8"/>
+                        <span>
+</span>
+                    </dd>
+                    <dt>通道：</dt>
+                    <dd>
+                        <span class="null-star">*</span>
+                        <input size="30" name="apiname" value="llpay"/>
+                        <span>
+</span>
+                    </dd>
+                    <dt>返回地址：</dt>
+                    <dd>
+                        <span class="null-star">*</span>
+                        <input size="30" name="return_url" value=""/>
                         <span>
 </span>
                     </dd>
@@ -238,13 +264,13 @@ ul,ol{
 </span>
                     </dd>
                     
-                       <dt>风险控制参数：</dt>
-                    <dd>
-                        <span class="null-star">*</span>
-                        <textarea rows="5" cols="60"  size="30" name="risk_item">{\"frms_ware_category\":\"2009\",\"user_info_mercht_userno\":\"123456\",\"user_info_dt_register\":\"20141015165530\",\"user_info_full_name\":\"张三\",\"user_info_id_no\":\"3306821990012121221\",\"user_info_identify_type\":\"1\",\"user_info_identify_state\":\"1\"}</textarea>
-                        <span>php5.6 以上 风控参数要加斜杠转义符{\"frms_ware_category\":\"2009\"...这种格式
-</span>
-                    </dd>
+<!--                       <dt>风险控制参数：</dt>-->
+<!--                    <dd>-->
+<!--                        <span class="null-star">*</span>-->
+<!--                        <textarea rows="5" cols="60"  size="30" name="risk_item">{\"frms_ware_category\":\"2009\",\"user_info_mercht_userno\":\"123456\",\"user_info_dt_register\":\"20141015165530\",\"user_info_full_name\":\"张三\",\"user_info_id_no\":\"3306821990012121221\",\"user_info_identify_type\":\"1\",\"user_info_identify_state\":\"1\"}</textarea>-->
+<!--                        <span>php5.6 以上 风控参数要加斜杠转义符{\"frms_ware_category\":\"2009\"...这种格式-->
+<!--</span>-->
+<!--                    </dd>-->
                     <dt>订单有效时间：</dt>
                     <dd>
                         <span class="null-star">*</span>
@@ -262,6 +288,7 @@ ul,ol{
                 </dl>
             </div>
 		</form>
+
         <div id="foot">
 			<ul class="foot-ul">
 				<li><font class="note-help">如果您点击“确认”按钮，即表示您同意该次的执行操作。 </font></li>

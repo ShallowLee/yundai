@@ -20,6 +20,7 @@ class LLpaySubmit {
 	 *连连认证支付网关地址
 	 *
 	 */
+
 	var $llpay_gateway_new = 'https://wap.lianlianpay.com/authpay.htm';
 
 	function __construct($llpay_config) {
